@@ -2,7 +2,7 @@
 
 `CURSO` 
 
-`DISCIPLINA` 2
+`DISCIPLINA`
 
 `SEMESTRE`
 
