@@ -1,6 +1,6 @@
 # EDUCAÇÃO FINANCEIRA
 
-`CURSO` 
+`CURSO` gabriel
 
 `DISCIPLINA`
 
