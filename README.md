@@ -70,6 +70,9 @@ Como objetivos específicos, pode se ressaltar:
 
 Figura 1- proporção de famílias endividas 
 
+![Figura 1- proporção de famílias endividas primeira]([http://lmsotfy.com/so.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/Figura%201-%20propor%C3%A7%C3%A3o%20de%20fam%C3%ADlias%20endividas.PNG))
+
+<img src="/pmv-ads-2023-1-e1-proj-web-t7-rich/Figura 1- proporção de famílias endividas.PNG" alt="Figura 1- proporção de famílias endividas "/>
  
 Fonte: Peic/CNC 
 
