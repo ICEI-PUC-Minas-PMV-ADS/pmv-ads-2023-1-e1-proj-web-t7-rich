@@ -134,7 +134,287 @@ Fonte: Valor investe (2022)
 
 ## Especificação do Projeto
 
+&nbsp;&nbsp; A equipe consolidou uma definição precisa dos pontos problemáticos e questões mais importantes a serem abordadas neste projeto. Houve a participação de voluntários por meio de uma entrevista que teve como objetivo coletar informações sobre suas respectivas situações financeiras. As informações obtidas foram utilizadas para criar histórias de usuários e personas descritas abaixo.  
 
+### Personas 
+
+&nbsp;&nbsp; Durante o processo de entendimento do problema, foram analisadas pessoas com diferentes estilos de vida, sendo apresentadas a seguir: 
+
+
+<div align="center">
+	
+![Manoel Gomes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep1/ManoelGomes.PNG)
+	
+</div>
+
+</br>
+
+<div align="center">
+	
+![Michael Douglas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep1/MichaelDouglas.PNG)
+	
+</div>
+
+</br>
+
+<div align="center">
+	
+![Raphael Goulart](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep1/RafaelGoulart.PNG)
+	
+</div>
+
+</br>
+
+<div align="center">
+	
+![Eduardo Ferreira Souza](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep1/EduardoFerreira.PNG)
+	
+</div>
+
+</br>
+
+<div align="center">
+	
+![Natália de Fátima Silva](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep1/NataliaFatima.PNG)
+	
+</div>
+
+</br>
+
+<div align="center">
+	
+![Márcia Cristina Santos ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep1/MarciaCristina.PNG)
+	
+</div>
+
+### Histórias de usuários 
+
+&nbsp;&nbsp; De acordo com as informações obtidas com base na entrevista feita acima, foram coletadas as seguintes histórias:    
+
+<table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
+
+<tr>
+<td>Eu como …</br> 
+	[PERSONA] 
+</td>
+<td>… quero/desejo … </br>
+	[O QUE] 
+</td>
+<td>… para .... </br>
+	[POR QUE] 
+</td>
+</tr>
+	
+<tr>
+<td>Manoel Gomes </td>
+<td>Visualizar informações sobre como administrar melhor minhas finanças. </td>
+<td>Realizar novas atividades, como abrir um negócio próprio. </td>
+</tr>
+	
+<tr>
+<td>Michael Douglas Nunes </td>
+<td>Entender em quais situações posso poupar meu dinheiro. </td>
+<td>Para investir de modo seguro até poder viver de dividendos. </td>
+</tr>
+	
+<tr>
+<td>Raphael Goulart </td>
+<td>Buscar dicas sobre distribuir meu orçamento de forma mais eficiente. </td>
+<td>Poder concluir a faculdade, para expandir os negócios da família. </td>
+</tr>
+	
+<tr>
+<td>Eduardo Ferreira Souza </td>
+<td>Aprender sobre manutenção e diminuição de gastos. </td>
+<td>Para me preparar para situações de emergência. </td>
+</tr>
+	
+<tr>
+<td>Natália de Fátima Silva</td>
+<td>Saber por que meu cartão de crédito está sempre sem limite. </td>
+<td>Pois desta maneira consigo saber onde parar de gastar. </td>
+</tr>
+	
+<tr>
+<td>Márcia Cristina Santos</td>
+<td>Saber os primeiros passos para organizar minha vida financeira. </td>
+<td>Conseguir pagar os custos de uma escola particular para meu filho. </td>
+</tr>
+</table>
+
+### Requisitos do Projeto 
+
+&nbsp;&nbsp; Os requisitos apresentados a seguir serão o escopo funcional do projeto, sendo os requisitos funcionais responsáveis por: descrever as funcionalidades do site em relação a interação que este terá com o usuário e, os requisitos não funcionais, responsáveis por: garantir o funcionamento e escalabilidade do projeto. 
+
+#### Requisitos Funcionais 
+
+&nbsp;&nbsp; A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
+
+<table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
+
+<tr>
+<td>ID</td>
+<td>Descrição</td>
+<td>Prioridade</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+
+#### Requisitos não funcionais 
+
+&nbsp;&nbsp; A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender. 
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+#### Restrições 
+
+&nbsp;&nbsp; A tabela abaixo apresenta as questões que representam obrigações claras para o desenvolvimento do projeto em questão e que limitam sua execução. 
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
+	
+<tr>
+<td>RF-01</td>
+<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+<td>Média</td>
+</tr>
 
 
 <li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
@@ -145,7 +425,24 @@ Fonte: Valor investe (2022)
 <li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
 <li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
 <li><a href="docs/10-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
-<li><a href="docs/11-Referências.md"> Referências</a></li>
+
+## Referências
+	
+&nbsp;&nbsp; A lista a seguir traz as referências utilizadas nesse trabalho. são elas: 
+
+*70% das pessoas não têm reserva de emergência. Yahoo. Disponível em: https://br.notícias.yahoo.com/7-a-cada-10-pessoas-nao-tem-reserva-de-emergencia-172559188.html. Acesso em: 05 mar.2023. 
+
+*BLEY, Cassandra. O Brasil é apenas o 74º país em ranking global de Educação Financeira. Monitor do mercado. Disponível em: https://monitordomercado.com.br/blogs/financas-beneficios/2022-10-19-o-brasil-e-apenas-o-74-pais-em-ranking-global-de-educacao-financeira. Acesso em: 05 mar. 2023. 
+
+*LARGHI, Nathália. Você está endividado? Pesquisa mostra que 70% estão! Veja principais vilões. Valor investe. Disponível em : https://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2022/03/23/voce-esta-endividado-pesquisa-mostra-que-70percent-estao-veja-principais-viloes.ghtml. Acesso em: 05 mar.2023. 
+
+*VALOR INVESTE. Você está endividado? Pesquisa mostra que 70% estão! Veja principais vilões. Disponível em: ttps://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2022/03/23/voce-esta-endividado-pesquisa-mostra-que-70percent-estao-veja-principais-viloes.ghtml . Acesso em: 05 mar.2023. 
+
+*GALANTE, Raphael. Dados de financiamento mostram que bancos estão abandonando o setor automotivo. Info Money. Disponível em: https://www.infomoney.com.br/colunistas/o-mundo-sobre-muitas-rodas/dados-de-financiamento-mostram-que-bancos-estao-abandonando-o-setor-automotivo/. Acesso em: 05. Mar.2023. 
+
+*CARRANÇA, THAIS. Brasil bate recorde de endividados: 'Com nome sujo, a gente não é nada. BBC. DISPONIVEL EM: https://www.bbc.com/portuguese/articles/c257e50r9rlo#:~:text=Assim%2C%20essa%20modalidade%20de%20crédito,bilhões%20em%20dívidas%20em%20atraso. ACESSO EM: 14 MAR. 2023 
+	
+
 </ol>
 
 # Hospedagem
