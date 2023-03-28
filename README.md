@@ -259,7 +259,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 </tr>
 	
 <tr>
-	<td>RF-01</td>
+	<td>RF-01 &nbsp; </td>
 	<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
 	<td>Média</td>
 </tr>
@@ -362,7 +362,7 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 <table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
 
 <tr>
-	<td>RNF-01 </td>
+	<td>RNF-01 &nbsp; </td>
 	<td>O site deverá armazenar (apresentar, não podemos armazenar pois não temos backend) os dados inseridos pelo usuário.  </td>
 	<td>Alta </td>
 </tr>
