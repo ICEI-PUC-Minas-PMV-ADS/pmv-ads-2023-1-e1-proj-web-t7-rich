@@ -1,12 +1,14 @@
 # EDUCAÇÃO FINANCEIRA
 
-`CURSO`
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`Eixo 1 - Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`2023/1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+<p>
+	Projeto desenvolvido para educar e apoiar na gestão financeira, de forma prática, rápida e visual, através de funcionalidades e informações em um portal.
+</p>
 
 ## Integrantes
 
