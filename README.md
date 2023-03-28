@@ -248,7 +248,7 @@ Fonte: Valor investe (2022)
 
 #### Requisitos Funcionais 
 
-&nbsp;&nbsp; A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
+A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 
 <table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
 
@@ -353,11 +353,13 @@ Fonte: Valor investe (2022)
 <td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
 <td>Média</td>
 </tr>
+</table>
 
 #### Requisitos não funcionais 
 
-&nbsp;&nbsp; A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender. 
-	
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender. 
+
+<table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
 <tr>
 <td>RF-01</td>
 <td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
@@ -387,11 +389,13 @@ Fonte: Valor investe (2022)
 <td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
 <td>Média</td>
 </tr>
+</table>
 	
 #### Restrições 
 
-&nbsp;&nbsp; A tabela abaixo apresenta as questões que representam obrigações claras para o desenvolvimento do projeto em questão e que limitam sua execução. 
-	
+A tabela abaixo apresenta as questões que representam obrigações claras para o desenvolvimento do projeto em questão e que limitam sua execução. 
+
+<table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
 <tr>
 <td>RF-01</td>
 <td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
@@ -415,6 +419,7 @@ Fonte: Valor investe (2022)
 <td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
 <td>Média</td>
 </tr>
+</table>
 
 
 <li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
