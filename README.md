@@ -286,13 +286,13 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 	
 <tr>
 	<td>RF-05</td>
-	<td>O site deve permitir na página “Dashboard” a alteração dos dados inseridos pelo usuário. </td>
+	<td>O Site irá contar com campos predefinidos para imputar informações financeiras na página "Dashboards"</td>
 	<td>Alta</td>
 </tr>
 	
 <tr>
 	<td>RF-06</td>
-	<td>O site deve apresentar na página de “Cases de sucesso” vídeos relacionados com os cases apresentados. </td>
+	<td> </td>
 	<td>Média</td>
 </tr>
 	
@@ -304,7 +304,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 	
 <tr>
 	<td>RF-08</td>
-	<td>O site deve conter na página “Cases de sucesso” texto informativo sobre o tema. </td>
+	<td></td>
 	<td>Alta</td>
 </tr>
 	
@@ -316,7 +316,7 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 	
 <tr>
 	<td>RF-10</td>
-	<td>O site deve conter na página “Importância da orientação financeira” posts para estimular o usuário. </td>
+	<td>O site deve conter na página “Vantagens” posts para estimular o usuário. </td>
 	<td>Alta</td>
 </tr>
 	
@@ -340,21 +340,36 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 	
 <tr>
 	<td>RF-14</td>
-	<td>O site deve oferecer (em qual página) campos para o usuário inserir sua renda e gastos mensais. </td>
+	<td>O site deve oferecer na página "Dashboard" campos para o usuário inserir sua renda e gastos mensais. </td>
 	<td>Alta</td>
 </tr>
 	
 <tr>
 	<td>RF-15</td>
-	<td></td>
-	<td></td>
+	<td>O Site deve conter na página "Dashboard" um gráfico demonstrando o percentual e valor dos gastos </td>
+	<td>Alta</td>
 </tr>
 	
 <tr>
 	<td>RF-16</td>
-	<td></td>
-	<td></td>
+	<td>O Site deve apresentar na página "Dashboard" uma mensagem orientativa de resultado dos dados imputados</td>
+	<td>Alta</td>
 </tr>
+<tr>
+	<td>RF-17</td>
+	<td>O Site deve apresentar na página "Dashboard" uma tabela com demonstrativo dos dados imputados</td>
+	<td>Alta</td>
+</tr>
+<tr>
+	<td>RF-18</td>
+	<td>O Site deve conter nas páginas "Cases de Sucesso","Desvantagens”,"Vantagens" Videos relacionados ao tema</td>
+	<td>Alta</td>
+</tr>
+<tr>
+	<td>RF-19</td>
+	<td>O Site deve conter em todas as páginas textos e imagens relacionados ao tema</td>
+	<td>Alta</td>
+</tr>	
 </table>
 
 #### Requisitos não funcionais 
