@@ -262,114 +262,76 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 	
 <tr>
 	<td>RF-01 &nbsp; </td>
-	<td>O site deve possuir um menu de navegação presente em todas as páginas e que permita um redirecionamento entre elas. </td>
+	<td>O site deve conter, em todas as páginas, um menu de navegação que permita um redirecionamento entre as próprias páginas. </td>
+	<td>Alta</td>
+</tr>
+	
+<tr>
+	<td>RF-02 &nbsp; </td>
+	<td>O site deve conter, em todas as páginas, tradutor de libras (acessibilidade). </td>
 	<td>Média</td>
 </tr>
 	
 <tr>
-	<td>RF-02</td>
-	<td>O site deve conter, em todas as páginas, tradutor de libras. </td>
+	<td>RF-03 &nbsp; </td>
+	<td>O site deve conter, em todas as páginas, a opção de aumentar ou diminuir a fonte (acessibilidade). </td>
 	<td>Média</td>
 </tr>
 	
 <tr>
-	<td>RF-03</td>
-	<td>O site deve conter, em todas as páginas, a opção de aumentar ou diminuir a fonte. </td>
+	<td>RF-04 &nbsp; </td>
+	<td>O site deve conter, em todas as páginas, um rodapé com a marca registrada da empresa, CNPJ e link para contato. </td>
+	<td>Alta</td>
+</tr>
+	
+<tr>
+	<td>RF-05 &nbsp; </td>
+	<td>O Site deve conter, em todas as páginas textos e imagens relacionados ao tema. </td>
+	<td>Alta</td>
+</tr>
+
+<tr>
+	<td>RF-06 &nbsp; </td>
+	<td>O site deve conter, na "Página principal, chamadas para as todas as outras páginas do site. </td>
+	<td>Alta</td>
+</tr>
+
+<tr>
+	<td>RF-07 &nbsp; </td>
+	<td>O Site deve conter, na página "Dashboard", campos com nomenclaturas predefinidas para imputar informações financeiras. <d>
+	<td>Alta</td>
+</tr>
+
+<tr>
+	<td>RF-08 &nbsp; </td>
+	<td>O Site deve conter, na página "Dashboard", um gráfico apresentando os dados imputados referente aos gastos. </td>
+	<td>Alta</td>
+</tr>
+
+<tr>
+	<td>RF-09 &nbsp; </td>
+	<td>O Site deve conter, na página "Dashboard", uma tabela com demonstrativo dos dados imputados referente aos gastos. </td>
+	<td>Alta</td>
+</tr>
+	
+<tr>
+	<td>RF-10 &nbsp; </td>
+	<td>O Site deve apresentar, na página "Dashboard", uma mensagem orientativa resultante dos dados imputados. </td>
+	<td>Alta</td>
+</tr>
+	
+<tr>
+	<td>RF-11 &nbsp; </td>
+	<td>O site deve conter, na página “Cases de sucesso”, uma relação das empresas parceiras da iniciativa do site. </td>
 	<td>Média</td>
-</tr>
-	
-<tr>
-	<td>RF-04</td>
-	<td>O site deve possuir rodapé com a marca registrada da empresa, CNPJ e link para contato. </td>
-	<td>Alta</td>
-</tr>
-	
-<tr>
-	<td>RF-05</td>
-	<td>O Site irá contar com campos predefinidos para imputar informações financeiras na página "Dashboards"</td>
-	<td>Alta</td>
-</tr>
-	
-<tr>
-	<td>RF-06</td>
-	<td> </td>
-	<td>Média</td>
-</tr>
-	
-<tr>
-	<td>RF-07</td>
-	<td>O site deve apresentar na página de “Cases de sucesso” empresas parceiras com a iniciativa do site. </td>
-	<td>Média</td>
-</tr>
-	
-<tr>
-	<td>RF-08</td>
-	<td></td>
-	<td>Alta</td>
-</tr>
-	
-<tr>
-	<td>RF-09</td>
-	<td>A página principal do site deverá conter chamadas para as demais páginas. </td>
-	<td>Alta</td>
-</tr>
-	
-<tr>
-	<td>RF-10</td>
-	<td>O site deve conter na página “Vantagens” posts para estimular o usuário. </td>
-	<td>Alta</td>
-</tr>
-	
-<tr>
-	<td>RF-11</td>
-	<td>O site deve possibilitar na página “Dashboard” lançamentos em diferentes contas. </td>
-	<td>Alta</td>
 </tr>
 	
 <tr>
 	<td>RF-12</td>
-	<td>O site deve conter na página “Dashboard”, categorias de receitas e despesas. </td>
+	<td>O Site deve conter, nas páginas "Cases de Sucesso","Desvantagens” e "Vantagens", Videos relacionados ao tema. </td>
 	<td>Alta</td>
 </tr>
-	
-<tr>
-	<td>RF-13</td>
-	<td>O site deve disponibilizar na página “Dashboard” gráficos comparativos. </td>
-	<td>Alta</td>
-</tr>
-	
-<tr>
-	<td>RF-14</td>
-	<td>O site deve oferecer na página "Dashboard" campos para o usuário inserir sua renda e gastos mensais. </td>
-	<td>Alta</td>
-</tr>
-	
-<tr>
-	<td>RF-15</td>
-	<td>O Site deve conter na página "Dashboard" um gráfico demonstrando o percentual e valor dos gastos </td>
-	<td>Alta</td>
-</tr>
-	
-<tr>
-	<td>RF-16</td>
-	<td>O Site deve apresentar na página "Dashboard" uma mensagem orientativa de resultado dos dados imputados</td>
-	<td>Alta</td>
-</tr>
-<tr>
-	<td>RF-17</td>
-	<td>O Site deve apresentar na página "Dashboard" uma tabela com demonstrativo dos dados imputados</td>
-	<td>Alta</td>
-</tr>
-<tr>
-	<td>RF-18</td>
-	<td>O Site deve conter nas páginas "Cases de Sucesso","Desvantagens”,"Vantagens" Videos relacionados ao tema</td>
-	<td>Alta</td>
-</tr>
-<tr>
-	<td>RF-19</td>
-	<td>O Site deve conter em todas as páginas textos e imagens relacionados ao tema</td>
-	<td>Alta</td>
-</tr>	
+
 </table>
 
 #### Requisitos não funcionais 
@@ -380,27 +342,34 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 
 <tr>
 	<td>RNF-01 &nbsp; </td>
-	<td>O site deverá armazenar (apresentar, não podemos armazenar pois não temos backend) os dados inseridos pelo usuário.  </td>
-	<td>Alta </td>
+	<td>O Site deve ter fácil navegação e utilização.  </td>
+	<td>Média</td>
 </tr>
 	
 <tr>
-	<td>RNF-02 </br> </td>
+	<td>RNF-02 &nbsp; </br> </td>
 	<td>O site deve ser responsivo a diferentes resoluções de tela.  </td>
 	<td>Média</td>
 	</tr>
 	
 <tr>
-	<td>RNF-03 </td>
+	<td>RNF-03 &nbsp; </td>
 	<td>O site deverá ser elaborado utilizando as linguagens (HTML, CSS E JAVASCRIPT).  </td>
 	<td>Alta </td>
 </tr>
 	
 <tr>
-	<td>RNF-04 </td>
-	<td>O Site deve ter fácil navegação e utilização.  </td>
+	<td>RNF-04 &nbsp; </td>
+	<td>O Site deverá ter alta disponibilidade.  </td>
 	<td>Média</td>
 </tr>
+
+<tr>
+	<td>RNF-05 &nbsp; </td>
+	<td>O Site não exigirá treinamento prévio dos usuários. </td>
+	<td>Média</td>
+</tr>
+
 </table>
 	
 #### Restrições 
@@ -409,17 +378,17 @@ A tabela abaixo apresenta as questões que representam obrigações claras para 
 
 <table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
 <tr>
-	<td>RE-01 </td>
+	<td>RE-01 &nbsp; </td>
 	<td>O site deverá ser entregue até o dia 11 de junho de 2023, não podendo extrapolar esta data.  </td>
 </tr>
 	
 <tr>
-	<td>RE-02 </td>
-	<td>O site não irá gerar renda aos usuários  </td>
+	<td>RE-02 &nbsp; </td>
+	<td>O site não irá gerar renda aos usuários.  </td>
 </tr>
 	
 <tr>
-	<td>RE-03 </td>
+	<td>RE-03 &nbsp; </td>
 	<td>O site não utilizará tecnologia de framework, apenas ferramentas básicas da Web no Frontend.  </td>
 </tr>
 	
