@@ -408,17 +408,17 @@ A tabela abaixo apresenta as questões que representam obrigações claras para 
 	
 &nbsp;&nbsp; A lista a seguir traz as referências utilizadas nesse trabalho. são elas: 
 
-*70% das pessoas não têm reserva de emergência. Yahoo. Disponível em: https://br.notícias.yahoo.com/7-a-cada-10-pessoas-nao-tem-reserva-de-emergencia-172559188.html. Acesso em: 05 mar.2023. 
+* 70% das pessoas não têm reserva de emergência. Yahoo. Disponível em: https://br.notícias.yahoo.com/7-a-cada-10-pessoas-nao-tem-reserva-de-emergencia-172559188.html. Acesso em: 05 mar.2023. 
 
-*BLEY, Cassandra. O Brasil é apenas o 74º país em ranking global de Educação Financeira. Monitor do mercado. Disponível em: https://monitordomercado.com.br/blogs/financas-beneficios/2022-10-19-o-brasil-e-apenas-o-74-pais-em-ranking-global-de-educacao-financeira. Acesso em: 05 mar. 2023. 
+* BLEY, Cassandra. O Brasil é apenas o 74º país em ranking global de Educação Financeira. Monitor do mercado. Disponível em: https://monitordomercado.com.br/blogs/financas-beneficios/2022-10-19-o-brasil-e-apenas-o-74-pais-em-ranking-global-de-educacao-financeira. Acesso em: 05 mar. 2023. 
 
-*LARGHI, Nathália. Você está endividado? Pesquisa mostra que 70% estão! Veja principais vilões. Valor investe. Disponível em : https://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2022/03/23/voce-esta-endividado-pesquisa-mostra-que-70percent-estao-veja-principais-viloes.ghtml. Acesso em: 05 mar.2023. 
+* LARGHI, Nathália. Você está endividado? Pesquisa mostra que 70% estão! Veja principais vilões. Valor investe. Disponível em : https://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2022/03/23/voce-esta-endividado-pesquisa-mostra-que-70percent-estao-veja-principais-viloes.ghtml. Acesso em: 05 mar.2023. 
 
-*VALOR INVESTE. Você está endividado? Pesquisa mostra que 70% estão! Veja principais vilões. Disponível em: ttps://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2022/03/23/voce-esta-endividado-pesquisa-mostra-que-70percent-estao-veja-principais-viloes.ghtml . Acesso em: 05 mar.2023. 
+* VALOR INVESTE. Você está endividado? Pesquisa mostra que 70% estão! Veja principais vilões. Disponível em: ttps://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2022/03/23/voce-esta-endividado-pesquisa-mostra-que-70percent-estao-veja-principais-viloes.ghtml . Acesso em: 05 mar.2023. 
 
-*GALANTE, Raphael. Dados de financiamento mostram que bancos estão abandonando o setor automotivo. Info Money. Disponível em: https://www.infomoney.com.br/colunistas/o-mundo-sobre-muitas-rodas/dados-de-financiamento-mostram-que-bancos-estao-abandonando-o-setor-automotivo/. Acesso em: 05. Mar.2023. 
+* GALANTE, Raphael. Dados de financiamento mostram que bancos estão abandonando o setor automotivo. Info Money. Disponível em: https://www.infomoney.com.br/colunistas/o-mundo-sobre-muitas-rodas/dados-de-financiamento-mostram-que-bancos-estao-abandonando-o-setor-automotivo/. Acesso em: 05. Mar.2023. 
 
-*CARRANÇA, THAIS. Brasil bate recorde de endividados: 'Com nome sujo, a gente não é nada. BBC. DISPONIVEL EM: https://www.bbc.com/portuguese/articles/c257e50r9rlo#:~:text=Assim%2C%20essa%20modalidade%20de%20crédito,bilhões%20em%20dívidas%20em%20atraso. ACESSO EM: 14 MAR. 2023 
+* CARRANÇA, THAIS. Brasil bate recorde de endividados: 'Com nome sujo, a gente não é nada. BBC. DISPONIVEL EM: https://www.bbc.com/portuguese/articles/c257e50r9rlo#:~:text=Assim%2C%20essa%20modalidade%20de%20crédito,bilhões%20em%20dívidas%20em%20atraso. ACESSO EM: 14 MAR. 2023 
 	
 
 </ol>
