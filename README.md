@@ -423,7 +423,7 @@ A tabela abaixo apresenta as questões que representam obrigações claras para 
 
 </ol>
 
-# Hospedagem.
+# Hospedagem
 
 * Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
 
