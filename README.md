@@ -395,7 +395,60 @@ A tabela abaixo apresenta as questões que representam obrigações claras para 
 </table>
 
 
-<li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
+## Metodologia
+
+### Relação de Ambientes de Trabalho
+
+### Gestão de código fonte
+
+### Gerenciamento de projeto
+
+Visando um processo de desenvolvimento mais adequado ao escopo do projeto, após análise do contexto, a equipe optou por utilizar o Scrum como estrutura ágil 
+
+A equipe está organizada da seguinte maneira: 
+
+* Scrum Master: Talita Fernandes 
+
+* Product Owner: Pedro Henrique Filgueiras Couto 
+
+* Equipe de Desenvolvimento 
+
+** Pedro Henrique De Oliveira Lima 
+
+** Pedro Henrique Filgueiras Couto 
+
+** Gabriel Augusto Mendes Do Espirito Santo 
+
+** Lorena Poliane De Oliveira 
+
+** Matheus Soares Da Silva 
+
+** Talita Fernandes Silva 
+
+* Equipe de Design 
+
+** Pedro Henrique De Oliveira Lima 
+
+** Matheus Soares Da Silva 
+
+** Lorena Poliane De Oliveira
+
+A plataforma Github Project está sendo utilizada pela equipe para organização e distribuição das tarefas do projeto, sendo as atividades segmentadas pelas listas a seguir: 
+ 
+* Product Backlog: contêm a lista de todas as macros tarefas previstas para a entrega de todo o projeto e, a cada sprint, serão elencadas para a lista “To do” conforme prioridades. Se necessário, podem ser descontinuadas. 
+
+* To Do: a lista apresenta todas as tarefas elencadas para serem trabalhadas durante a sprint. 
+
+* In Progress: apresenta as tarefas que já foram iniciadas pelos responsáveis atribuídos. 
+
+* Done: assim que a tarefa é finalizada ela é apresentada nesta lista. Significa que não haverá mais necessidade de atuação. 
+
+O quadro kanban  do GitHub Project utilizado pela equipe  está disponível através da URL href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich" e, atualmente, se encontra neste estado, conforme Figura Kanban.  
+
+![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep2/kanban.PNG)
+Figura Kanban - Tela do kanban utilizada pela equipe 
+
+
 <li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
 <li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
 <li><a href="docs/06-Template padrão do Site.md"> Template padrão do Site</a></li>
