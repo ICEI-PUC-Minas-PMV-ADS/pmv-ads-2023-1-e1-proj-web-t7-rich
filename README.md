@@ -1,3 +1,16 @@
+# ÍNDICE
+
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#documentacao">Documentação</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#especificacaoprojeto"> Especificação do Projeto</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#metodologia"> Metodologia</a></li>
+<li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
+<li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
+<li><a href="docs/06-Template padrão do Site.md"> Template padrão do Site</a></li>
+<li><a href="docs/07-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
+<li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
+<li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
+<li><a href="docs/10-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
+
 # EDUCAÇÃO FINANCEIRA
 
 `ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
@@ -28,17 +41,6 @@
 ## Instruções de utilização
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
-
-<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#documentacao">Documentação</a></li>
-<li><a href="docs/02-Projeto de Interface.md"> Projeto de Interface</a></li>
-<li><a href="docs/03-Projeto de Interface.md"> Projeto de Interface</a></li>
-<li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
-<li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
-<li><a href="docs/06-Template padrão do Site.md"> Template padrão do Site</a></li>
-<li><a href="docs/07-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
-<li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
-<li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
-<li><a href="docs/10-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
 
 ## <a name="documentacao">Documentação</a>
 
@@ -145,7 +147,7 @@ Fonte: Valor investe (2022)
 
 &nbsp;&nbsp; Visando proporcionar uma ferramenta de fácil acesso, visibilidade e compreensão acerca de gestão de gastos e finanças, concluiu-se que o público-alvo deste aprendizado serão: todas as pessoas interessadas no assunto. 
 
-## Especificação do Projeto
+## <a name="especificacaoprojeto">Especificação do Projeto</a>
 
 &nbsp;&nbsp; A equipe consolidou uma definição precisa dos pontos problemáticos e questões mais importantes a serem abordadas neste projeto. Houve a participação de voluntários por meio de uma entrevista que teve como objetivo coletar informações sobre suas respectivas situações financeiras. As informações obtidas foram utilizadas para criar histórias de usuários e personas descritas abaixo.  
 
@@ -406,7 +408,7 @@ A tabela abaixo apresenta as questões que representam obrigações claras para 
 </table>
 
 
-## Metodologia
+## <a name="metodologia">Metodologia</a>
 
 ### Relação de Ambientes de Trabalho
 
@@ -414,9 +416,7 @@ A tabela abaixo apresenta as questões que representam obrigações claras para 
 
 ### Gerenciamento de projeto
 
-Visando um processo de desenvolvimento mais adequado ao escopo do projeto, após análise do contexto, a equipe optou por utilizar o Scrum como estrutura ágil 
-
-A equipe está organizada da seguinte maneira: 
+Visando um processo de desenvolvimento mais adequado ao escopo do projeto, após análise do contexto, a equipe optou por utilizar o Scrum como estrutura ágil. A equipe está organizada da seguinte maneira: 
 
 * Scrum Master: Talita Fernandes 
 
@@ -454,10 +454,15 @@ A plataforma Github Project está sendo utilizada pela equipe para organização
 
 * **Done**: assim que a tarefa é finalizada ela é apresentada nesta lista. Significa que não haverá mais necessidade de atuação. 
 
-O quadro kanban  do GitHub Project utilizado pela equipe  está disponível através da URL href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich" e, atualmente, se encontra neste estado, conforme Figura Kanban.  
+O quadro kanban  do GitHub Project utilizado pela equipe  está disponível através da URL https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich e, atualmente, se encontra neste estado, conforme Figura Kanban.  
 
+<div align="center">
+
+Figura 12 - Tela do kanban utilizada pela equipe 
+	
 ![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep2/kanban.PNG)
-Figura Kanban - Tela do kanban utilizada pela equipe 
+
+</div>
 
 ## Referências
 	
