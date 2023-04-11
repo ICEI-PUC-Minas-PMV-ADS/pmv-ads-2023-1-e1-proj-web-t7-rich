@@ -29,7 +29,18 @@
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
-## Documentação
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/edit/main/README.md">Documentação</a></li>
+<li><a href="docs/02-Projeto de Interface.md"> Projeto de Interface</a></li>
+<li><a href="docs/03-Projeto de Interface.md"> Projeto de Interface</a></li>
+<li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
+<li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
+<li><a href="docs/06-Template padrão do Site.md"> Template padrão do Site</a></li>
+<li><a href="docs/07-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
+<li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
+<li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
+<li><a href="docs/10-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
+
+## <a href='#Documentação'>Documentação</a>
 
 ### Documentação de Contexto
 
@@ -447,15 +458,6 @@ O quadro kanban  do GitHub Project utilizado pela equipe  está disponível atra
 
 ![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep2/kanban.PNG)
 Figura Kanban - Tela do kanban utilizada pela equipe 
-
-
-<li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
-<li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
-<li><a href="docs/06-Template padrão do Site.md"> Template padrão do Site</a></li>
-<li><a href="docs/07-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
-<li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
-<li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
-<li><a href="docs/10-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
 
 ## Referências
 	
