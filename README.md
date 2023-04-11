@@ -40,7 +40,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
 <li><a href="docs/10-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
 
-## <a class="anchor" href="#Documentacao">Documentação</a>
+## <a class="anchor" aria-hidden="true" href="#Documentacao">Documentação</a>
 
 ### Documentação de Contexto
 
