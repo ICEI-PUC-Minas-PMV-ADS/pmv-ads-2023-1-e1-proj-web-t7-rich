@@ -29,7 +29,7 @@
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
-<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/main/README.md#Documentacao">Documentação</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#Documentacao">Documentação</a></li>
 <li><a href="docs/02-Projeto de Interface.md"> Projeto de Interface</a></li>
 <li><a href="docs/03-Projeto de Interface.md"> Projeto de Interface</a></li>
 <li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
@@ -40,7 +40,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
 <li><a href="docs/10-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
 
-## <a href='#Documentacao'>Documentação</a>
+## <a href="#Documentacao">Documentação</a>
 
 ### Documentação de Contexto
 
