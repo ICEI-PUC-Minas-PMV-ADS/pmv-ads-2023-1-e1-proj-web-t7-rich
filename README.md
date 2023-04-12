@@ -410,9 +410,42 @@ A tabela abaixo apresenta as questões que representam obrigações claras para 
 
 ## <a name="metodologia">Metodologia</a>
 
+A metodologia contempla as definições feitas pela equipe a fim de demostrar as ferramentas utilizadas para a organização das tarefas de execução do projeto e também na manutenção de códigos.
+
 ### Relação de Ambientes de Trabalho
 
+Apresentados na tabela a seguir estão as plataformas utilizadas para o desenvolvimento do projeto e a relação dessas ferramentas com o produto.
+
+<table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
+<tr>
+	<td>Repositório de código fonte &nbsp; </td>
+	<td>Github &nbsp; </td>
+	<td>https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/README.md &nbsp; </td>
+</tr>
+
+<tr>
+	<td>Documentos do projeto &nbsp; </td>
+	<td>GitHub &nbsp; </td>
+	<td>https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md &nbsp; </td>
+</tr>
+
+<tr>
+	<td>Projeto de Interface e Wireframes &nbsp; </td>
+	<td>MarvelApp &nbsp; </td>
+	<td>https://marvelapp.com/prototype/8837g94/screen/91298103 &nbsp; </td>
+</tr>
+
+<tr>
+	<td>Gerenciamento do Projeto &nbsp; </td>
+	<td>GitHub &nbsp; </td>
+	<td>https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/337/views/1 &nbsp; </td>
+</tr>
+
+</table>
+
 ### Gestão de código fonte
+
+
 
 ### Gerenciamento de projeto
 
