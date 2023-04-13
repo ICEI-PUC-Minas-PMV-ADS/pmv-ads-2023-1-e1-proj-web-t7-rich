@@ -497,6 +497,19 @@ Figura 12 - Tela do kanban utilizada pela equipe
 
 </div>
 
+<h1>Tela - Home-Page</h1>
+<br>
+A página principal do site conta com as funcionalidades de redirecionamento de páginas.
+<ul>
+ <li> Tradutor de Libras.</li>
+ <li>Páginas relacionadas.</li>
+ <li>Imagens que irão redirecionar para as outras páginas do site.</li>
+</ul>
+<div align="center">
+Figura Wireframe Homepage
+
+![Wireframe 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep1/Wireframe-HOMEPAGE.png)
+</div>
 ## Referências
 	
 &nbsp;&nbsp; A lista a seguir traz as referências utilizadas nesse trabalho. são elas: 
