@@ -419,7 +419,7 @@ Apresentados na tabela a seguir estão as plataformas utilizadas para o desenvol
 <table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
 <tr>
 	<td>Ambiente &nbsp; </td>
-	<td>Plataforma &nbsp; </td>
+	<td>&nbsp; Plataforma &nbsp; </td>
 	<td>Link de Acesso &nbsp; </td>
 </tr>
 <tr>
@@ -436,8 +436,8 @@ Apresentados na tabela a seguir estão as plataformas utilizadas para o desenvol
 
 <tr>
 	<td>Projeto de Interface e Wireframes &nbsp; </td>
-	<td>MarvelApp &nbsp; </td>
-	<td>https://marvelapp.com/prototype/8837g94/screen/91298103 &nbsp; </td>
+	<td>Canva &nbsp; </td>
+	<td>https://www.canva.com/design/DAFgf8cwCXs/iGznyMJUu8l-dfLF3M3OIw/edit?utm_content=DAFgf8cwCXs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton &nbsp; </td>
 </tr>
 
 <tr>
@@ -506,7 +506,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 
 ### Fluxo do Usuário 
 
-O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o <a href="https://www.canva.com/design/DAFgf8cwCXs/iGznyMJUu8l-dfLF3M3OIw/edit?utm_content=DAFgf8cwCXs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Link real do wireframe</a>
+O diagrama apresentado na Figura 13 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o <a href="https://www.canva.com/design/DAFgf8cwCXs/iGznyMJUu8l-dfLF3M3OIw/edit?utm_content=DAFgf8cwCXs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Link real do wireframe</a>
 
 <div align="center">
 
