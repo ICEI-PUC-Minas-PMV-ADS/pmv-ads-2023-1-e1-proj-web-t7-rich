@@ -517,10 +517,16 @@ Figura 13 - Fluxo de telas do usuário
 </div>
 
 ### Wireframes  
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-<li>xxxxxxxx</li>
-<li>xxxxxxxx</li>
-<li>xxxxxxxx</li>
+Conforme fluxo de telas do projeto, apresentado no item x, as telas do sistema apresentam estruturas de blocos que contém os seguintes ítens:
+
+<li>Cabeçalho</li>
+<li>Rodapé</li>
+<li>Tradutor de Libras</li>
+<li>Zoom de Fonte</li>
+<li>Gráficos</li>
+<li>Vídeos</li>
+<li>Imagens</li>
+<li>Links</li>
 
 #### Tela - Home 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -552,9 +558,6 @@ Figura 15 - Dashboard
 
 #### Tela - Vantagens  
 A tela de vantagens apresenta blocos informativos com um texto sobre os proveitos de adotar a gestão financeira; imagem ilustrativa referente ao texto; vídeo de reportagem relacionado ao conteúdo; texto complementar ao vídeo; e o bloco de barra lateral possui links relacionados.
-<li>xxxxxxxx</li>
-<li>xxxxxxxx</li>
-<li>xxxxxxxx</li>
 
 <div align="center">
 
