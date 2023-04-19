@@ -540,13 +540,13 @@ Figura 14 - Home
 </div>
 
 #### Tela - Dashboard - inserção
-A tela Dashboar(inserçãao) apresenta campos onde sera inserido as despesas e a renda financeira em suas respectivas categorias , as categorias são divididas em:
-<li>Despesas fixas que são aquelas  que estão presentes todos os meses</li>
+A tela Dashboar(inserçãao) apresenta campos onde sera inserido as despesas e a renda financeira em suas respectivas categorias , as categorias estão divididas em:
+<li>Despesas fixas que são aquelas que são inalteráveis e estão presentes mensalmente</li>
 <li>Despesas variáveis que são quelas despesas periódicas provenientes de imprevistos e ocasiões especiais</li>
 <li>Renda que contempla salários, investimentos e outras bonificações</li>
 
 <div align="center">
-
+	
 Figura 15 - Dashboard(inserção)
 	
 ![Dashboard - Inserção de dados](https://user-images.githubusercontent.com/128756585/233218910-dc80a4e5-3d52-4b37-bb82-e75ce17bf6a0.png)
@@ -554,7 +554,7 @@ Figura 15 - Dashboard(inserção)
 </div>
 
 #### Tela - Dashboard - Visão geral
-Na tela Dashboard(Visão geral) obtem-se um demonstrativo geral da renda e despesas, bem como uma classificação resultante do percentual de endividamento, a ainda um breve resumo das despesas e sua relação aos percentuais ideais.
+Na tela Dashboard(Visão geral) obtem-se um demonstrativo geral da renda e despesas, bem como uma classificação resultante do percentual de endividamento, a ainda um breve resumo das despesas em relação aos percentuais ideais.
 
 <div align="center">
 
