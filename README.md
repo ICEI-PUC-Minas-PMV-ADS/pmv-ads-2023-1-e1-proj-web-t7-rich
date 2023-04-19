@@ -477,8 +477,8 @@ Visando um processo de desenvolvimento mais adequado ao escopo do projeto, após
 	* Lorena Poliane De Oliveira
 
 	* Matheus Soares Da Silva
-
-        * Pedro Henrique De Oliveira Lima 
+	
+	* Pedro Henrique De Oliveira Lima 
 
 A plataforma Github Project está sendo utilizada pela equipe para organização e distribuição das tarefas do projeto, sendo as atividades segmentadas pelas listas a seguir: 
  
