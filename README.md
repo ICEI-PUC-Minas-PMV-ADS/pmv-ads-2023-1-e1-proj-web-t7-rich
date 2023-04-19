@@ -539,17 +539,17 @@ Figura 14 - Home
 
 </div>
 
-#### Tela - Dashboard
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-<li>xxxxxxxx</li>
-<li>xxxxxxxx</li>
-<li>xxxxxxxx</li>
+#### Tela - Dashboard - inserção de dados
+A tela Dashboar(inserçãao) apresenta campos onde sera inserido as despesas e a renda financeira em suas respectivas categorias , as categorias são divididas em:
+<li>Despesas fixas que são aquelas  que estão presentes todos os meses</li>
+<li>Despesas variáveis que são quelas despesas periódicas provenientes de imprevistos e ocasiões especiais</li>
+<li>Renda que contempla salários, investimentos e outras bonificações</li>
 
 <div align="center">
 
 Figura 15 - Dashboard 
 	
-![Dashboard - Inserção de dados](https://user-images.githubusercontent.com/128756585/233217584-1a73cfe0-d3f6-4947-9560-bae7239bf49a.png)
+![Dashboard - Inserção de dados](https://user-images.githubusercontent.com/128756585/233218910-dc80a4e5-3d52-4b37-bb82-e75ce17bf6a0.png)
 
 </div>
 
