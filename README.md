@@ -551,7 +551,7 @@ Figura 15 - Dashboard
 </div>
 
 #### Tela - Vantagens  
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+teste Lorena
 <li>xxxxxxxx</li>
 <li>xxxxxxxx</li>
 <li>xxxxxxxx</li>
