@@ -551,7 +551,7 @@ Figura 15 - Dashboard
 </div>
 
 #### Tela - Vantagens  
-teste Lorena
+A tela de vantagens apresenta blocos informativos com um texto sobre os proveitos de adotar a gestão financeira; imagem ilustrativa referente ao texto; vídeo de reportagem relacionado ao conteúdo; texto complementar ao vídeo; e o bloco de barra lateral possui links relacionados.
 <li>xxxxxxxx</li>
 <li>xxxxxxxx</li>
 <li>xxxxxxxx</li>
