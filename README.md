@@ -516,19 +516,80 @@ Figura 13 - Fluxo de telas do usuário
 
 </div>
 
+### Wireframes  
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<li>xxxxxxxx</li>
+<li>xxxxxxxx</li>
+<li>xxxxxxxx</li>
 
-<h1>Tela - Home-Page</h1>
-<br>
-A página principal do site conta com as funcionalidades de redirecionamento de páginas.
-<ul>
- <li> Tradutor de Libras.</li>
- <li>Páginas relacionadas.</li>
- <li>Imagens que irão redirecionar para as outras páginas do site.</li>
-</ul>
+#### Tela - Home 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<li>xxxxxxxx</li>
+<li>xxxxxxxx</li>
+<li>xxxxxxxx</li>
+
 <div align="center">
-Figura Wireframe Homepage
 
-![Wireframe 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep1/Wireframe-HOMEPAGE.png)
+Figura 14 - Home
+	
+![Fluxo do usuário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep2/Home.png)
+
+</div>
+
+#### Tela - Dashboard
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<li>xxxxxxxx</li>
+<li>xxxxxxxx</li>
+<li>xxxxxxxx</li>
+
+<div align="center">
+
+Figura 15 - Dashboard 
+	
+![Fluxo do usuário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep2/Dashboard.png)
+
+</div>
+
+#### Tela - Vantagens  
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<li>xxxxxxxx</li>
+<li>xxxxxxxx</li>
+<li>xxxxxxxx</li>
+
+<div align="center">
+
+Figura 16 - Vantagens
+	
+![Fluxo do usuário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep2/Vantagens.png)
+
+</div>
+
+#### Tela - Desvantagens  
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<li>xxxxxxxx</li>
+<li>xxxxxxxx</li>
+<li>xxxxxxxx</li>
+
+<div align="center">
+
+Figura 17 - Desvatagens
+	
+![Fluxo do usuário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep2/Desvantagens.png)
+
+</div>
+
+#### Tela - Cases de sucesso
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<li>xxxxxxxx</li>
+<li>xxxxxxxx</li>
+<li>xxxxxxxx</li>
+
+<div align="center">
+
+Figura 18 - Cases de Sucessos
+	
+![Fluxo do usuário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep2/Cases.png)
+
 </div>
 
 
