@@ -418,6 +418,11 @@ Apresentados na tabela a seguir estão as plataformas utilizadas para o desenvol
 
 <table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
 <tr>
+	<td>Ambiente &nbsp; </td>
+	<td>Plataforma &nbsp; </td>
+	<td>Link de Acesso &nbsp; </td>
+</tr>
+<tr>
 	<td>Repositório de código fonte &nbsp; </td>
 	<td>Github &nbsp; </td>
 	<td>https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/README.md &nbsp; </td>
@@ -443,23 +448,15 @@ Apresentados na tabela a seguir estão as plataformas utilizadas para o desenvol
 
 </table>
 
-### Gestão de código fonte
-
-
-
 ### Gerenciamento de projeto
 
 Visando um processo de desenvolvimento mais adequado ao escopo do projeto, após análise do contexto, a equipe optou por utilizar o Scrum como estrutura ágil. A equipe está organizada da seguinte maneira: 
 
-* Scrum Master: Talita Fernandes 
-
 * Product Owner: Pedro Henrique Filgueiras Couto 
 
+* Scrum Master: Talita Fernandes 
+
 * Equipe de Desenvolvimento 
-
-	* Pedro Henrique De Oliveira Lima 
-
-	* Pedro Henrique Filgueiras Couto 
 
 	* Gabriel Augusto Mendes Do Espirito Santo 
 
@@ -467,15 +464,21 @@ Visando um processo de desenvolvimento mais adequado ao escopo do projeto, após
 
 	* Matheus Soares Da Silva 
 
+	* Pedro Henrique De Oliveira Lima 
+
+	* Pedro Henrique Filgueiras Couto 
+
 	* Talita Fernandes Silva 
 
 * Equipe de Design 
 
-	* Pedro Henrique De Oliveira Lima 
-
-	* Matheus Soares Da Silva 
+	* Gabriel Augusto Mendes Do Espirito Santo 
 
 	* Lorena Poliane De Oliveira
+
+	* Matheus Soares Da Silva
+
+        * Pedro Henrique De Oliveira Lima 
 
 A plataforma Github Project está sendo utilizada pela equipe para organização e distribuição das tarefas do projeto, sendo as atividades segmentadas pelas listas a seguir: 
  
@@ -497,6 +500,23 @@ Figura 12 - Tela do kanban utilizada pela equipe
 
 </div>
 
+## <a name="projetoInterface ">Projeto de Interface </a>
+
+Dentre as preocupações para a montagem da interface do sistema, estamos estabelecendo foco em questões como agilidade, acessibilidade e usabilidade. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis. 
+
+### Fluxo do Usuário 
+
+O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o <a href="https://www.canva.com/design/DAFgf8cwCXs/iGznyMJUu8l-dfLF3M3OIw/edit?utm_content=DAFgf8cwCXs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Link real do wireframe</a>
+
+<div align="center">
+
+Figura 13 - Fluxo de telas do usuário 
+	
+![Fluxo do usuário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep2/fluxoUsuario.png)
+
+</div>
+
+
 <h1>Tela - Home-Page</h1>
 <br>
 A página principal do site conta com as funcionalidades de redirecionamento de páginas.
@@ -510,6 +530,8 @@ Figura Wireframe Homepage
 
 ![Wireframe 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep1/Wireframe-HOMEPAGE.png)
 </div>
+
+
 ## Referências
 	
 &nbsp;&nbsp; A lista a seguir traz as referências utilizadas nesse trabalho. são elas: 
