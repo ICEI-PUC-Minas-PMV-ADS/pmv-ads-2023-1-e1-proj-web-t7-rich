@@ -517,7 +517,7 @@ Figura 13 - Fluxo de telas do usuário
 </div>
 
 ### Wireframes  
-Conforme fluxo de telas do projeto, apresentado no item x, as telas do sistema apresentam estruturas de blocos que contém os seguintes ítens:
+Conforme fluxo de telas do projeto, apresentado no item Fluxo do Usuário, as telas do sistema apresentam estruturas de blocos que contém os seguintes ítens:
 
 <li>Cabeçalho</li>
 <li>Rodapé</li>
