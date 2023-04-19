@@ -579,10 +579,7 @@ Figura 17 - Desvatagens
 </div>
 
 #### Tela - Cases de sucesso
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-<li>xxxxxxxx</li>
-<li>xxxxxxxx</li>
-<li>xxxxxxxx</li>
+A tela cases de sucesso vai apresentar a história da RICH, motivação, expectativas, visão e também trará experiências de pessoas que se beneficiaram com o site.
 
 <div align="center">
 
