@@ -560,7 +560,7 @@ A tela de vantagens apresenta blocos informativos com um texto sobre os proveito
 
 Figura 16 - Vantagens
 	
-![Fluxo do usuário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep2/Vantagens.png)
+![Dashboard - Inserção de dados](https://user-images.githubusercontent.com/128756585/233217584-1a73cfe0-d3f6-4947-9560-bae7239bf49a.png)
 
 </div>
 
