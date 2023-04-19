@@ -529,10 +529,7 @@ Conforme fluxo de telas do projeto, apresentado no item Fluxo do Usuário, as te
 <li>Links</li>
 
 #### Tela - Home 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-<li>xxxxxxxx</li>
-<li>xxxxxxxx</li>
-<li>xxxxxxxx</li>
+A tela home mostra os ícones das páginas que compõe o projeto, que levam o usuário para as telas de Dashboard, Vantagens, Desvantagens e Cases de Sucesso.
 
 <div align="center">
 
