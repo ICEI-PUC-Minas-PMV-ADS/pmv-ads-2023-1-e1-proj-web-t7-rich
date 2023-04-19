@@ -539,7 +539,7 @@ Figura 14 - Home
 
 </div>
 
-#### Tela - Dashboard - inserção de dados
+#### Tela - Dashboard - inserção
 A tela Dashboar(inserçãao) apresenta campos onde sera inserido as despesas e a renda financeira em suas respectivas categorias , as categorias são divididas em:
 <li>Despesas fixas que são aquelas  que estão presentes todos os meses</li>
 <li>Despesas variáveis que são quelas despesas periódicas provenientes de imprevistos e ocasiões especiais</li>
@@ -547,9 +547,31 @@ A tela Dashboar(inserçãao) apresenta campos onde sera inserido as despesas e a
 
 <div align="center">
 
-Figura 15 - Dashboard 
+Figura 15 - Dashboard(inserção)
 	
 ![Dashboard - Inserção de dados](https://user-images.githubusercontent.com/128756585/233218910-dc80a4e5-3d52-4b37-bb82-e75ce17bf6a0.png)
+
+</div>
+
+#### Tela - Dashboard - Visão geral
+Na tela Dashboard(Visão geral) obtem-se um demonstrativo geral da renda e despesas, bem como uma classificação resultante do percentual de endividamento, a ainda um breve resumo das despesas e sua relação aos percentuais ideais.
+
+<div align="center">
+
+Figura 16 - Dashboard(Visão geral)
+	
+![Dashboard - Visão geral](https://user-images.githubusercontent.com/128756585/233219418-4180360a-fca6-4607-90bf-4955946c3703.png)
+
+</div>
+
+#### Tela - Dashboard - Gráficos
+A tela dashboard(gráficos) encontra-se um maior detalhamento bem como gráficos dos percentuais dos gastos essencias e variáveis em relação a suas respectivas categorias
+
+<div align="center">
+
+Figura 17 - Dashboard(Gráficos)
+	
+![Dashboard - Gráficos](https://user-images.githubusercontent.com/128756585/233219962-1ed88b46-45e1-4666-a925-9ec5f05550e4.png)
 
 </div>
 
@@ -558,7 +580,7 @@ A tela de vantagens apresenta blocos informativos com um texto sobre os proveito
 
 <div align="center">
 
-Figura 16 - Vantagens
+Figura 18 - Vantagens
 	
 ![Fluxo do usuário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep2/Vantagens.png)
 
@@ -572,7 +594,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 <div align="center">
 
-Figura 17 - Desvatagens
+Figura 19 - Desvatagens
 	
 ![Fluxo do usuário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep2/Desvantagens.png)
 
@@ -583,7 +605,7 @@ A tela cases de sucesso vai apresentar a história da RICH, motivação, expecta
 
 <div align="center">
 
-Figura 18 - Cases de Sucessos
+Figura 20 - Cases de Sucessos
 	
 ![Fluxo do usuário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep2/Cases.png)
 
