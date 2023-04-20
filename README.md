@@ -410,11 +410,11 @@ A tabela abaixo apresenta as questões que representam obrigações claras para 
 
 ## <a name="metodologia">Metodologia</a>
 
-A metodologia contempla as definições feitas pela equipe a fim de demostrar as ferramentas utilizadas para a organização das tarefas de execução do projeto e também na manutenção de códigos.
+A metodologia contempla as definições feitas pela equipe a fim de demonstrar as ferramentas utilizadas para a organização das tarefas de execução do projeto e também na manutenção de códigos.
 
 ### Relação de Ambientes de Trabalho
 
-Apresentados na tabela a seguir estão as plataformas utilizadas para o desenvolvimento do projeto e a relação dessas ferramentas com o produto.
+Estão apresentadas na tabela a seguir, as plataformas utilizadas para o desenvolvimento do projeto e a relação dessas ferramentas com o produto.
 
 <table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
 <tr>
@@ -482,15 +482,15 @@ Visando um processo de desenvolvimento mais adequado ao escopo do projeto, após
 
 A plataforma Github Project está sendo utilizada pela equipe para organização e distribuição das tarefas do projeto, sendo as atividades segmentadas pelas listas a seguir: 
  
-* **Product Backlog**: contêm a lista de todas as macros tarefas previstas para a entrega de todo o projeto e, a cada sprint, serão elencadas para a lista “To do” conforme prioridades. Se necessário, podem ser descontinuadas. 
+* **Product Backlog**: contém a lista de todas as macros tarefas previstas para a entrega de todo o projeto e, a cada sprint, serão elencadas para a lista “To do” conforme prioridades. Se necessário, podem ser descontinuadas. 
 
 * **To Do**: a lista apresenta todas as tarefas elencadas para serem trabalhadas durante a sprint. 
 
 * **In Progress**: apresenta as tarefas que já foram iniciadas pelos responsáveis atribuídos. 
 
-* **Done**: assim que a tarefa é finalizada ela é apresentada nesta lista. Significa que não haverá mais necessidade de atuação. 
+* **Done**: assim que a tarefa é finalizada ela é apresentada nesta lista. Significa que não haverá mais a necessidade de atuação. 
 
-O quadro kanban  do GitHub Project utilizado pela equipe  está disponível através da URL https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich e, atualmente, se encontra neste estado, conforme Figura Kanban.  
+O quadro kanban do GitHub Project utilizado pela equipe está disponível através da URL https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich e atualmente, se encontra neste estado, conforme Figura Kanban.  
 
 <div align="center">
 
@@ -529,7 +529,7 @@ Conforme fluxo de telas do projeto, apresentado no item Fluxo do Usuário, as te
 <li>Links</li>
 
 #### Tela - Home 
-A tela home mostra os ícones das páginas que compõe o projeto, que levam o usuário para as telas de Dashboard, Vantagens, Desvantagens e Cases de Sucesso.
+A tela Home mostra os ícones das páginas que compõe o projeto, que levam o usuário para as telas de Dashboard, Vantagens, Desvantagens e Cases de Sucesso.
 
 <div align="center">
 
@@ -539,10 +539,11 @@ Figura 14 - Home
 
 </div>
 
-#### Tela - Dashboard - inserção
-A tela Dashboar(inserçãao) apresenta campos onde sera inserido as despesas e a renda financeira em suas respectivas categorias , as categorias estão divididas em:
-<li>Despesas fixas que são aquelas que são inalteráveis e estão presentes mensalmente</li>
-<li>Despesas variáveis que são quelas despesas periódicas provenientes de imprevistos e ocasiões especiais</li>
+#### Tela - Dashboard - Inserção
+A tela Dashboard - Inserção apresenta campos onde será inserido as despesas e a renda financeira em suas respectivas categorias, categorias essas que estão divididas em:
+
+<li>Despesas fixas: aquelas que são inalteráveis e estão presentes mensalmente</li>
+<li>Despesas variáveis: aquelas despesas periódicas provenientes de imprevistos e ocasiões especiais</li>
 <li>Renda que contempla salários, investimentos e outras bonificações</li>
 
 <div align="center">
@@ -553,8 +554,8 @@ Figura 15 - Dashboard(inserção)
 
 </div>
 
-#### Tela - Dashboard - Visão geral
-Na tela Dashboard(Visão geral) obtem-se um demonstrativo geral da renda e despesas, bem como uma classificação resultante do percentual de endividamento, a ainda um breve resumo das despesas em relação aos percentuais ideais.
+#### Tela - Dashboard - Visão Geral
+Na tela Dashboard - Visão Geral obtem-se um demonstrativo geral da renda e despesas, bem como uma classificação resultante do percentual de endividamento, a ainda um breve resumo das despesas em relação aos percentuais ideais.
 
 <div align="center">
 
@@ -565,7 +566,7 @@ Figura 16 - Dashboard(Visão geral)
 </div>
 
 #### Tela - Dashboard - Gráficos
-A tela dashboard(gráficos) encontra-se um maior detalhamento bem como gráficos dos percentuais dos gastos essencias e variáveis em relação a suas respectivas categorias
+Na tela Dashboard - Gráficos encontra-se um detalhamento mais amplo, bem como gráficos dos percentuais dos gastos essencias e variáveis em relação a suas respectivas categorias.
 
 <div align="center">
 
@@ -576,7 +577,7 @@ Figura 17 - Dashboard(Gráficos)
 </div>
 
 #### Tela - Vantagens  
-A tela de vantagens apresenta blocos informativos com um texto sobre os proveitos de adotar a gestão financeira; imagem ilustrativa referente ao texto; vídeo de reportagem relacionado ao conteúdo; texto complementar ao vídeo; e o bloco de barra lateral possui links relacionados.
+A tela Vantagens apresenta blocos informativos com um texto sobre os proveitos de adotar a gestão financeira; imagem ilustrativa referente ao texto; vídeo de reportagem relacionado ao conteúdo; texto complementar ao vídeo; e o bloco de barra lateral possui links relacionados.
 
 <div align="center">
 
@@ -587,7 +588,7 @@ Figura 18 - Vantagens
 </div>
 
 #### Tela - Desvantagens  
-A tela desvantagens apresenta, inicialmente, um texto informativo, que mostra para o leitor algumas desvantagens de não se ter uma gestão financeira que seja coerente com seus ganhos; em seguida tem-se um bloco informativo contendo um texto que precede uma imagem sobre algumas consequências da falta da gestão financeira; em seguida apresenta outro bloco informativo que irá conter texto introdutório falando sobre nome sujo, e um vídeo informativo sobre este assunto.
+A tela Desvantagens apresenta, inicialmente, um texto informativo, que mostra para o leitor algumas desvantagens de não se ter uma gestão financeira que seja coerente com seus ganhos; em seguida tem-se um bloco informativo contendo um texto que precede uma imagem sobre algumas consequências da falta da gestão financeira; em seguida apresenta outro bloco informativo que irá conter texto introdutório falando sobre nome sujo, e um vídeo informativo sobre este assunto.
 
 <div align="center">
 
@@ -597,8 +598,8 @@ Figura 19 - Desvatagens
 
 </div>
 
-#### Tela - Cases de sucesso
-A tela cases de sucesso vai apresentar a história da RICH, motivação, expectativas, visão e também trará experiências de pessoas que se beneficiaram com o site.
+#### Tela - Cases de Sucesso
+A tela Cases de Sucesso apresenta a história da RICH, motivação, expectativas, visão e também experiências de pessoas que se beneficiaram com o site.
 
 <div align="center">
 
