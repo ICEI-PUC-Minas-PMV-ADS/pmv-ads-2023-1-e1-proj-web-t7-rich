@@ -587,7 +587,7 @@ Figura 18 - Vantagens
 </div>
 
 #### Tela - Desvantagens  
-A tela desvantagens apresenta, inicialmente, um texto informativo, que mostra para o leitor algumas desvantagens de não se ter uma gestão financeira que seja coerente com seus ganhos; em seguida tem-se um bloco informativo contendo um texto que precede um vídeo sobre essas desvantagens; em seguida apresenta outro bloco informativo que irá conter texto introdutório falando sobre nome sujo, e uma imagem informativa sobre inadimplência.
+A tela desvantagens apresenta, inicialmente, um texto informativo, que mostra para o leitor algumas desvantagens de não se ter uma gestão financeira que seja coerente com seus ganhos; em seguida tem-se um bloco informativo contendo um texto que precede uma imagem sobre algumas consequências da falta da gestão financeira; em seguida apresenta outro bloco informativo que irá conter texto introdutório falando sobre nome sujo, e um vídeo informativo sobre este assunto.
 
 <div align="center">
 
