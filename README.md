@@ -502,11 +502,11 @@ Figura 12 - Tela do kanban utilizada pela equipe
 
 ## <a name="projetoInterface ">Projeto de Interface </a>
 
-Dentre as preocupações para a montagem da interface do sistema, estamos estabelecendo foco em questões como agilidade, acessibilidade e usabilidade. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis. 
+No desenvolvimento da interface do sistema, foram enfatizadas questões como acessibilidade e usabilidade. Assim, buscamos uma identidade visual uniforme em todas as telas, tanto em desktops quanto em dispositivos móveis.
 
 ### Fluxo do Usuário 
 
-O diagrama apresentado na Figura 13 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o <a href="https://www.canva.com/design/DAFgf8cwCXs/iGznyMJUu8l-dfLF3M3OIw/edit?utm_content=DAFgf8cwCXs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Link real do wireframe</a>
+O diagrama demonstrado na Figura 13 mostra os caminhos de interação possíveis para que o usuário navegue pelas telas do site. Cada uma das telas deste fluxo estão detalhados na seção de Wireframes. Para visualização do wireframe interativo, acesse o <a href="https://www.canva.com/design/DAFgf8cwCXs/iGznyMJUu8l-dfLF3M3OIw/edit?utm_content=DAFgf8cwCXs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Wireframe</a>
 
 <div align="center">
 
