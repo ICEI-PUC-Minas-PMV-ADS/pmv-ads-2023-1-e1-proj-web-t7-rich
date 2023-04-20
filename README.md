@@ -539,12 +539,12 @@ Figura 14 - Home
 
 </div>
 
-#### Tela - Dashboard - Inserção
-A tela Dashboard - Inserção apresenta campos onde será inserido as despesas e a renda financeira em suas respectivas categorias, categorias essas que estão divididas em:
+#### Tela - Dashboard (Inserção, Visão Geral e Gráficos)
+A tela Dashboard possui os seguintes campos:
 
-<li>Despesas fixas: aquelas que são inalteráveis e estão presentes mensalmente</li>
-<li>Despesas variáveis: aquelas despesas periódicas provenientes de imprevistos e ocasiões especiais</li>
-<li>Renda que contempla salários, investimentos e outras bonificações</li>
+<li>Inserção, onde será inserido as despesas e a renda financeira em suas respectivas categorias, categorias essas que estão divididas em: despesas fixas (aquelas que são inalteráveis e estão presentes mensalmente); despesas variáveis (aquelas despesas periódicas provenientes de imprevistos e ocasiões especiais; e renda que contempla salários, investimentos e outras bonificações, demonstrada na figura 15 a seguir.</li>
+<li>Visão Geral, que obtem-se um demonstrativo geral da renda e despesas, bem como uma classificação resultante do percentual de endividamento, a ainda um breve resumo das despesas em relação aos percentuais ideais, demonstrada na figura 16 a seguir.</li>
+<li>Gráficos, onde encontra-se um detalhamento mais amplo, bem como gráficos dos percentuais dos gastos essencias e variáveis em relação a suas respectivas categorias, demontrada na figura 17 a seguir.</li>
 
 <div align="center">
 	
@@ -554,9 +554,6 @@ Figura 15 - Dashboard(inserção)
 
 </div>
 
-#### Tela - Dashboard - Visão Geral
-Na tela Dashboard - Visão Geral obtem-se um demonstrativo geral da renda e despesas, bem como uma classificação resultante do percentual de endividamento, a ainda um breve resumo das despesas em relação aos percentuais ideais.
-
 <div align="center">
 
 Figura 16 - Dashboard(Visão geral)
@@ -564,9 +561,6 @@ Figura 16 - Dashboard(Visão geral)
 ![Dashboard - Visão geral](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep2/Dashboard2.png)
 
 </div>
-
-#### Tela - Dashboard - Gráficos
-Na tela Dashboard - Gráficos encontra-se um detalhamento mais amplo, bem como gráficos dos percentuais dos gastos essencias e variáveis em relação a suas respectivas categorias.
 
 <div align="center">
 
