@@ -549,7 +549,7 @@ A tela Dashboar(inserçãao) apresenta campos onde sera inserido as despesas e a
 	
 Figura 15 - Dashboard(inserção)
 	
-![Dashboard - Inserção de dados](https://user-images.githubusercontent.com/128756585/233218910-dc80a4e5-3d52-4b37-bb82-e75ce17bf6a0.png)
+![Dashboard - Inserção de dados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep2/Dashboard1.png)
 
 </div>
 
@@ -560,7 +560,7 @@ Na tela Dashboard(Visão geral) obtem-se um demonstrativo geral da renda e despe
 
 Figura 16 - Dashboard(Visão geral)
 	
-![Dashboard - Visão geral](https://user-images.githubusercontent.com/128756585/233219418-4180360a-fca6-4607-90bf-4955946c3703.png)
+![Dashboard - Visão geral](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep2/Dashboard2.png)
 
 </div>
 
@@ -571,7 +571,7 @@ A tela dashboard(gráficos) encontra-se um maior detalhamento bem como gráficos
 
 Figura 17 - Dashboard(Gráficos)
 	
-![Dashboard - Gráficos](https://user-images.githubusercontent.com/128756585/233219962-1ed88b46-45e1-4666-a925-9ec5f05550e4.png)
+![Dashboard - Gráficos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep2/Dashboard3.png)
 
 </div>
 
