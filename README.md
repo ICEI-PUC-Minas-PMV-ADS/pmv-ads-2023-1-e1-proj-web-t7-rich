@@ -603,6 +603,54 @@ Figura 20 - Cases de Sucessos
 
 </div>
 
+## <a name="TemplateSite">Template do Site </a>
+A figura 21, demonstra o layout padrão a ser utilizado como base para todas as páginas do site, conforme apresentado anteriomente no tópico referente ao Projeto de Interface.
+
+<div align="center">
+
+Figura 21 - Template padrão do site
+	
+![Template Padrão do site](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep3/template.png)
+
+</div>
+
+O template se encontra disponível no site: https://www.canva.com/design/DAFhxkv1gVk/tiNTE00T4Chx4Ecz4_jGGQ/edit?utm_content=DAFhxkv1gVk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## <a name="FuncionalidadesSistema">Funcionalidades do Sistema </a>
+Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) e outras orientações de acesso são apresentadas na sequência.
+
+### Acessibilidade - Tradutor para Libras (RF-02)
+
+A funcionalidade de traduzir os textos em libras está presente em todas as páginas dos site. A figura 22, apresenta o exemplo do tradutor de libras disponível em tela. O código referente a essa funcionalidade está arquivado na pasta "Src" deste projeto, estruturada no HTML contendo importação de link externo. 
+
+<div align="center">
+
+Figura 22 - Acessibilidade - Tradutor para Libras (Imagem ainda será alocada)
+	
+![Libras](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep3/libras.png)
+
+</div>
+
+#### Requisitos atendidos
+
+* RF-02
+
+#### Artefatos da funcionalidade
+
+* index.html
+
+#### Estrutura de Dados (imagem ainda será inserida, não contará como figura)
+
+<div align="center">
+	
+![Dados Libras](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep3/dadosLibras.png)
+
+</div>
+
+#### Instruções de acesso
+
+1. Abra um navegador de Internet e informe a seguinte URL: xxx. 
+2. A tela contendo o função de tradutor de libras estará presente em todas as páginas.
 
 ## Referências
 	
