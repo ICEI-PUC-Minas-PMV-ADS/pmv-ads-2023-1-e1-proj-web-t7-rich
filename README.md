@@ -86,7 +86,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 Figura 1- proporção de famílias endividas 
 	
-![Figura 1- proporção de famílias endividas primeira](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/Figura%201-%20propor%C3%A7%C3%A3o%20de%20fam%C3%ADlias%20endividas.PNG)
+![Figura 1- proporção de famílias endividas primeira](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep1/Figura%201-%20propor%C3%A7%C3%A3o%20de%20fam%C3%ADlias%20endividas.PNG)
 	
 Fonte: Peic/CNC 
 
