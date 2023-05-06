@@ -625,9 +625,9 @@ A funcionalidade de traduzir os textos em libras está presente em todas as pág
 
 <div align="center">
 
-Figura 22 - Acessibilidade - Tradutor para Libras (Imagem ainda será alocada)
+Figura 22 - Acessibilidade - Tradutor para Libras
 	
-![Libras](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep3/libras.png)
+![Libras](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/default01.PNG)
 
 </div>
 
@@ -637,13 +637,13 @@ Figura 22 - Acessibilidade - Tradutor para Libras (Imagem ainda será alocada)
 
 #### Artefatos da funcionalidade
 
-* index.html
+* default.html
 
-#### Estrutura de Dados (imagem ainda será inserida, não contará como figura)
+#### Estrutura de Dados 
 
 <div align="center">
 	
-![Dados Libras](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep3/dadosLibras.png)
+![Dados Libras](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/default02.PNG)
 
 </div>
 
