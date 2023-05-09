@@ -3,13 +3,12 @@
 <li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#documentacao">Documentação</a></li>
 <li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#especificacaoprojeto"> Especificação do Projeto</a></li>
 <li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#metodologia"> Metodologia</a></li>
-<li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
-<li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
-<li><a href="docs/06-Template padrão do Site.md"> Template padrão do Site</a></li>
-<li><a href="docs/07-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
-<li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
-<li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
-<li><a href="docs/10-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#projetoInterface"> Projeto de Interface</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#TemplateSite"> Template padrão do Site</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#FuncionalidadesSistema"> Programação de Funcionalidades</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#"> Plano de Testes de Software</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#"> Registro de Testes de Software</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#"> Apresentação do Projeto</a></li>
 
 # EDUCAÇÃO FINANCEIRA
 
@@ -614,14 +613,12 @@ Figura 21 - Template padrão do site
 
 </div>
 
-O template se encontra disponível no site: https://www.canva.com/design/DAFhxkv1gVk/tiNTE00T4Chx4Ecz4_jGGQ/edit?utm_content=DAFhxkv1gVk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
 ## <a name="FuncionalidadesSistema">Funcionalidades do Sistema </a>
 Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) e outras orientações de acesso são apresentadas na sequência.
 
 ### Acessibilidade - Tradutor para Libras (RF-02)
 
-A funcionalidade de traduzir os textos em libras está presente em todas as páginas dos site. A figura 22, apresenta o exemplo do tradutor de libras disponível em tela. O código referente a essa funcionalidade está arquivado na pasta "Src" deste projeto, estruturada no HTML contendo importação de link externo. 
+A funcionalidade de traduzir os textos em libras está presente em todas as páginas dos site. A figura 22, apresenta o exemplo do tradutor de libras disponível em tela. O código referente a essa funcionalidade está arquivado na pasta "src" deste projeto, estruturada no HTML contendo importação de link externo. 
 
 <div align="center">
 
@@ -649,8 +646,14 @@ Figura 22 - Acessibilidade - Tradutor para Libras
 
 #### Instruções de acesso
 
-1. Abra um navegador de Internet e informe a seguinte URL: xxx. 
-2. A tela contendo o função de tradutor de libras estará presente em todas as páginas.
+1. Abra um navegador de Internet e informe a seguinte URL: <br>
+* 1.1 Para visualizar o requisito na página Home: [Home](https://pedro-hfc.github.io/index.html/)
+* 1.2 Para visualizar o requisito na página Dashboard: [Dashboard](https://matheuspucgit.github.io/dashboard.html/)
+* 1.3 Para visualizar o requisito na página Vantagens: [Vantagens](https://lorenapoli.github.io/vantagens.html/)
+* 1.4 Para visualizar o requisito na página Desvantagens: [Desvantagens](https://bieldrummer.github.io/desvantagens.html/)
+* 1.5 Para visualizar o requisito na página Cases de sucesso: [Cases de sucesso](https://ph-ol.github.io/casessucesso.html/)
+
+2. A função de traduzir em libras estará presente em todas as páginas.
 
 ## Referências
 	
