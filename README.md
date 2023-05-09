@@ -499,7 +499,7 @@ Figura 12 - Tela do kanban utilizada pela equipe
 
 </div>
 
-## <a name="projetointerface ">Projeto de Interface </a>
+## <a name="projetointerface">Projeto de Interface </a>
 
 No desenvolvimento da interface do sistema, foram enfatizadas questões como acessibilidade e usabilidade. Assim, buscamos uma identidade visual uniforme em todas as telas, tanto em desktops quanto em dispositivos móveis.
 
