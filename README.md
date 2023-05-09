@@ -647,7 +647,7 @@ Figura 22 - Acessibilidade - Tradutor para Libras
 #### Instruções de acesso
 
 1. Abra um navegador de Internet e informe a seguinte URL: <br>
-* 1.1 Para visualizar apenas o requisito R-02:[R02](https://talitadevspuc.github.io/educacaoFinanceiraR02/default.html)
+* 1.1 Para visualizar apenas o requisito "R02": [R02](https://talitadevspuc.github.io/educacaoFinanceiraR02/default.html)
 * 1.1 Para visualizar o requisito na página Home: [Home](https://pedro-hfc.github.io/educacaoFinanceira/index.html/)
 * 1.2 Para visualizar o requisito na página Dashboard: [Dashboard](https://matheuspucgit.github.io/educacaoFinanceira/dashboard.html/)
 * 1.3 Para visualizar o requisito na página Vantagens: [Vantagens](https://lorenapoli.github.io/educacaoFinanceira/vantagens.html/)
