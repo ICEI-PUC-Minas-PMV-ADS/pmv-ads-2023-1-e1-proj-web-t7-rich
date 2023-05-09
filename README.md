@@ -647,11 +647,12 @@ Figura 22 - Acessibilidade - Tradutor para Libras
 #### Instruções de acesso
 
 1. Abra um navegador de Internet e informe a seguinte URL: <br>
-* 1.1 Para visualizar o requisito na página Home: [Home](https://pedro-hfc.github.io/index.html/)
-* 1.2 Para visualizar o requisito na página Dashboard: [Dashboard](https://matheuspucgit.github.io/dashboard.html/)
-* 1.3 Para visualizar o requisito na página Vantagens: [Vantagens](https://lorenapoli.github.io/vantagens.html/)
-* 1.4 Para visualizar o requisito na página Desvantagens: [Desvantagens](https://bieldrummer.github.io/desvantagens.html/)
-* 1.5 Para visualizar o requisito na página Cases de sucesso: [Cases de sucesso](https://ph-ol.github.io/casessucesso.html/)
+* 1.1 Para visualizar apenas o requisito R-02:[R02](https://talitadevspuc.github.io/educacaoFinanceiraR02/default.html)
+* 1.1 Para visualizar o requisito na página Home: [Home](https://pedro-hfc.github.io/educacaoFinanceira/index.html/)
+* 1.2 Para visualizar o requisito na página Dashboard: [Dashboard](https://matheuspucgit.github.io/educacaoFinanceira/dashboard.html/)
+* 1.3 Para visualizar o requisito na página Vantagens: [Vantagens](https://lorenapoli.github.io/educacaoFinanceira/vantagens.html/)
+* 1.4 Para visualizar o requisito na página Desvantagens: [Desvantagens](https://bieldrummer.github.io/educacaoFinanceira/desvantagens.html/)
+* 1.5 Para visualizar o requisito na página Cases de sucesso: [Cases de sucesso](https://ph-ol.github.io/educacaoFinanceira/casessucesso.html/)
 
 2. A função de traduzir em libras estará presente em todas as páginas.
 
