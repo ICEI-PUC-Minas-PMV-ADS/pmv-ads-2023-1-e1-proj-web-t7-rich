@@ -3,9 +3,9 @@
 <li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#documentacao">Documentação</a></li>
 <li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#especificacaoprojeto"> Especificação do Projeto</a></li>
 <li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#metodologia"> Metodologia</a></li>
-<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#projetoInterface"> Projeto de Interface</a></li>
-<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#TemplateSite"> Template padrão do Site</a></li>
-<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#FuncionalidadesSistema"> Programação de Funcionalidades</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#projetointerface"> Projeto de Interface</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#templatesite"> Template padrão do Site</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#funcionalidadessistema"> Programação de Funcionalidades</a></li>
 <li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#"> Plano de Testes de Software</a></li>
 <li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#"> Registro de Testes de Software</a></li>
 <li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#"> Apresentação do Projeto</a></li>
@@ -602,7 +602,7 @@ Figura 20 - Cases de Sucessos
 
 </div>
 
-## <a name="TemplateSite">Template do Site </a>
+## <a name="templatesite">Template do Site </a>
 A figura 21, demonstra o layout padrão a ser utilizado como base para todas as páginas do site, conforme apresentado anteriomente no tópico referente ao Projeto de Interface.
 
 <div align="center">
@@ -613,7 +613,7 @@ Figura 21 - Template padrão do site
 
 </div>
 
-## <a name="FuncionalidadesSistema">Funcionalidades do Sistema </a>
+## <a name="funcionalidadessistema">Funcionalidades do Sistema </a>
 Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) e outras orientações de acesso são apresentadas na sequência.
 
 ### Acessibilidade - Tradutor para Libras (RF-02)
