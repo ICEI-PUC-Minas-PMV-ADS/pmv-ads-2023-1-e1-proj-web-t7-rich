@@ -656,6 +656,34 @@ Figura 22 - Acessibilidade - Tradutor para Libras
 
 2. A função de traduzir em libras estará presente em todas as páginas.
 
+### Dashboard - Campos de input de informações (RF-07)
+
+Nesta tela, está contido os campos onde serão imputados as despesas fixas do usuário. A figura 23 apresenta os campos existentes e o local onde se deve inserir os valors além de um campo "resultado" que soma os valores inseridos
+
+<div align="center">
+
+Figura 23 - Dashboard - Campos de input de informações
+	
+![figura23](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/63ee947a-985b-417d-a009-91f18f82d55a)
+	
+### Requisitos atendidos
+	
+* RF-07
+	
+#### Artefatos da funcionalidade
+
+* dashboard.html
+* script.js
+* default.css
+	
+### Estrutura de dados
+	
+![estruturaDeDados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/d4b9948b-d14c-4099-beb8-34c907e8e933)
+	
+###  Instruções de acesso
+	
+1. Abra um navegador de internet e informe o seguinte URL: https://matheuspucgit.github.io/dashboard.html
+
 ## Referências
 	
 &nbsp;&nbsp; A lista a seguir traz as referências utilizadas nesse trabalho. são elas: 
