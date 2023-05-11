@@ -21,6 +21,8 @@ body {
     border:solid;
     height: 4rem;
     text-align: center;
+    display: flex;
+    flex-direction: column;
 }
 
 .defaultTemplateBody {
@@ -35,3 +37,36 @@ body {
     text-align: center;
 }
 /*Fim padrão*/
+#container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#dados{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    min-width: 170px;
+    max-width: 250px;
+    height: 250px;
+    margin: 20px;
+    margin-top: 42px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+}
+ input{
+    height: 20px;
+    border-radius: 10px;
+ }
+ #resultado{
+    background-color: #f2f2f2;
+    width: 30%;
+    height: 80px;
+    margin-top: 20px;
+ }
+
+    
+    
