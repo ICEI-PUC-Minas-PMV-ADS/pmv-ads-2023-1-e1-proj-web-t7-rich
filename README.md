@@ -666,6 +666,8 @@ Figura 23 - Dashboard - Campos de input de informações
 	
 ![figura23](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/63ee947a-985b-417d-a009-91f18f82d55a)
 	
+</div>
+	
 ### Requisitos atendidos
 	
 * RF-07
