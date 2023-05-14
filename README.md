@@ -687,6 +687,7 @@ O GIF abaixo mostra o requisito funcionando.
 ![Educação-Financeira-Google-Chrome-2023-05-13-23-37-43](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/b4f502a0-0bdd-4fd2-8bb3-08deec42a5e4)
 	
 </div>
+
 ### Requisitos atendidos
 
 * RF-10
