@@ -772,6 +772,39 @@ Figura 32 - Código CSS
 1. Abra um navegador de internet e informe o seguinte URL: https://pedro-hfc.github.io/paginaPrincipalRich/;
 2. Clique em qualquer uma das imagens ou textos com base na página desejada e seja redirecionado
 
+### Vídeos relacionados à Educação Financeira (RF-12)
+A Funcionalidade de apresentar vídeos sobre a educação financeira encontra-se nas págicnas de  "Cases de Sucesso", "Desvantagens” e "Vantagens". O código referente a essa funcionalidade está arquivado na pasta "src" deste projeto, estruturada no HTML/CSS contendo importação de link externo. Um exemplo da tela é apresentada na figura 33.
+
+<div align="center">
+	
+Figura 33 - Vídeos relacionados à Educação Financeira (RF-12)	
+	
+![Requito 12](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/RF-12%20template.png)
+	
+</div>
+
+### Requisitos atendidos
+
+* RF-12
+	
+#### Artefatos da funcionalidade
+* vantagens.html
+
+#### Estrutura de Dados
+
+<div align="center">
+
+Figura 33 - Código HTML/CSS
+	
+![RF-12](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/RF-12.png)
+
+</div>
+	
+### Instruções de Acesso
+
+1. Abra um navegador de internet e informe o seguinte URL: https://lorenapoli.github.io/vantagens.html
+2. Este requisito estará presente nas páginas "Cases de Sucesso", "Desvantagens" e "Vantagens".
+
 ## Referências	
 &nbsp;&nbsp; A lista a seguir traz as referências utilizadas nesse trabalho. são elas: 
 
