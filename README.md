@@ -698,11 +698,12 @@ O GIF abaixo mostra o requisito funcionando.
 * ProjectEduFinan.js
 
 ### Estrutura de dados
-
 <div align="center">
-Figura 24 - código HTML.
+
+	Figura 24 - código HTML.
 	<p></p>
-![HTML](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/bd67b1c5-6104-4528-b214-e34b4c9efb73)
+	
+	![HTML](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/bd67b1c5-6104-4528-b214-e34b4c9efb73)
 
 
 Figura 25 - Código CSS.
