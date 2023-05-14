@@ -687,6 +687,7 @@ Figura 26 - Código JS
 ![figura26](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/f373a639-9cc7-4262-95bd-02c0d7c9ae92)	
 	
 </div>
+
 ###  Instruções de acesso
 	
 1. Abra um navegador de internet e informe o seguinte URL: https://matheuspucgit.github.io/dashboard.html;
