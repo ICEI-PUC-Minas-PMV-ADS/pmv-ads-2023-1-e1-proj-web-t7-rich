@@ -668,16 +668,30 @@ Figura 23 - Dashboard - Campos de input de informações
 #### Artefatos da funcionalidade
 
 * dashboard.html
-* script.js
-* default.css
+* dashboard.js
+* dashboard.css
 	
 ### Estrutura de dados
+
+<div align="center">
+Figura 24 - Código HTML
 	
 ![estruturaDeDados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/d4b9948b-d14c-4099-beb8-34c907e8e933)
 	
+Figura 25 - Código CSS
+	
+![figura25](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/6f68561f-1f67-4c65-a3a7-e27116ec9625)
+	
+Figura 26 - Código JS
+
+![figura26](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/f373a639-9cc7-4262-95bd-02c0d7c9ae92)	
+	
+</div>
 ###  Instruções de acesso
 	
-1. Abra um navegador de internet e informe o seguinte URL: https://matheuspucgit.github.io/dashboard.html
+1. Abra um navegador de internet e informe o seguinte URL: https://matheuspucgit.github.io/dashboard.html;
+2. Digite os valores nos campos indicados;
+3. Clique em "Resultado";
 
 ### Dashboard - Mensagem orientativa (RF-10)
 Ainda na tela dashboard, após os dados serem inputados pelo usuário, o site apresentará um pop-up informativo, antes do usuário prosseguir para a próxima página.
@@ -700,15 +714,15 @@ O GIF abaixo mostra o requisito funcionando.
 
 ### Estrutura de dados
 <div align="center">
-Figura 24 - código HTML.
+Figura 27 - código HTML.
 	
 ![HTML](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/bd67b1c5-6104-4528-b214-e34b4c9efb73)
 	
-Figura 25 - código CSS	
+Figura 28 - código CSS	
 
 ![Css](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/bf6ad6e0-791d-4280-a45d-b8aa6e65e07f)
 
-Figura 26- código JavaScript
+Figura 29- código JavaScript
 	
 ![JavaScript](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/8d87fa02-e7ab-46b6-a3cc-693b9a78af40)
 
@@ -723,7 +737,7 @@ Figura 26- código JavaScript
 ### Homepage - Redirecionamento de Páginas (RF-06)
 <div align="center">
 
-Figura 27 - Redirecionamento
+Figura 30 - Redirecionamento
 	
 ![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep3/telaHomepage.png)
 
@@ -738,7 +752,7 @@ Figura 27 - Redirecionamento
 
 <div align="center">
 
-Figura 28 - Código HTML
+Figura 31 - Código HTML
 	
 ![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep3/MicrosoftTeams-image.png)
 
@@ -746,7 +760,7 @@ Figura 28 - Código HTML
 	
 <div align="center">
 
-Figura 29 - Código CSS
+Figura 32 - Código CSS
 	
 ![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep3/css-rf06.png)
 
