@@ -715,7 +715,9 @@ Figura 26- código JavaScript
 	
 ### Instruções de acesso
 
-1. Abra um navegador de internet e informe o seguinte URL: https://bieldrummer.github.io/ProjectEduFinan/
+1. Abra um navegador de internet e informe o seguinte URL: https://bieldrummer.github.io/ProjectEduFinan/;
+2. Digite os valores nos campos indicados;
+3. Clique em 'Resultado'.
 
 ## Referências	
 &nbsp;&nbsp; A lista a seguir traz as referências utilizadas nesse trabalho. são elas: 
