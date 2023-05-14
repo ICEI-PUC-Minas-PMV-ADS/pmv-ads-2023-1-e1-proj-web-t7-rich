@@ -680,7 +680,7 @@ Figura 23 - Dashboard - Campos de input de informações
 1. Abra um navegador de internet e informe o seguinte URL: https://matheuspucgit.github.io/dashboard.html
 
 ### Dashboard - Mensagem orientativa (RF-10)
-Ainda na tela dashboard, após os dados serem inputados pelo usuário, o site apresentará uma mensagem informativa, alertando sobre a sua situação financeira atual, levando em consideração a relação salário/gastos.
+Ainda na tela dashboard, após os dados serem inputados pelo usuário, o site apresentará um pop-up informativo, antes do usuário prosseguir para a próxima página.
 <div align="center">
 O GIF abaixo mostra o requisito funcionando.
 	
