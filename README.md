@@ -699,10 +699,11 @@ O GIF abaixo mostra o requisito funcionando.
 
 ### Estrutura de dados
 <div align="center">
-
-![HTML](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/bd67b1c5-6104-4528-b214-e34b4c9efb73)
-	<p></p>
 Figura 24 - código HTML.
+	<p></p>
+![HTML](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/bd67b1c5-6104-4528-b214-e34b4c9efb73)
+	
+
 
 >
 ![Css](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/bf6ad6e0-791d-4280-a45d-b8aa6e65e07f)
