@@ -720,6 +720,43 @@ Figura 26- código JavaScript
 2. Digite os valores nos campos indicados;
 3. Clique em 'Resultado'.
 
+### Homepage - Redirecionamento de Páginas (RF-06)
+<div align="center">
+
+Figura 27 - Redirecionamento
+	
+![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep3/telaHomepage.png)
+
+</div>
+
+#### Artefatos da funcionalidade
+* index.html
+* index.css
+* default.css
+
+#### Estrutura de Dados
+
+<div align="center">
+
+Figura 28 - Código HTML
+	
+![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep3/MicrosoftTeams-image.png)
+
+</div>
+	
+<div align="center">
+
+Figura 29 - Código CSS
+	
+![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep3/css-rf06.png)
+
+</div>
+
+### Instruções de Acesso
+
+1. Abra um navegador de internet e informe o seguinte URL: https://pedro-hfc.github.io/paginaPrincipalRich/;
+2. Clique em qualquer uma das imagens ou textos com base na página desejada e seja redirecionado
+
 ## Referências	
 &nbsp;&nbsp; A lista a seguir traz as referências utilizadas nesse trabalho. são elas: 
 
