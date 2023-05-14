@@ -709,6 +709,7 @@ Figura 25 - Código CSS.
 
 Figura26 - Código JavaScript.
 ![JavaScript](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/8d87fa02-e7ab-46b6-a3cc-693b9a78af40)
+</div>
 	
 ### Instruções de acesso
 
