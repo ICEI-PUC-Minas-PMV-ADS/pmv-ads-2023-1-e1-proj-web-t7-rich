@@ -679,8 +679,42 @@ Figura 23 - Dashboard - Campos de input de informações
 	
 1. Abra um navegador de internet e informe o seguinte URL: https://matheuspucgit.github.io/dashboard.html
 
-## Referências
+### Dashboard - Mensagem orientativa (RF-10)
+Ainda na tela dashboard, após os dados serem inputados nos campos informativos sobre as despesas do usuários (RF-07), o site apresentará uma mensagem informativa, alertando sobre a sua situação financeira atual, levando em consideração a relação salário/gastos.
+<div align="center">
+O GIF abaixo mostra o requisito funcionando.
 	
+![Educação-Financeira-Google-Chrome-2023-05-13-23-37-43](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/b4f502a0-0bdd-4fd2-8bb3-08deec42a5e4)
+	
+</div>
+### Requisitos atendidos
+
+* RF-10
+
+### Artefatos da funcionalidade
+
+* ProjectEduFinan.html
+* style.css
+* ProjectEduFinan.js
+
+### Estrutura de dados
+
+<div align="center">
+
+Figura 24 - código HTML.
+![HTML](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/bd67b1c5-6104-4528-b214-e34b4c9efb73)
+
+Figura 25 - Código CSS.
+![Css](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/bf6ad6e0-791d-4280-a45d-b8aa6e65e07f)
+
+Figura26 - Código JavaScript.
+![JavaScript](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/8d87fa02-e7ab-46b6-a3cc-693b9a78af40)
+	
+### Instruções de acesso
+
+1. Abra um navegador de internet e informe o seguinte URL: https://bieldrummer.github.io/ProjectEduFinan/
+
+## Referências	
 &nbsp;&nbsp; A lista a seguir traz as referências utilizadas nesse trabalho. são elas: 
 
 * 70% das pessoas não têm reserva de emergência. Yahoo. Disponível em: https://br.notícias.yahoo.com/7-a-cada-10-pessoas-nao-tem-reserva-de-emergencia-172559188.html. Acesso em: 05 mar.2023. 
