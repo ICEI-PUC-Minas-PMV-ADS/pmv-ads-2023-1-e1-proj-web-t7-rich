@@ -1,10 +1,17 @@
-function clicar(){
-    var num1 = document.querySelector(".num1").value;
-    var num2 = document.querySelector(".num2").value;
-    var num3 = document.querySelector(".num3").value;
-    var num4 = document.querySelector(".num4").value;
-    var num5 = document.querySelector(".num5").value;
+window.onload = function() {
+    var elementBody = document.querySelector('body');
+    var elementBtnIncreaseFont = document.getElementById('increase-font');
+    var elementBtnDecreaseFont = document.getElementById('decrease-font');
+    var fontSize = 100;
+    var increaseDecrease = 22;
 
-    var resultado ="R$" +(parseInt(num1) + parseInt(num2) + parseInt(num3)+ parseInt(num4)+ parseInt(num5));
-    document.querySelector(".Resultado").innerHTML = resultado;
+    elementBtnIncreaseFont.addEventListener('click', function(event) {
+        fontSize = fontSize + increaseDecrease;
+        elementBody.style.fontSize = fontSize + '%';
+    });
+    
+    elementBtnDecreaseFont.addEventListener('click', function(event) {
+        fontSize = fontSize - increaseDecrease;
+        elementBody.style.fontSize = fontSize + '%';
+    });
 }
