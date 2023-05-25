@@ -35,27 +35,30 @@ footer {
 }
 
 #footerImg {
-    height: 90vh;
+    height: 83vh;
+    padding: 6vh;
     transition: transform 0.3s ease-in-out;
 }
 
 #footerSpan {
     color: var(--corPadraoAzulClaro);
-    padding: 15px 0 0 0;
     transition: transform 0.3s ease-in-out;
-    font-size: 0.8rem;
+    font-size: 25vh;
+    padding: 35vh;
 }
 
 #footerI {
     color: var(--corPadraoAzulClaro);
-    padding: 12px 0 0 0;
+    padding: 15px 0 0 0;
     transition: transform 0.3s ease-in-out;
     /* height: 10vh; */
-    font-size: 1.3rem;
+    /* font-size: 1.3rem; */
+    font-size: 45vh;
+    padding: 25vh;
 }
 
 .footerHover:hover{
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
 /*Fim padrão*/
 
