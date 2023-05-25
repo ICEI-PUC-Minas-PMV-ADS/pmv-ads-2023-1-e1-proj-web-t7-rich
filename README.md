@@ -805,6 +805,50 @@ Figura 33 - Código HTML/CSS
 1. Abra um navegador de internet e informe o seguinte URL: https://lorenapoli.github.io/vantagens.html
 2. Este requisito estará presente nas páginas "Cases de Sucesso", "Desvantagens" e "Vantagens".
 
+### Rodapé (RF-04)
+
+A funcionalidade do Rodapé foi desenvolvida como um componente reutilizável e se encontra disponível em todas as páginas do site. A figura 34 demonstra como o rodapé apresenta-se estaticamente em tela, sendo que, dinamicamente, possui uma funcionalidade de aumentar o tamanho da Logomarca e do ícone de e-mail ao passar o mouse por cima destes e de clicar no ícone de e-mail para abrir a ferramente Gmail do Google. O código referente a essa funcionalidade está arquivado na pasta "src" deste projeto com o nome de footer.html e footer.css, estruturada no HTML contendo importação de link externo. 
+
+<div align="center">
+
+Figura 33 - Rodapé
+	
+![Rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/rodape01.PNG)
+
+</div>
+
+Por se tratar de um componente reutilizável que visa otimizar o aproveitamento da funcionalidade, faz-se necessária duas ações no HTML de cada página: a importação de um link dentro da tag Head (linha 10) e a inserção de uma div no fim do body (linha 14 a 16) contendo as informações conforme demarcado na figura 34 a seguir: 
+
+<div align="center">
+
+Figura 34 - Importação do Rodapé
+	
+![Importação do Rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/rodape03.png)
+
+</div>
+
+#### Requisitos atendidos
+
+* RF-04
+
+#### Artefatos da funcionalidade
+
+* footer.html
+* footer.css
+
+#### Estrutura de Dados 
+
+<div align="center">
+	
+![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/rodape02.PNG)
+
+</div>
+
+#### Instruções de acesso
+
+1. Abra um navegador de Internet e informe a seguinte URL: [R04](https://talitadevspuc.github.io/educacaoFInanceiraR04/footerComponente.html)
+2. A função do rodapé estará presente em todas as páginas do site.
+
 ## Referências	
 &nbsp;&nbsp; A lista a seguir traz as referências utilizadas nesse trabalho. são elas: 
 
