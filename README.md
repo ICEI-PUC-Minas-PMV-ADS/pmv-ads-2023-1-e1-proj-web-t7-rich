@@ -6,9 +6,12 @@
 <li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#projetointerface"> Projeto de Interface</a></li>
 <li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#templatesite"> Template padrão do Site</a></li>
 <li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#funcionalidadessistema"> Programação de Funcionalidades</a></li>
-<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#"> Plano de Testes de Software</a></li>
-<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#"> Registro de Testes de Software</a></li>
-<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#"> Apresentação do Projeto</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#planoteste"> Plano de Testes de Software</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#registroteste"> Registro de Testes de Software</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#hospedagem"> hospedagem</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#alunoxrequisito"> Responsáveis pelo desenvolvimento dos requisitos</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#apresentacao"> Apresentação do Projeto</a></li>
+
 
 # EDUCAÇÃO FINANCEIRA
 
@@ -848,6 +851,90 @@ Figura 34 - Importação do Rodapé
 
 1. Abra um navegador de Internet e informe a seguinte URL: [R04](https://talitadevspuc.github.io/educacaoFInanceiraR04/footerComponente.html)
 2. A função do rodapé estará presente em todas as páginas do site.
+
+## <a name="planoteste">Plano de Testes de Software</a>
+
+## <a name="registroteste">Registro de Testes de Software</a>
+
+## <a name="hospedagem">Hospedagem</a>
+
+A hospedagem do site do projeto se encontra disponível na ferramenta Github Pages e pode se acessada das formas listadas a seguir:<br>
+ * Código fonte: https://github.com/ICEI-PUC-Minas-PMV-ADS/educacaofinanceira <br>
+ * Visualização do site: https://icei-puc-minas-pmv-ads.github.io/educacaofinanceira/ <br>
+
+## <a name="alunoxrequisito">Responsáveis pelo desenvolvimento dos requisitos</a>
+
+Na tabela a seguir, estão detalhes os responsáveis pelo desenvolvimento de cada detalhe do projeto, segmentado por etapas:
+ 
+
+<table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
+<tr>
+	<td>Desenvolvedor</td>
+	<td>Etapa 1</td>
+	<td>Etapa 2</td>
+	<td>Etapa 3</td>
+	<td>Etapa 4</td>
+</tr>
+
+<tr>
+	<td>Gabriel Augusto Mendes Do Espirito Santo</td>
+	<td>Especificação do projeto - restrições <br><br> Documento de contexto - Justificativa parte 2</td>
+	<td>Projeto de interface - Wireframes Desvantagem  <br><br> Metodologia - Relação de ambientes de trabalho</td>
+	<td>RF-10</td>
+	<td>RF-09  <br><br> caso e evidência:RF-09, RF-10</td>
+</tr>
+	
+<tr>
+	<td>Lorena Poliane De Oliveira</td>
+	<td>Especificação do projeto - 3 histórias <br><br> Documento de contexto - Problema</td>
+	<td>Arquitetura de solução - Hospedagem <br><br> Projeto de interface - Wireframes Vantagens</td>
+	<td>RF-12</td>
+	<td>RF-05 <br><br> caso e evidência:RF-05, RF-12</td>
+</tr>
+	
+<tr>
+	<td>Matheus Soares Da Silva</td>
+	<td>Especificação do projeto - requisitos não funcionais <br><br> Documento de contexto - Justificativa parte 1</td>
+	<td>Arquitetura de solução - Diagrama de Componentes <br><br> Projeto de interface - Wireframes Dashboard</td>
+	<td>RF-07</td>
+	<td>RF-08 <br><br> caso e evidência:RF-07, RF-08</td>
+</tr>
+	
+<tr>
+	<td>Pedro Henrique De Oliveira Lima</td>
+	<td>Documento de contexto - Público alvo <br><br> Especificação do projeto - 3 personas</td>
+	<td>Projeto de interface - Wireframes Cases de sucesso <br><br> Apoio na padronização dos Wireframes</td>
+	<td>-</td>
+	<td>-</td>
+</tr>
+	
+<tr>
+	<td>Pedro Henrique Filgueiras Couto</td>
+	<td>Especificação do projeto - 3 histórias <br><br> Documento de contexto - Documentação de contexto</td>
+	<td>Projeto de interface - Wireframes Home Page <br><br> Projeto de interface - Fluxo do usuário</td>
+	<td>RF 06</td>
+	<td>RF-01 <br><br> caso e evidência:RF-01, RF 06/td>
+</tr>
+	
+<tr>
+	<td>Talita Fernandes Silva</td>
+	<td>Especificação do projeto - 3 personas, Documento de contexto - Objetivo <br><br> Documento de contexto - Referência e ajuste ABNT</td>
+	<td>Metodologia - Gerenciamento do projeto <br><br> Projeto de interface - Wireframes Geral <br><br> Apoio na padronização dos wireframes</td>
+	<td>RF-02 <br><br> Template padrão do site, Criação repositório hospedagem</td>
+	<td>RF-03 <br><br> RF-04 <br><br> RF-11 <br><br> caso e evidência:RF-03, RF-04, RF-11</td>
+</tr>
+	
+<tr>
+	<td>Todos</td>
+	<td>Documento de contexto - revisão geral</td>
+	<td>Projeto de interface - Wireframes Revisão geral, Arquitetura da solução - Revisão geral, Projeto de interface - Revisão geral, Metodologia - Revisão geral</td>
+	<td>Etapa 3</td>
+	<td>Definição do root, estilo, tamanho e cor da fonte, do padding e da margin, background, logomarca, nome dos arquivos e imagens e responsividade.</td>
+</tr>
+	
+</table>
+
+## <a name="apresentacao">Apresentação do Projeto</a>
 
 ## Referências	
 &nbsp;&nbsp; A lista a seguir traz as referências utilizadas nesse trabalho. são elas: 
