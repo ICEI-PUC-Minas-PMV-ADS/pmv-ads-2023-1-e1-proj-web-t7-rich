@@ -1,11 +1,11 @@
 # ÍNDICE
 
-<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#documentacao">Documentação</a></li><br>
-<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#especificacaoprojeto"> Especificação do Projeto</a></li><br>
-<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#metodologia"> Metodologia</a></li><br>
-<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#projetointerface"> Projeto de Interface</a></li><br>
-<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#templatesite"> Template padrão do Site</a></li><br>
-<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#funcionalidadessistema"> Programação de Funcionalidades</a></li><br>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#documentacao">Documentação</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#especificacaoprojeto"> Especificação do Projeto</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#metodologia"> Metodologia</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#projetointerface"> Projeto de Interface</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#templatesite"> Template padrão do Site</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#funcionalidadessistema"> Programação de Funcionalidades</a></li>
 &nbsp &nbsp &nbsp<a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf01"> RF-01</a>, 
  <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf02"> RF-02</a>, 
  <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf03"> RF-03</a>, 
@@ -17,7 +17,7 @@
  <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf09"> RF-09</a>, 
  <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf10"> RF-10</a>, 
  <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf11"> RF-11</a> e 
- <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf12"> RF-12</a><br><br>
+ <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf12"> RF-12</a>
 <li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#planoteste"> Plano de Testes de Software</a></li>
 &nbsp &nbsp &nbsp<a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf01plano"> RF-01</a>, 
  <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf02plano"> RF-02</a>, 
@@ -30,7 +30,7 @@
  <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf09plano"> RF-09</a>, 
  <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf10plano"> RF-10</a>, 
  <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf11plano"> RF-11</a> e 
- <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf12plano"> RF-12</a><br><br>
+ <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf12plano"> RF-12</a>
 <li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#registroteste"> Registro de Testes de Software</a></li>
 &nbsp &nbsp &nbsp<a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf01"> RF-01</a>, 
  <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf02evidencia"> RF-02</a>, 
@@ -43,9 +43,9 @@
  <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf09evidencia"> RF-09</a>, 
  <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf10evidencia"> RF-10</a>, 
  <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf11evidencia"> RF-11</a> e 
- <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf12evidencia"> RF-12</a><br><br>
-<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#hospedagem"> hospedagem</a></li><br>
-<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#alunoxrequisito"> Responsáveis pelo desenvolvimento dos requisitos</a></li><br>
+ <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf12evidencia"> RF-12</a>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#hospedagem"> hospedagem</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#alunoxrequisito"> Responsáveis pelo desenvolvimento dos requisitos</a></li>
 <li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#apresentacao"> Apresentação do Projeto</a></li>
 
 
@@ -993,7 +993,7 @@ Figura 31 - Página Cases de Sucesso Completa
 #### Artefatos da funcionalidade
 
 * casesucesso.html;
-* casesucesso.css;
+* casesucesso.css.
 
 #### Estrutura de Dados 
 
@@ -1061,32 +1061,142 @@ Figura 33 - Código HTML/CSS
 
 ## <a name="planoteste">Plano de Testes de Software</a>
 
+Os requisitos para realização dos testes de software são:
+
+* Site publicado na Internet
+* Navegador da Internet - Chrome, Firefox ou Edge
+* Conectividade de Internet para acesso às plataformas (APISs)
+
+Os testes funcionais a serem realizados no site estão descritos a seguir:
+
 ### <a name="rf01plano">Requisito 01</a>  
+
+**************************
+
 ### <a name="rf02plano">Requisito 02</a> 
+
+<table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
+<tr>
+	<td>Caso de Teste</td>
+	<td>T.2 - Visualizar em todas as páginas a opção de traduzir os textos em Libras.</td>
+</tr>
+<tr>
+	<td>Requisitos Associados</td>
+	<td>RF-02 - O site deve conter, em todas as páginas, tradutor de libras (acessibilidade).</td>
+</tr>
+<tr>
+	<td>Objetivo do Teste </td>
+	<td>
+		Verificar se os textos estão sendo traduzidos em Libras ao usar a funcionalidade.
+	</td>
+</tr>
+<tr>
+	<td>Passos</td>
+	<td>
+		Acessar o site; <br>
+		Clicar no ícone do tradutor de Libras; <br>
+		Selecionar algum texto; <br>
+		Verificar se o texto está sendo representado pelo personagem do tradutor de Libras.		
+	</td>
+</tr>
+<tr>
+	<td>Critérios de Êxito</td>
+	<td>
+		O texto ser traduzido em Libras.
+	</td>
+</tr>
+<tr>
+	td>Critérios de não Êxito</td>
+	<td>
+		O texto não ser traduzido em Libras; <br>
+		O texto não estar presente em todas as páginas.
+	</td>
+</tr>
+
 ### <a name="rf03plano">Requisito 03</a>  
+
+**************************
+
 ### <a name="rf04plano">Requisito 04</a>  
+
+**************************
+
 ### <a name="rf05plano">Requisito 05</a>  
+
+**************************
+
 ### <a name="rf06plano">Requisito 06</a>  
+
+**************************
+
 ### <a name="rf07plano">Requisito 07</a>  
-### <a name="rf08plano">Requisito 08</a>  
-### <a name="rf09plano">Requisito 09</a>  
+
+**************************
+
+### <a name="rf08plano">Requisito 08</a> 
+
+**************************
+
+### <a name="rf09plano">Requisito 09</a> 
+
+**************************
+
 ### <a name="rf010plano">Requisito 10</a>  
+
+**************************
+
 ### <a name="rf011plano">Requisito 11</a>  
+
+**************************
+
 ### <a name="rf012plano">Requisito 12</a>  
 
 ## <a name="registroteste">Registro de Testes de Software</a>
 
 ### <a name="rf01evidencia">Requisito 01</a>  
+
+**************************
+
 ### <a name="rf02evidencia">Requisito 02</a> 
+
+**************************
+
 ### <a name="rf03evidencia">Requisito 03</a>  
-### <a name="rf04evidencia">Requisito 04</a>  
+
+**************************
+
+### <a name="rf04evidencia">Requisito 04</a> 
+
+**************************
+
 ### <a name="rf05evidencia">Requisito 05</a>  
+
+**************************
+
 ### <a name="rf06evidencia">Requisito 06</a>  
+
+**************************
+
 ### <a name="rf07evidencia">Requisito 07</a>  
+
+**************************
+
 ### <a name="rf08evidencia">Requisito 08</a>  
+
+**************************
+
 ### <a name="rf09evidencia">Requisito 09</a>  
-### <a name="rf010evidencia">Requisito 10</a>  
+
+**************************
+
+### <a name="rf010evidencia">Requisito 10</a> 
+
+**************************
+
 ### <a name="rf011evidencia">Requisito 11</a>  
+
+**************************
+
 ### <a name="rf012evidencia">Requisito 12</a> 
 
 ## <a name="hospedagem">Hospedagem</a>
@@ -1146,7 +1256,7 @@ Na tabela a seguir, estão detalhes os responsáveis pelo desenvolvimento de cad
 	<td>Especificação do projeto - 3 histórias <br><br> Documento de contexto - Documentação de contexto</td>
 	<td>Projeto de interface - Wireframes Home Page <br><br> Projeto de interface - Fluxo do usuário</td>
 	<td>RF 06</td>
-	<td>RF-01 <br><br> caso e evidência:RF-01, RF 06/td>
+	<td>RF-01 <br><br> caso e evidência:RF-01, RF 06</td>
 </tr>
 	
 <tr>
