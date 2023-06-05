@@ -1349,9 +1349,17 @@ Os resultados obtidos nos testes de software realizados são descritos abaixo:
 
 ### <a name="rf03evidencia">Requisito 03</a>  
 
+* T.3 - Testar a funcionalidade de aumentar e diminuir textos.
+
+![RF-03](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/acessibilidade05.gif)
+
 **************************
 
 ### <a name="rf04evidencia">Requisito 04</a> 
+
+* T.4 - Testar a funcionalidade de aumentar levemente a Logomarca e o símbolo de e-mail do Rodapé, além de direcionar para a página do Gmail ao clicar no ícone do e-mail.
+
+![RF-04](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/acessibilidade06.gif)
 
 **************************
 
@@ -1380,6 +1388,11 @@ Os resultados obtidos nos testes de software realizados são descritos abaixo:
 **************************
 
 ### <a name="rf011evidencia">Requisito 11</a>  
+
+* T.11 - Testar a funcionalidade de abrir os sites dos parceiros em uma nova guia ao clicar nas suas respectivas logomarcas.
+* T.11 - Verificar a página commpleta.
+* T.11 - Testar o vídeo da página.
+![RF-11](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/acessibilidade011.gif)
 
 **************************
 
