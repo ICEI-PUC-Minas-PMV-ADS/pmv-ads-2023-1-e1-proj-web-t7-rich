@@ -1071,6 +1071,41 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 
 ### <a name="rf01plano">Requisito 01</a>  
 
+<table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
+<tr>
+	<td>Caso de Teste</td>
+	<td>T.1 - xx.</td>
+</tr>
+<tr>
+	<td>Requisitos Associados</td>
+	<td>RF-01 - xx.</td>
+</tr>
+<tr>
+	<td>Objetivo do Teste </td>
+	<td>
+		xx
+	</td>
+</tr>
+<tr>
+	<td>Passos</td>
+	<td>
+		xx
+	</td>
+</tr>
+<tr>
+	<td>Critérios de Êxito</td>
+	<td>
+		xx
+	</td>
+</tr>
+<tr>
+	<td>Critérios de não Êxito</td>
+	<td>
+		xx
+	</td>
+</tr>
+</table>
+
 **************************
 
 ### <a name="rf02plano">Requisito 02</a> 
@@ -1087,7 +1122,8 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 <tr>
 	<td>Objetivo do Teste </td>
 	<td>
-		Verificar se os textos estão sendo traduzidos em Libras ao usar a funcionalidade.
+		Verificar se os textos estão sendo traduzidos em Libras ao usar a funcionalidade;<br>
+		Verificar se a funcionalidade se encontra disponível em todas as páginas.
 	</td>
 </tr>
 <tr>
@@ -1096,28 +1132,128 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 		Acessar o site; <br>
 		Clicar no ícone do tradutor de Libras; <br>
 		Selecionar algum texto; <br>
-		Verificar se o texto está sendo representado pelo personagem do tradutor de Libras.		
+		Verificar se o texto está sendo representado pelo personagem do tradutor de Libras; <br>
+		Repetir o processo em todas as páginas.
 	</td>
 </tr>
 <tr>
 	<td>Critérios de Êxito</td>
 	<td>
-		O texto ser traduzido em Libras.
+		O texto ser traduzido em Libras; <br>
+		A funcionalidade estar disponível em todas as páginas.
 	</td>
 </tr>
 <tr>
-	td>Critérios de não Êxito</td>
+	<td>Critérios de não Êxito</td>
 	<td>
 		O texto não ser traduzido em Libras; <br>
-		O texto não estar presente em todas as páginas.
+		A funcionalidade não estar disponível em todas as páginas.
 	</td>
 </tr>
+</table>
+
+**************************
 
 ### <a name="rf03plano">Requisito 03</a>  
+
+<table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
+<tr>
+	<td>Caso de Teste</td>
+	<td>T.3 - Visualizar em todas as páginas a opção de aumentar e diminuir a fonte.</td>
+</tr>
+<tr>
+	<td>Requisitos Associados</td>
+	<td>RF-03 - O site deve conter, em todas as páginas, a opção de aumentar ou diminuir a fonte (acessibilidade).</td>
+</tr>
+<tr>
+	<td>Objetivo do Teste </td>
+	<td>
+		Verificar se a funcionalidade de aumentar e dimnuir a fonte está sendo aplicada;<br>
+		Verificar se a funcionalidade se encontra disponível em todas as páginas.
+	</td>
+</tr>
+<tr>
+	<td>Passos</td>
+	<td>
+		Acessar o site; <br>
+		Clicar no ícone que simboliza a opção de ampliar a fonte; <br>
+		Verificar se o texto foi ampliado; <br>
+		Clicar no ícone que simboliza a opção de diminuir a fonte; <br>
+		Verificar se o texto diminuiu de tamanho; <br>
+		Repetir o processo em todas as páginas.
+	</td>
+</tr>
+<tr>
+	<td>Critérios de Êxito</td>
+	<td>
+		O texto ser ampliado; <br>
+		O texto ser diminuído; <br>
+		A funcionalidade estar disponível em todas as páginas.
+	</td>
+</tr>
+<tr>
+	<td>Critérios de não Êxito</td>
+	<td>
+		O texto não ser ampliado; <br>
+		O texto não ser diminuído; <br>
+		A funcionalidade não estar disponível em todas as páginas.
+	</td>
+</tr>
+</table>
 
 **************************
 
 ### <a name="rf04plano">Requisito 04</a>  
+
+<table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
+<tr>
+	<td>Caso de Teste</td>
+	<td>T.4 - Visualizar em todas as páginas o rodapé.</td>
+</tr>
+<tr>
+	<td>Requisitos Associados</td>
+	<td>RF-04 - O site deve conter, em todas as páginas, um rodapé com a marca registrada da empresa, CNPJ e link para contato.</td>
+</tr>
+<tr>
+	<td>Objetivo do Teste </td>
+	<td>
+		Verificar se ao passar o mouse sobre a logomarca e o ícone de e-mail, eles são levemente ampliados;<br>
+		Verificar se ao clicar no ícone de e-mail uma nova guia será aberta apresentando a ferramenta Gmail; <br>
+		Verificar se a funcionalidade se encontra disponível em todas as páginas.
+	</td>
+</tr>
+<tr>
+	<td>Passos</td>
+	<td>
+		Acessar o site; <br>
+		Passar o mouse sobre a logomarca; <br>
+		Verificar se foi levemente ampliada; <br>
+		Passar o mouse sobre o ícone de e-mail; <br>
+		Verificar se foi levemente ampliado; <br>
+		Clicar no ínco de e-mail; <br>
+		Verificar se uma nova guia foi aberta na página da ferramenta Gmail; <br>
+		Repetir o processo em todas as páginas.
+	</td>
+</tr>
+<tr>
+	<td>Critérios de Êxito</td>
+	<td>
+		A logomarca ser levemente ampliada; <br>
+		O ícone de e-mail ser levemente ammpliado; <br>
+		O ícone de e-mail abrir em uma nova guia apresentando a ferramenta do Gmail; <br>
+		A funcionalidade estar disponível em todas as páginas.
+	</td>
+</tr>
+<tr>
+	<td>Critérios de não Êxito</td>
+	<td>
+		A logomarca não ser levemente ampliada; <br>
+		O ícone de e-mail não ser levemente ammpliado; <br>
+		O ícone de e-mail não abrir em uma nova guia apresentando a ferramenta do Gmail; <br>
+		A funcionalidade não estar disponível em todas as páginas.
+	</td>
+</tr>
+</table>
 
 **************************
 
@@ -1147,11 +1283,57 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 
 ### <a name="rf011plano">Requisito 11</a>  
 
+<table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
+<tr>
+	<td>Caso de Teste</td>
+	<td>T.11 - Visualizar relação das empresas parceiras.</td>
+</tr>
+<tr>
+	<td>Requisitos Associados</td>
+	<td>RF-11 - O site deve conter, na página “Cases de sucesso”, uma relação das empresas parceiras da iniciativa do site.</td>
+</tr>
+<tr>
+	<td>Objetivo do Teste </td>
+	<td>
+		Verificar se a página Cases de Sucesso possui uma relação de empresas parceiras;<br>
+		Verificar se ao clicar no ícone de cada empresa uma nova guia será aberta com o respectivo site.
+	</td>
+</tr>
+<tr>
+	<td>Passos</td>
+	<td>
+		Acessar no menu a opção Cases de Sucesso; <br>
+		Verificar se possui uma sessão com a relação das empresas parceiras; <br>
+		Clicar na logomarca de cada empresa e verificar se estão sendo redirecionados para os respecitivos sites.
+	</td>
+</tr>
+<tr>
+	<td>Critérios de Êxito</td>
+	<td>
+		A relação de empresas parceiras exisitr na página Cases de Sucesso; <br>
+		Ao clicar na imagem da logomarca de cada empresa, ser redirecionado corretamente.
+	</td>
+</tr>
+<tr>
+	<td>Critérios de não Êxito</td>
+	<td>
+		A relação de empresas parceiras não exisitr na página Cases de Sucesso; <br>
+		Ao clicar na imagem da logomarca de cada empresa, não ser redirecionado corretamente.
+	</td>
+</tr>
+</table>
+
 **************************
 
 ### <a name="rf012plano">Requisito 12</a>  
 
+
+**************************
+
+
 ## <a name="registroteste">Registro de Testes de Software</a>
+
+Os resultados obtidos nos testes de software realizados são descritos abaixo:
 
 ### <a name="rf01evidencia">Requisito 01</a>  
 
