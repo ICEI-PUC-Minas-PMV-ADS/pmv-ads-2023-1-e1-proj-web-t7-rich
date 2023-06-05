@@ -1343,7 +1343,7 @@ Os resultados obtidos nos testes de software realizados são descritos abaixo:
 
 * T.2 - Testar a funcionalidade de traduzir os textos em Libras.
 
-![RF-02](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/acessibilidade04.mp4)
+![RF-02](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/acessibilidade04.gif)
 
 **************************
 
