@@ -652,6 +652,56 @@ Figura 22 - Acessibilidade - Tradutor para Libras
 1. Abra um navegador de Internet e informe a seguinte URL: [R02](https://talitadevspuc.github.io/educacaoFinanceiraR02/default.html)
 2. A função de traduzir em libras estará presente em todas as páginas.
 
+**************************
+
+### Acessibilidade - Aumentar e Diminuir fonte (RF-03)
+
+A funcionalidade de aumentar e diminuir os textos está presente em todas as páginas dos site. A figura 23, apresenta o exemplo da funcionalidadew disponível em tela. O código referente a essa funcionalidade está arquivado na pasta "src" deste projeto, estruturada no HTML, JS e CSS e contendo importação de link externo. 
+
+<div align="center">
+
+Figura 23 - Acessibilidade - Aumentar e Diminuir fonte 
+	
+![Aumentar e Diminuir fonte](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/acessibilidadeFonte01.png)
+
+</div>
+
+#### Requisitos atendidos
+
+* RF-03
+
+#### Artefatos da funcionalidade
+
+* acessibilidadeFonte.js;
+* Importação de scripts em todos os htmls;
+* Estilização feita no RF-01, por pentecer ao Menu.
+
+
+#### Estrutura de Dados 
+
+<div align="center">
+	
+### Javascript	
+	
+![Javascript](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/acessibilidadeFonte02.PNG)
+
+</div>
+
+<div align="center">
+	
+### Importação de scripts em todos os htmls
+	
+![Importação de scripts no html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/acessibilidadeFonte03.PNG)
+
+</div>
+
+#### Instruções de acesso
+
+1. Abra um navegador de Internet e informe a seguinte URL: [R03](https://icei-puc-minas-pmv-ads.github.io/educacaofinanceira/index.html)
+2. A funcionalidade de aumentar e diminuir os textos está presente em todas as páginas dos site.
+
+**************************
+
 ### Dashboard - Campos de input de informações (RF-07)
 
 Nessa tela, está contido os campos onde serão imputados as despesas fixas do usuário. A figura 23 apresenta os campos existentes e o local onde se deve inserir os valors além de um campo "resultado" que soma os valores inseridos
@@ -696,6 +746,8 @@ Figura 26 - Código JS
 1. Abra um navegador de internet e informe o seguinte URL: https://matheuspucgit.github.io/dashboard.html;
 2. Digite os valores nos campos indicados;
 3. Clique em "Resultado";
+
+**************************
 
 ### Dashboard - Gráficos (RF-08)
 
@@ -744,6 +796,8 @@ Figura xx - Código JS
 
 </div>
 
+**************************
+
 ### Dashboard - Mensagem orientativa (RF-10)
 Ainda na tela dashboard, após os dados serem inputados pelo usuário, o site apresentará um pop-up informativo, antes do usuário prosseguir para a próxima página.
 <div align="center">
@@ -785,6 +839,8 @@ Figura 29- código JavaScript
 2. Digite os valores nos campos indicados;
 3. Clique em 'Resultado'.
 
+**************************
+
 ### Homepage - Redirecionamento de Páginas (RF-06)
 <div align="center">
 
@@ -822,6 +878,8 @@ Figura 32 - Código CSS
 1. Abra um navegador de internet e informe o seguinte URL: https://pedro-hfc.github.io/paginaPrincipalRich/;
 2. Clique em qualquer uma das imagens ou textos com base na página desejada e seja redirecionado
 
+**************************
+
 ### Vídeos relacionados à Educação Financeira (RF-12)
 A Funcionalidade de apresentar vídeos sobre a educação financeira encontra-se nas págicnas de  "Cases de Sucesso", "Desvantagens” e "Vantagens". O código referente a essa funcionalidade está arquivado na pasta "src" deste projeto, estruturada no HTML/CSS contendo importação de link externo. Um exemplo da tela é apresentada na figura 33.
 
@@ -854,6 +912,8 @@ Figura 33 - Código HTML/CSS
 
 1. Abra um navegador de internet e informe o seguinte URL: https://lorenapoli.github.io/vantagens.html
 2. Este requisito estará presente nas páginas "Cases de Sucesso", "Desvantagens" e "Vantagens".
+
+**************************
 
 ### Rodapé (RF-04)
 
