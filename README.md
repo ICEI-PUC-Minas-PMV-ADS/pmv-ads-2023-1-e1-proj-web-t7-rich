@@ -1383,11 +1383,11 @@ Os resultados obtidos nos testes de software realizados são descritos abaixo:
 
 **************************
 
-### <a name="rf010evidencia">Requisito 10</a> 
+### <a name="rf10evidencia">Requisito 10</a> 
 
 **************************
 
-### <a name="rf011evidencia">Requisito 11</a>  
+### <a name="rf11evidencia">Requisito 11</a>  
 
 * T.11 - Testar a funcionalidade de abrir os sites dos parceiros em uma nova guia ao clicar nas suas respectivas logomarcas.
 * T.11 - Verificar a página commpleta.
