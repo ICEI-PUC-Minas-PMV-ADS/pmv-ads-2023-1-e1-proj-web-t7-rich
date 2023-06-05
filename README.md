@@ -1390,7 +1390,7 @@ Os resultados obtidos nos testes de software realizados são descritos abaixo:
 ### <a name="rf11evidencia">Requisito 11</a>  
 
 * T.11 - Testar a funcionalidade de abrir os sites dos parceiros em uma nova guia ao clicar nas suas respectivas logomarcas.
-* T.11 - Verificar a página commpleta.
+* T.11 - Verificar a página completa.
 * T.11 - Testar o vídeo da página.
 ![RF-11](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/casesucesso11.gif)
 
