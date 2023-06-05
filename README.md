@@ -1266,11 +1266,94 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 **************************
 
 ### <a name="rf07plano">Requisito 07</a>  
+<table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
+<tr>
+	<td>Caso de Teste</td>
+	<td>T.7 - Conter na página dashboard campos separados por categoria para inserir os dados financeiros .</td>
+</tr>
+<tr>
+	<td>Requisitos Associados</td>
+	<td>RF-07 - O Site deve conter, na página "Dashboard", campos com nomenclaturas predefinidas para imputar informações financeiras.</td>
+</tr>
+<tr>
+	<td>Objetivo do Teste </td>
+	<td>
+		Verificar se todos os campos aceitam digitação;<br>
+		Verificar se os dados informados estão sendo captados; <br>
+	</td>
+</tr>
+<tr>
+	<td>Passos</td>
+	<td>
+		Acessar o site; <br>
+		Informar os dados em todos os campos; <br>
+		Verificar se foi possivel inserir os dados corretamente; <br>
+		Verificar na soma se todos as campos foram computados; <br>
+	</td>
+</tr>
+<tr>
+	<td>Critérios de Êxito</td>
+	<td>
+		Foi possível informar os dados corretamente; <br>
+		A soma dos valores informados condiz com os seus respectivos valores; <br>
+	</td>
+</tr>
+<tr>
+	<td>Critérios de não Êxito</td>
+	<td>
+		Foi possivel informar dados não numéricos; <br>
+		Houve limite de caracteres; <br>
+		A soma ficou divergente do informado; <br>
+		Houve algum campo desconsiderado na hora da soma.
+	</td>
+</tr>
+</table>
 
 **************************
 
 ### <a name="rf08plano">Requisito 08</a> 
 
+<table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
+<tr>
+	<td>Caso de Teste</td>
+	<td>T.8 - Conter na página dashboard gráficos provenientes dos valores fornecidos .</td>
+</tr>
+<tr>
+	<td>Requisitos Associados</td>
+	<td>RF-08 - O Site deve conter, na página "Dashboard", um gráfico apresentando os dados imputados referente aos gastos..</td>
+</tr>
+<tr>
+	<td>Objetivo do Teste </td>
+	<td>
+		Verificar se todos os gráficos recebem os valores fornecidos;<br>
+		Verificar se todos os gráficos não cumprem o propósito de comparar renda e despesas; <br>
+		Verificar se todos os gráficos funcionam parcialmente em relação aos dados fornecidos; <br>
+	</td>
+</tr>
+<tr>
+	<td>Passos</td>
+	<td>
+		Acessar o site; <br>
+		Informar os dados em todos os campos; <br>
+		Verificar se os gráficos foram alimentados; <br>
+		Verificar se os gráficos estão coerrentes com os valores fornecidos; <br>
+	</td>
+</tr>
+<tr>
+	<td>Critérios de Êxito</td>
+	<td>
+		Os gráficos demonstram corretamente os valores fornecidos; <br>
+		Os gráficos cumprem o papel proposto de comparar renda e despesas <br>
+	</td>
+</tr>
+<tr>
+	<td>Critérios de não Êxito</td>
+	<td>
+		Os gráficos não foram alimentados corretamente; <br>
+		Os gráficos não cumprem o papel de comparar renda e despesas; <br>
+	</td>
+</tr>
+</table>
 **************************
 
 ### <a name="rf09plano">Requisito 09</a> 
