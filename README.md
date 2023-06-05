@@ -702,6 +702,62 @@ Figura 23 - Acessibilidade - Aumentar e Diminuir fonte
 
 **************************
 
+### Rodapé (RF-04)
+
+A funcionalidade do Rodapé foi desenvolvida como um componente reutilizável e se encontra disponível em todas as páginas do site. A figura 34 demonstra como o rodapé apresenta-se estaticamente em tela, sendo que, dinamicamente, possui uma funcionalidade de aumentar o tamanho da Logomarca e do ícone de e-mail ao passar o mouse por cima destes e de clicar no ícone de e-mail para abrir a ferramente Gmail do Google. O código referente a essa funcionalidade está arquivado na pasta "src" deste projeto com o nome de footer.html e footer.css, estruturada no HTML contendo importação de link externo. 
+
+<div align="center">
+
+Figura 33 - Rodapé
+	
+![Rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/rodape01.PNG)
+
+</div>
+
+Por se tratar de um componente reutilizável que visa otimizar o aproveitamento da funcionalidade, faz-se necessária duas ações no HTML de cada página: a importação de um link dentro da tag Head (linha 10) e a inserção de uma div no fim do body (linha 14 a 16) contendo as informações conforme demarcado na figura 34 a seguir: 
+
+<div align="center">
+
+Figura 34 - Importação do Rodapé
+	
+![Importação do Rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/rodape03.png)
+
+</div>
+
+#### Requisitos atendidos
+
+* RF-04
+
+#### Artefatos da funcionalidade
+
+* footer.html
+* footer.css
+
+#### Estrutura de Dados 
+
+<div align="center">
+	
+### HTML	
+	
+![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/rodape04.PNG)
+
+</div>
+
+<div align="center">
+	
+### CSS	
+	
+![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/rodape05.PNG)
+
+</div>
+
+#### Instruções de acesso
+
+1. Abra um navegador de Internet e informe a seguinte URL: [R04](https://talitadevspuc.github.io/educacaoFInanceiraR04/footerComponente.html)
+2. A função do rodapé estará presente em todas as páginas do site.
+
+**************************
+
 ### Dashboard - Campos de input de informações (RF-07)
 
 Nessa tela, está contido os campos onde serão imputados as despesas fixas do usuário. A figura 23 apresenta os campos existentes e o local onde se deve inserir os valors além de um campo "resultado" que soma os valores inseridos
@@ -880,6 +936,55 @@ Figura 32 - Código CSS
 
 **************************
 
+### Página Cases de Sucesso Completa (RF-11)
+
+A página Cases de Sucesso tem por objetivo apresentar relatos de casos que obtiveram sucesso ao utilizar o site. Tecnicamente, a página deve conter imagem e vídeo relacionado ao tema, além de texto. A figura 31 apresenta a página completa disponível em tela. O código referente a essa funcionalidade está arquivado na pasta "src" deste projeto, estruturada no HTML e CSS e contendo importação de link externo. 
+
+<div align="center">
+
+Figura 31 - Página Cases de Sucesso Completa
+	
+![Página Cases de Sucesso Completa](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/casesucesso05.PNG)
+
+</div>
+
+#### Requisitos atendidos
+
+* RF-11
+
+#### Artefatos da funcionalidade
+
+* casesucesso.html;
+* casesucesso.css;
+
+#### Estrutura de Dados 
+
+<div align="center">
+	
+### HTML	
+	
+![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/casesucesso06.PNG)
+![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/casesucesso07.PNG)
+
+</div>
+
+<div align="center">
+	
+### CSS
+	
+![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/casesucesso08.PNG)
+![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/casesucesso09.PNG)
+![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/casesucesso10.PNG)
+
+</div>
+
+
+#### Instruções de acesso
+
+1. Abra um navegador de Internet e informe a seguinte URL: [R11](https://icei-puc-minas-pmv-ads.github.io/educacaofinanceira/casesucesso.html)
+
+**************************
+
 ### Vídeos relacionados à Educação Financeira (RF-12)
 A Funcionalidade de apresentar vídeos sobre a educação financeira encontra-se nas págicnas de  "Cases de Sucesso", "Desvantagens” e "Vantagens". O código referente a essa funcionalidade está arquivado na pasta "src" deste projeto, estruturada no HTML/CSS contendo importação de link externo. Um exemplo da tela é apresentada na figura 33.
 
@@ -914,50 +1019,6 @@ Figura 33 - Código HTML/CSS
 2. Este requisito estará presente nas páginas "Cases de Sucesso", "Desvantagens" e "Vantagens".
 
 **************************
-
-### Rodapé (RF-04)
-
-A funcionalidade do Rodapé foi desenvolvida como um componente reutilizável e se encontra disponível em todas as páginas do site. A figura 34 demonstra como o rodapé apresenta-se estaticamente em tela, sendo que, dinamicamente, possui uma funcionalidade de aumentar o tamanho da Logomarca e do ícone de e-mail ao passar o mouse por cima destes e de clicar no ícone de e-mail para abrir a ferramente Gmail do Google. O código referente a essa funcionalidade está arquivado na pasta "src" deste projeto com o nome de footer.html e footer.css, estruturada no HTML contendo importação de link externo. 
-
-<div align="center">
-
-Figura 33 - Rodapé
-	
-![Rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/rodape01.PNG)
-
-</div>
-
-Por se tratar de um componente reutilizável que visa otimizar o aproveitamento da funcionalidade, faz-se necessária duas ações no HTML de cada página: a importação de um link dentro da tag Head (linha 10) e a inserção de uma div no fim do body (linha 14 a 16) contendo as informações conforme demarcado na figura 34 a seguir: 
-
-<div align="center">
-
-Figura 34 - Importação do Rodapé
-	
-![Importação do Rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/rodape03.png)
-
-</div>
-
-#### Requisitos atendidos
-
-* RF-04
-
-#### Artefatos da funcionalidade
-
-* footer.html
-* footer.css
-
-#### Estrutura de Dados 
-
-<div align="center">
-	
-![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/rodape02.PNG)
-
-</div>
-
-#### Instruções de acesso
-
-1. Abra um navegador de Internet e informe a seguinte URL: [R04](https://talitadevspuc.github.io/educacaoFInanceiraR04/footerComponente.html)
-2. A função do rodapé estará presente em todas as páginas do site.
 
 ## <a name="planoteste">Plano de Testes de Software</a>
 
