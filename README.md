@@ -654,7 +654,7 @@ Figura 22 - Acessibilidade - Tradutor para Libras
 
 ### Dashboard - Campos de input de informações (RF-07)
 
-Nesta tela, está contido os campos onde serão imputados as despesas fixas do usuário. A figura 23 apresenta os campos existentes e o local onde se deve inserir os valors além de um campo "resultado" que soma os valores inseridos
+Nessa tela, está contido os campos onde serão imputados as despesas fixas do usuário. A figura 23 apresenta os campos existentes e o local onde se deve inserir os valors além de um campo "resultado" que soma os valores inseridos
 
 <div align="center">
 
@@ -696,6 +696,53 @@ Figura 26 - Código JS
 1. Abra um navegador de internet e informe o seguinte URL: https://matheuspucgit.github.io/dashboard.html;
 2. Digite os valores nos campos indicados;
 3. Clique em "Resultado";
+
+### Dashboard - Gráficos (RF-08)
+
+Essa tela contém todos os gráficos com os valores digitados em cada categoria. A figura XX apresenta um gráfico de rosca dividido em renda e despesas e suas respectivas categorias, bem como a soma da renda e despesas e uma mensagem de como você está sua situação, já a figura XX conten 3 gráficos de barras que demonstra o endividamento geral, despesas fixas e despesas variáveis.
+
+<div align="center">
+
+Figura xx - Dashboard - Gráficos de rosca
+	
+![GrafRosca](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/2aaacd49-d6ae-4be3-bf6b-6604c2c74f47)
+	
+</div>
+<div align="center">
+
+Figura xx - Dashboard - Gráficos de barra
+	
+![GrafBarra](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/d97a9781-a519-4bab-861a-e82e299739b1)
+	
+</div>
+### Requisitos atendidos
+	
+* RF-08
+
+#### Artefatos da funcionalidade
+
+* dashboard.html
+* dashboard.js
+* dashboard.css
+
+### Estrutura de dados
+
+<div align="center">
+Figura xx - Código HTML
+	
+![htmlGraf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/b14c68eb-49f7-4905-acc7-4d82687f7ae4)
+	
+Figura xx - Código CSS
+	
+![cssGraf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/7541a91c-3ae2-468d-8acd-adcf45eabcac)
+	
+Figura xx - Código JS
+
+![jsGrafPt1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/d406c6c1-3f87-4578-91f8-9ae37b518c6f)
+![jsGrafPt2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/d37e2d3c-5053-4464-a0dc-f30de109963b)
+![jsGrafPt3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/c1a19694-f919-4557-aca2-30f7a54bca25)	
+
+</div>
 
 ### Dashboard - Mensagem orientativa (RF-10)
 Ainda na tela dashboard, após os dados serem inputados pelo usuário, o site apresentará um pop-up informativo, antes do usuário prosseguir para a próxima página.
