@@ -631,7 +631,7 @@ Figura 21 - Template padrão do site
 ## <a name="funcionalidadessistema">Funcionalidades do Sistema </a>
 Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) e outras orientações de acesso são apresentadas na sequência.
 
-### <a name="rf01">Acessibilidade - Tradutor para Libras (RF-02)</a>    
+### <a name="rf02">Acessibilidade - Tradutor para Libras (RF-02)</a>    
 
 A funcionalidade de traduzir os textos em libras está presente em todas as páginas dos site. A figura 22, apresenta o exemplo do tradutor de libras disponível em tela. O código referente a essa funcionalidade está arquivado na pasta "src" deste projeto, estruturada no HTML contendo importação de link externo. 
 
@@ -666,7 +666,7 @@ Figura 22 - Acessibilidade - Tradutor para Libras
 
 **************************
 
-### Acessibilidade - Aumentar e Diminuir fonte (RF-03)
+### <a name="rf03">Acessibilidade - Aumentar e Diminuir fonte (RF-03)</a>    
 
 A funcionalidade de aumentar e diminuir os textos está presente em todas as páginas dos site. A figura 23, apresenta o exemplo da funcionalidadew disponível em tela. O código referente a essa funcionalidade está arquivado na pasta "src" deste projeto, estruturada no HTML, JS e CSS e contendo importação de link externo. 
 
@@ -714,7 +714,7 @@ Figura 23 - Acessibilidade - Aumentar e Diminuir fonte
 
 **************************
 
-### Rodapé (RF-04)
+### <a name="rf04">Rodapé (RF-04)</a>    
 
 A funcionalidade do Rodapé foi desenvolvida como um componente reutilizável e se encontra disponível em todas as páginas do site. A figura 34 demonstra como o rodapé apresenta-se estaticamente em tela, sendo que, dinamicamente, possui uma funcionalidade de aumentar o tamanho da Logomarca e do ícone de e-mail ao passar o mouse por cima destes e de clicar no ícone de e-mail para abrir a ferramente Gmail do Google. O código referente a essa funcionalidade está arquivado na pasta "src" deste projeto com o nome de footer.html e footer.css, estruturada no HTML contendo importação de link externo. 
 
@@ -770,7 +770,47 @@ Figura 34 - Importação do Rodapé
 
 **************************
 
-### Dashboard - Campos de input de informações (RF-07)
+### <a name="rf06">Homepage - Redirecionamento de Páginas (RF-06)</a>    
+
+<div align="center">
+
+Figura 30 - Redirecionamento
+	
+![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep3/telaHomepage.png)
+
+</div>
+
+#### Artefatos da funcionalidade
+* index.html
+* index.css
+* default.css
+
+#### Estrutura de Dados
+
+<div align="center">
+
+Figura 31 - Código HTML
+	
+![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep3/MicrosoftTeams-image.png)
+
+</div>
+	
+<div align="center">
+
+Figura 32 - Código CSS
+	
+![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep3/css-rf06.png)
+
+</div>
+
+### Instruções de Acesso
+
+1. Abra um navegador de internet e informe o seguinte URL: https://pedro-hfc.github.io/paginaPrincipalRich/;
+2. Clique em qualquer uma das imagens ou textos com base na página desejada e seja redirecionado
+
+**************************
+
+### <a name="rf07">Dashboard - Campos de input de informações (RF-07)</a>    
 
 Nessa tela, está contido os campos onde serão imputados as despesas fixas do usuário. A figura 23 apresenta os campos existentes e o local onde se deve inserir os valors além de um campo "resultado" que soma os valores inseridos
 
@@ -817,7 +857,7 @@ Figura 26 - Código JS
 
 **************************
 
-### Dashboard - Gráficos (RF-08)
+### <a name="rf08">Dashboard - Gráficos (RF-08)</a>    
 
 Essa tela contém todos os gráficos com os valores digitados em cada categoria. A figura XX apresenta um gráfico de rosca dividido em renda e despesas e suas respectivas categorias, bem como a soma da renda e despesas e uma mensagem de como você está sua situação, já a figura XX conten 3 gráficos de barras que demonstra o endividamento geral, despesas fixas e despesas variáveis.
 
@@ -866,7 +906,8 @@ Figura xx - Código JS
 
 **************************
 
-### Dashboard - Mensagem orientativa (RF-10)
+### <a name="rf10">Dashboard - Mensagem orientativa (RF-10)</a>    
+
 Ainda na tela dashboard, após os dados serem inputados pelo usuário, o site apresentará um pop-up informativo, antes do usuário prosseguir para a próxima página.
 <div align="center">
 O GIF abaixo mostra o requisito funcionando.
@@ -909,46 +950,7 @@ Figura 29- código JavaScript
 
 **************************
 
-### Homepage - Redirecionamento de Páginas (RF-06)
-<div align="center">
-
-Figura 30 - Redirecionamento
-	
-![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep3/telaHomepage.png)
-
-</div>
-
-#### Artefatos da funcionalidade
-* index.html
-* index.css
-* default.css
-
-#### Estrutura de Dados
-
-<div align="center">
-
-Figura 31 - Código HTML
-	
-![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep3/MicrosoftTeams-image.png)
-
-</div>
-	
-<div align="center">
-
-Figura 32 - Código CSS
-	
-![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep3/css-rf06.png)
-
-</div>
-
-### Instruções de Acesso
-
-1. Abra um navegador de internet e informe o seguinte URL: https://pedro-hfc.github.io/paginaPrincipalRich/;
-2. Clique em qualquer uma das imagens ou textos com base na página desejada e seja redirecionado
-
-**************************
-
-### Página Cases de Sucesso Completa (RF-11)
+### <a name="rf11">Página Cases de Sucesso Completa (RF-11)</a>    
 
 A página Cases de Sucesso tem por objetivo apresentar relatos de casos que obtiveram sucesso ao utilizar o site. Tecnicamente, a página deve conter imagem e vídeo relacionado ao tema, além de texto. A figura 31 apresenta a página completa disponível em tela. O código referente a essa funcionalidade está arquivado na pasta "src" deste projeto, estruturada no HTML e CSS e contendo importação de link externo. 
 
@@ -997,7 +999,8 @@ Figura 31 - Página Cases de Sucesso Completa
 
 **************************
 
-### Vídeos relacionados à Educação Financeira (RF-12)
+### <a name="rf12">Vídeos relacionados à Educação Financeira (RF-12)</a>    
+
 A Funcionalidade de apresentar vídeos sobre a educação financeira encontra-se nas págicnas de  "Cases de Sucesso", "Desvantagens” e "Vantagens". O código referente a essa funcionalidade está arquivado na pasta "src" deste projeto, estruturada no HTML/CSS contendo importação de link externo. Um exemplo da tela é apresentada na figura 33.
 
 <div align="center">
