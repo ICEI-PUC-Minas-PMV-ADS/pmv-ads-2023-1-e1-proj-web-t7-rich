@@ -811,7 +811,8 @@ Segue apresentado as ações necessárias feitas no HTML da página "Vantagens":
 <div align="center">
 
 Figura 36 - Importação da Imagem	
-imagem
+
+![Textos e Imagens](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/TextoseImagens02.png)
 
 </div>
 
