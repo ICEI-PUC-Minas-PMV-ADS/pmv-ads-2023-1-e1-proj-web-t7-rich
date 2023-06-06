@@ -794,6 +794,61 @@ Figura 34 - Importação do Rodapé
 
 **************************
 
+### <a name="rf05">Vantagens (RF-05)</a>    
+
+texto de introdução ref 05 
+
+<div align="center">
+
+Figura ref 05
+	
+imagem
+
+</div>
+
+Por se tratar de um componente reutilizável que visa otimizar o aproveitamento da funcionalidade, faz-se necessária duas ações no HTML de cada página: a importação de um link dentro da tag Head (linha 10) e a inserção de uma div no fim do body (linha 14 a 16) contendo as informações conforme demarcado na figura 34 a seguir: 
+
+<div align="center">
+
+Figura ref 05	
+imagem
+
+</div>
+
+#### Requisitos atendidos
+
+* RF-05
+
+#### Artefatos da funcionalidade
+
+* vantagens.html
+* vantagens.css
+
+#### Estrutura de Dados 
+
+<div align="center">
+	
+### HTML	
+	
+imagem
+
+</div>
+
+<div align="center">
+	
+### CSS	
+	
+imagem
+
+</div>
+
+#### Instruções de acesso
+
+1. ref 05
+2. ref 05
+
+**************************
+
 ### <a name="rf06">Homepage - Redirecionamento de Páginas (RF-06)</a>    
 
 <div align="center">
