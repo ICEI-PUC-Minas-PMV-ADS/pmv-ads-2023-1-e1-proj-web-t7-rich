@@ -794,23 +794,23 @@ Figura 34 - Importação do Rodapé
 
 **************************
 
-### <a name="rf05">Vantagens (RF-05)</a>    
+### <a name="rf05">Textos e Imagens (RF-05)</a>    
 
-texto de introdução ref 05 
+A funcionalidade de conter textos e imagens relacionados ao tema em todas as páginas do site, tem como objetivo tornar as informações mais claras e objetivas. O código referente a essa funcionalidade está arquivado na pasta "src" deste projeto, estruturada no HTML/CSS contendo importação de link externo. Um exemplo da tela é apresentada na figura 35. 
 
 <div align="center">
 
-Figura ref 05
+Figura 35 - Texto e Imagens
 	
 imagem
 
 </div>
 
-Por se tratar de um componente reutilizável que visa otimizar o aproveitamento da funcionalidade, faz-se necessária duas ações no HTML de cada página: a importação de um link dentro da tag Head (linha 10) e a inserção de uma div no fim do body (linha 14 a 16) contendo as informações conforme demarcado na figura 34 a seguir: 
+Segue apresentado as ações necessárias feitas no HTML da página "Vantagens": a importação de um link dentro da tag main (linha 76), conforme demarcado na figura 36 a seguir: 
 
 <div align="center">
 
-Figura ref 05	
+Figura 36 - Importação da Imagem	
 imagem
 
 </div>
@@ -844,8 +844,8 @@ imagem
 
 #### Instruções de acesso
 
-1. ref 05
-2. ref 05
+1. Abra um navegador de Internet e informe a seguinte URL: 
+2. A função de apresentar texto e imagens estará presente em todas as páginas do site.
 
 **************************
 
