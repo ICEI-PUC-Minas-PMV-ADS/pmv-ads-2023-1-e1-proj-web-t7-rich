@@ -1447,7 +1447,6 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 
 ### <a name="rf012plano">Requisito 12</a> 
 
-
 <table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
 <tr>
 	<td>Caso de Teste</td>
@@ -1527,7 +1526,7 @@ Os resultados obtidos nos testes de software realizados são descritos abaixo:
 
 ### <a name="rf05evidencia">Requisito 05</a>  
 
-**************************
+* T.5 - Testar a funcionalidade de abrir imagens e vizualizar textos.
 
 ### <a name="rf06evidencia">Requisito 06</a>  
 
@@ -1565,6 +1564,10 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/ass
 **************************
 
 ### <a name="rf012evidencia">Requisito 12</a> 
+
+* T.12 - Verificar página completa.
+* T.12 - Testar a funcionalidade de reprodizir vídeos.
+* T.12 - Testar a funcionalidade de abrir links relacionados.
 
 ## <a name="hospedagem">Hospedagem</a>
 
