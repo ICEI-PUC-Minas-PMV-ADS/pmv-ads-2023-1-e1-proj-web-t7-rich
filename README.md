@@ -1502,7 +1502,7 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 
 **************************
 
-### <a name="rf012plano">Requisito 12</a> 
+### <a name="rf12plano">Requisito 12</a> 
 
 <table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
 <tr>
@@ -1620,7 +1620,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/ass
 
 **************************
 
-### <a name="rf012evidencia">Requisito 12</a> 
+### <a name="rf12evidencia">Requisito 12</a> 
 
 * T.12 - Verificar página completa.
 * T.12 - Testar a funcionalidade de reprodizir vídeos.
