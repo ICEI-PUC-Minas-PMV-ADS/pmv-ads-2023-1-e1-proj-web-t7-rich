@@ -1462,6 +1462,9 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/ass
 **************************
 
 ### <a name="rf08evidencia">Requisito 08</a>  
+* T.8 - Teste dos gráficos do dashboard
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/aab8f91c-df32-4de8-a964-97a75c98eda8
 
 **************************
 
