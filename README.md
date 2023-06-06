@@ -802,7 +802,7 @@ A funcionalidade de conter textos e imagens relacionados ao tema em todas as pá
 
 Figura 35 - Texto e Imagens
 	
-imagem
+![Textos e Imagens](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/TextoseImagens01.png)
 
 </div>
 
