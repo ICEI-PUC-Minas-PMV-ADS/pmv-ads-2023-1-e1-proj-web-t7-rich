@@ -1625,6 +1625,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/ass
 * T.12 - Verificar página completa.
 * T.12 - Testar a funcionalidade de reprodizir vídeos.
 * T.12 - Testar a funcionalidade de abrir links relacionados.
+![RF-12](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/vantagens06.gif)
 
 ## <a name="hospedagem">Hospedagem</a>
 
