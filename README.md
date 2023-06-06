@@ -1259,6 +1259,43 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 
 ### <a name="rf05plano">Requisito 05</a>  
 
+<table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
+<tr>
+	<td>Caso de Teste</td>
+	<td>T.5 - Visualizar em todas as páginas textos e imagens.</td>
+</tr>
+<tr>
+	<td>Requisitos Associados</td>
+	<td>RF-05 - O Site deve conter, em todas as páginas textos e imagens relacionados ao tema.</td>
+</tr>
+<tr>
+	<td>Objetivo do Teste </td>
+	<td>
+		Verificar ao acessar as páginas, se os textos e imagens irão aparecer.
+	</td>
+</tr>
+<tr>
+	<td>Passos</td>
+	<td>
+		Acessar o site; <br>
+		Clicar no ícone "Vantagens"; <br>
+		Verificar se a página abriu com os textos e imagem.
+	</td>
+</tr>
+<tr>
+	<td>Critérios de Êxito</td>
+	<td>
+		A página exibir imagem e textos.
+	</td>
+</tr>
+<tr>
+	<td>Critérios de não Êxito</td>
+	<td>
+		A imagem e os textos não serem exibidos.
+	</td>
+</tr>
+</table>
+
 **************************
 
 ### <a name="rf06plano">Requisito 06</a>  
