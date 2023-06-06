@@ -1117,7 +1117,7 @@ Figura XX - Homepage
 	
 ### HTML	
 	
-![Codigo Index](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/Index-002.png)
+![Codigo Index](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/index-002.png)
 
 </div>
 
@@ -1125,8 +1125,8 @@ Figura XX - Homepage
 	
 ### CSS
 	
-![Codigo Index](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/Index-003.png)
-![Codigo Index](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/Index-004.png)
+![Codigo Index](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/index-003.png)
+![Codigo Index](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/index-004.png)
 
 
 </div>
