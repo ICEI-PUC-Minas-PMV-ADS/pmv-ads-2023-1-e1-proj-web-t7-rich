@@ -1561,6 +1561,51 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 
 ### <a name="rf09plano">Requisito 09</a> 
 
+<table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
+<tr>
+	<td>Caso de Teste</td>
+	<td>T.9 - Conter na página dashboard uma tabela com os valores fornecidos pelo usuário.</td>
+</tr>
+<tr>
+	<td>Requisitos Associados</td>
+	<td>RF-09 - O Site deve conter, na página "Dashboard", uma tabela com demonstrativo dos dados imputados referente aos gastos.</td>
+</tr>
+<tr>
+	<td>Objetivo do Teste </td>
+	<td>
+		Verificar se a tabela está funcionando corretamente com os respectivos dados imputados nos campos da página dashboard;<br>
+		Verificar se a tabela está fazendo corretamente a equiparação salarial com os gastos digitados pelo usuário; <br>
+		Verificar se as mensagens apresentadas após o cálculo estão de acordo com o percentual pré definido; <br>
+	</td>
+</tr>
+<tr>
+	<td>Passos</td>
+	<td>
+		Acessar o site; <br>
+		Informar os dados em todos os campos; <br>
+		Verificar se a tabela foi alimentada; <br>
+		Verificar se a tabela e os cálculos estão coerentes com as porcentagens que foram definidas previamente; <br>
+		Verificar se a mensagem está coerente com o resultado dos cálculos; <br>
+	</td>
+</tr>
+<tr>
+	<td>Critérios de Êxito</td>
+	<td>
+		A tabela demonstra corretamente os valores fornecidos nos campos da página dashboard; <br>
+		A tabela cumpre o papel proposto de comparar renda e despesas <br>
+		A tabela mostra a mensagem correta de acordo com a porcentagem da despesa em relação ao salário; <br>
+	</td>
+</tr>
+<tr>
+	<td>Critérios de não Êxito</td>
+	<td>
+		A tabela não foi alimentadas corretamente; <br>
+		As mensagens não aparecem na coluna status; <br>
+		A mensagem aparece incorretamente na coluna status; <br>
+	</td>
+</tr>
+</table>
+
 **************************
 
 ### <a name="rf010plano">Requisito 10</a>  
