@@ -1028,9 +1028,71 @@ Figura 29- código JavaScript
 2. Digite os valores nos campos indicados;
 3. Clique em 'Resultado'.
 
+
 **************************
 
-### <a name="rf11">Página Cases de Sucesso Completa (RF-11)</a>    
+### <a name="rf-01"> Menu Cabeçalho(RF-01)</a> 
+
+O menu tem como objetivo dar a possibilidade do usuário navegar entre todas as páginas sem que exista a necessidade de retornar a página principal
+
+<div align="center">
+
+Figura XX - Cabeçalho
+	
+![Header](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-01.jpg)
+
+</div>
+
+#### Requisitos atendidos
+
+* RF-01
+
+#### Artefatos da funcionalidade
+
+* Código HTML adicionado em cada uma das páginas do site.
+* Header.css
+* Header.js
+
+#### Estrutura de Dados 
+
+<div align="center">
+	
+### HTML	
+	
+![Código do Cabeçalho](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-02.png)
+
+</div>
+
+<div align="center">
+	
+### CSS
+	
+![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-04.png)
+![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-05.png)
+
+
+</div>
+<div align="center">
+	
+### Javascript
+	
+![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-06.png)
+
+
+</div>
+
+
+#### Instruções de acesso
+
+1. Abra um navegador de Internet e informe a seguinte URL: [R01](https://icei-puc-minas-pmv-ads.github.io/educacaofinanceira/index.html)
+
+**************************
+
+
+
+**************************
+
+### <a name="rf11">Página Cases de Sucesso Completa (RF-11)</a> 
 
 A página Cases de Sucesso tem por objetivo apresentar relatos de casos que obtiveram sucesso ao utilizar o site. Tecnicamente, a página deve conter imagem e vídeo relacionado ao tema, além de texto. A figura 31 apresenta a página completa disponível em tela. O código referente a essa funcionalidade está arquivado na pasta "src" deste projeto, estruturada no HTML e CSS e contendo importação de link externo. 
 
