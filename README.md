@@ -845,7 +845,7 @@ Figura 36 - Importação da Imagem
 
 #### Instruções de acesso
 
-1. Abra um navegador de Internet e informe a seguinte URL: 
+1. Abra um navegador de Internet e informe a seguinte URL: [R05](https://icei-puc-minas-pmv-ads.github.io/educacaofinanceira/vantagens.html)
 2. A função de apresentar texto e imagens estará presente em todas as páginas do site.
 
 **************************
