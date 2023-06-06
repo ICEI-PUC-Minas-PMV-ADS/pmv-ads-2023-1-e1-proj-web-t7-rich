@@ -1088,7 +1088,54 @@ Figura XX - Cabeçalho
 
 **************************
 
+**************************
 
+### <a name="rf-06"> Página Homepage Completa(RF-06)</a> 
+
+A Página Home tem como objetivo apresentar e chamar atenção das outras páginas do site.
+
+<div align="center">
+
+Figura XX - Homepage
+	
+![Index](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/Index-001.png)
+
+</div>
+
+#### Requisitos atendidos
+
+* RF-06
+
+#### Artefatos da funcionalidade
+
+* index.html
+* index.css
+
+#### Estrutura de Dados 
+
+<div align="center">
+	
+### HTML	
+	
+![Codigo Index](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/Index-002.png)
+
+</div>
+
+<div align="center">
+	
+### CSS
+	
+![Codigo Index](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/Index-003.png)
+![Codigo Index](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/Index-004.png)
+
+
+</div>
+
+#### Instruções de acesso
+
+1. Abra um navegador de Internet e informe a seguinte URL: [R01](https://icei-puc-minas-pmv-ads.github.io/educacaofinanceira/index.html)
+
+**************************
 
 **************************
 
