@@ -1445,7 +1445,49 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 
 **************************
 
-### <a name="rf012plano">Requisito 12</a>  
+### <a name="rf012plano">Requisito 12</a> 
+
+
+<table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
+<tr>
+	<td>Caso de Teste</td>
+	<td>T.12 - Visualizar nas páginas "Cases de Sucesso","Desvantagens” e "Vantagens", videos relacionados ao tema.</td>
+</tr>
+<tr>
+	<td>Requisitos Associados</td>
+	<td>RF-12 - O Site deve conter, nas páginas "Cases de Sucesso","Desvantagens” e "Vantagens", Videos relacionados ao tema.</td>
+</tr>
+<tr>
+	<td>Objetivo do Teste </td>
+	<td>
+		Verificar ao acessar a página "Vantagens", os vídeos serão reproduzidos;<br>
+		Verificar se ao clicar nos links relacionados, uma nova guia será aberta direcionando à um outro site.
+	</td>
+</tr>
+<tr>
+	<td>Passos</td>
+	<td>
+		Acessar o site; <br>
+		Acessar o Menu e clicar na opção "Vantagens"; <br>
+		Clicar no vídeo e verificar se irá reproduzir; <br>
+		Clicar nos links relacionados e verificar se uma nova guia será aberta direcionando à um outro site.
+	</td>
+</tr>
+<tr>
+	<td>Critérios de Êxito</td>
+	<td>
+		Os vídeos irão reproduzir; <br>
+		Os links relacionados irão abrir em uma nova guia, abrindo um apágina de outro site.
+	</td>
+</tr>
+<tr>
+	<td>Critérios de não Êxito</td>
+	<td>
+		Os vídeos não irão reproduzir; <br>
+		Os links relacionados não irão abrir em uma nova guia, abrindo um apágina de outro site.
+	</td>
+</tr>
+</table>
 
 
 **************************
