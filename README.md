@@ -1585,7 +1585,7 @@ Os resultados obtidos nos testes de software realizados são descritos abaixo:
 
 * T.5 - Testar a funcionalidade de abrir imagens e vizualizar textos.
 
-### <a name="rf06evidencia">Requisito 06</a>  
+![RF-05](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/vantagens05.png)  
 
 **************************
 
