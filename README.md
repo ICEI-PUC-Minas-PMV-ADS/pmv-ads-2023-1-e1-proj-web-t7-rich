@@ -1457,7 +1457,7 @@ Os resultados obtidos nos testes de software realizados são descritos abaixo:
 ### <a name="rf07evidencia">Requisito 07</a>  
 * T.7 - Teste dos campos para inserção de dados.
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/fd7ca13963bd53fe9e4af4d9ff5e6ad8205440b5/src/img/DashboardInputs.mp4
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/f20b4f9a-184d-4402-a4fe-8e14b710472e
 
 **************************
 
