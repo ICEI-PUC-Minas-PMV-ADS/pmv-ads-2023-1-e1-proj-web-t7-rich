@@ -831,7 +831,7 @@ Figura 36 - Importação da Imagem
 	
 ### HTML	
 	
-imagem
+![Textos e Imagens](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/TextoseImagens03.png)
 
 </div>
 
@@ -839,7 +839,7 @@ imagem
 	
 ### CSS	
 	
-imagem
+![Textos e Imagens](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/TextoseImagens04.png)
 
 </div>
 
