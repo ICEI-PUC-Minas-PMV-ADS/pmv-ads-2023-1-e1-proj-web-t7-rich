@@ -1496,20 +1496,20 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 	<td>Passos</td>
 	<td>
 		Acessar o site; <br>
-		Clicar em qualquer uma das imagens ou textos.
+		Clicar em qualquer uma das imagens ou textos.;
 		
 	</td>
 </tr>
 <tr>
 	<td>Critérios de Êxito</td>
 	<td>
-		A página apresentada é a página que foi selecionada.
+		A página apresentada é a página que foi selecionada.;
 	</td>
 </tr>
 <tr>
 	<td>Critérios de não Êxito</td>
 	<td>
-		A página selecionada não é a página que foi apresentada.
+		A página selecionada não é a página que foi apresentada.;
 	</td>
 </tr>
 </table>
@@ -1676,15 +1676,13 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 </tr>
 <tr>
 	<td>Objetivo do Teste </td>
-	<td>
-		Verificar se a página Cases de Sucesso possui uma relação de empresas parceiras;<br>
-		Verificar se ao clicar no ícone de cada empresa uma nova guia será aberta com o respectivo site.
-	</td>
+	<td>Verificar se a página Cases de Sucesso possui uma relação de empresas parceiras.<br>
+	Verificar se ao clicar no ícone de cada empresa uma nova guia será aberta com o respectivo site.</td>
 </tr>
 <tr>
 	<td>Passos</td>
 	<td>
-		Acessar no menu a opção Cases de Sucesso; <br>
+		Acessar no menu a opção Cases de Sucesso. <br>
 		Verificar se possui uma sessão com a relação das empresas parceiras; <br>
 		Clicar na logomarca de cada empresa e verificar se estão sendo redirecionados para os respecitivos sites.
 	</td>
