@@ -1261,7 +1261,7 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 		Verificar se o Menu está sendo apresentado na parte superior do site; <br>
 		Clicar nas opções do menu; <br>
 		Avaliar se na página apresentada o menu está disponível; <br>
-		Avaliar se a página que selecionou é a página que está sendo apresentada; <br>
+		Avaliar se a página que selecionou é a página que está sendo apresentada.
 		
 	</td>
 </tr>
@@ -1473,7 +1473,48 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 
 **************************
 
+**************************
+
 ### <a name="rf06plano">Requisito 06</a>  
+
+<table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
+<tr>
+	<td>Caso de Teste</td>
+	<td>T.6 - Na deve possuir chamadas para as todas as outras páginas do site.</td>
+</tr>
+<tr>
+	<td>Requisitos Associados</td>
+	<td>RF-06 - O site deve conter, na "Página principal, chamadas para as todas as outras páginas do site.</td>
+</tr>
+<tr>
+	<td>Objetivo do Teste </td>
+	<td>
+		Verificar se na página principal se todos os textos e imagens redirecionam para as páginas corretas.
+	</td>
+</tr>
+<tr>
+	<td>Passos</td>
+	<td>
+		Acessar o site; <br>
+		Clicar em qualquer uma das imagens ou textos.
+		
+	</td>
+</tr>
+<tr>
+	<td>Critérios de Êxito</td>
+	<td>
+		A página apresentada é a página que foi selecionada.
+	</td>
+</tr>
+<tr>
+	<td>Critérios de não Êxito</td>
+	<td>
+		A página selecionada não é a página que foi apresentada.
+	</td>
+</tr>
+</table>
+
+**************************
 
 **************************
 
