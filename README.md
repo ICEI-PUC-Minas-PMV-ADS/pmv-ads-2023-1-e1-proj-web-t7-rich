@@ -1239,34 +1239,44 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 <table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
 <tr>
 	<td>Caso de Teste</td>
-	<td>T.1 - xx.</td>
+	<td>T.1 - Menu deve aparecer em todas as páginas.</td>
 </tr>
 <tr>
 	<td>Requisitos Associados</td>
-	<td>RF-01 - xx.</td>
+	<td>RF-01 - O site deve conter, em todas as páginas, um menu de navegação que permita um redirecionamento entre as próprias páginas.</td>
 </tr>
 <tr>
 	<td>Objetivo do Teste </td>
 	<td>
-		xx
+		Verificar se clicando nas opções do manu este redireciona para as páginas corretas.; <br>
+		Verificar se o menu está sendo apresentado corretamente em todas as páginas.; <br>
+		
+		
 	</td>
 </tr>
 <tr>
 	<td>Passos</td>
 	<td>
-		xx
+		Acessar o site; <br>
+		Verificar se o Menu está sendo apresentado na parte superior do site; <br>
+		Clicar nas opções do menu; <br>
+		Avaliar se na página apresentada o menu está disponível; <br>
+		Avaliar se a página que selecionou é a página que está sendo apresentada; <br>
+		
 	</td>
 </tr>
 <tr>
 	<td>Critérios de Êxito</td>
 	<td>
-		xx
+		A página apresentada é a página que foi selecionada.; <br>
+		As páginas subsequentes não estão com o menu sendo apresentado.; <br>
 	</td>
 </tr>
 <tr>
 	<td>Critérios de não Êxito</td>
 	<td>
-		xx
+		A página selecionada no menu não é a página que foi apresentada.; <br>
+		O Menu não é apresentado em todas as telas do site.; <br>
 	</td>
 </tr>
 </table>
