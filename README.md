@@ -978,7 +978,7 @@ Figura xx - Código CSS
 	
 Figura xx - Código JS
 
-![jsGrafPt1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/d406c6c1-3f87-4578-91f8-9ae37b518c6f)
+![jsGrafPt1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/495c6b7e-68a3-43f8-967a-a17fa3a821d5)
 ![jsGrafPt2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/d37e2d3c-5053-4464-a0dc-f30de109963b)
 ![jsGrafPt3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/c1a19694-f919-4557-aca2-30f7a54bca25)	
 
