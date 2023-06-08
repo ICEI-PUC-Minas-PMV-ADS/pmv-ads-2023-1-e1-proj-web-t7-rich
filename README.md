@@ -986,6 +986,50 @@ Figura xx - Código JS
 
 **************************
 
+### <a name="rf09">Dashboard - Tabela (RF-09)</a>    
+
+Ainda na tela dashboard, após os dados serem inputados pelo usuário, após os gráficos, o site apresentará uma tabela para o usuário, que mostrará se cada dispesa da pessoa está dentro da porcentagem ideal para o salário dela. Esta tabela utilizará os mesmos dados imputados no inicio da tela e utilizará estes mesmos dados.
+<div align="center">
+O GIF abaixo mostra o requisito funcionando.
+	
+![desvantagens08](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/desvantagens08.gif)
+	
+</div>
+
+### Requisitos atendidos
+
+* RF-09
+
+### Artefatos da funcionalidade
+
+* dashboard.html
+* dashboard.css
+* dashboard.js
+
+### Estrutura de dados
+<div align="center">
+Figura 27 - código HTML.
+	
+![desvantagens05](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/desvantagens05.png)
+	
+Figura 28 - código CSS	
+
+![desvantagens06](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/desvantagens06.png)
+
+Figura 29- código JavaScript
+	
+![desvantagens07](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/desvantagens07.png)
+
+</div>
+	
+### Instruções de acesso
+
+1. Abra um navegador de internet e informe o seguinte URL: [(https://icei-puc-minas-pmv-ads.github.io/educacaofinanceira/Dashboard.html);](https://icei-puc-minas-pmv-ads.github.io/educacaofinanceira/Dashboard.html;);
+2. Digite os valores nos campos indicados;
+3. Clique no botão resumo, abaixo da tabela, as mensagens aparecerão em seguida à frente de cada despesa.
+
+**************************
+
 ### <a name="rf10">Dashboard - Mensagem orientativa (RF-10)</a>    
 
 Ainda na tela dashboard, após os dados serem inputados pelo usuário, o site apresentará uma mensagem informativa para o usuário, dizendo se suas finanças estão bem distribuídas em relação a sua renda.
