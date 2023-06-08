@@ -988,7 +988,7 @@ Figura xx - Código JS
 
 ### <a name="rf09">Dashboard - Tabela (RF-09)</a>    
 
-Ainda na tela dashboard, após os dados serem inputados pelo usuário, o site apresentará uma tabela para o usuário, que mostrará se cada dispesa da pessoa está dentro da porcentagem ideal para o salário dela. Esta tabela utilizará os mesmos dados imputados no inicio da tela e utilizará estes mesmos dados.
+Ainda na tela dashboard, após os dados serem inputados pelo usuário, o site apresentará uma tabela para o usuário, que mostrará se cada dispesa da pessoa está dentro da porcentagem ideal para o salário dela. Esta tabela utilizará os mesmos dados imputados no inicio da tela.
 <div align="center">
 O GIF abaixo mostra o requisito funcionando.
 	
@@ -1032,7 +1032,7 @@ Figura 29- código JavaScript
 
 ### <a name="rf10">Dashboard - Mensagem orientativa (RF-10)</a>    
 
-Ainda na tela dashboard, após os dados serem inputados pelo usuário, o site apresentará uma mensagem informativa para o usuário, dizendo se suas finanças estão bem distribuídas em relação a sua renda.
+Ainda na tela dashboard, após os dados serem inputados pelo usuário, o site apresentará uma mensagem informativa para o usuário, dizendo se sua relação renda/despesas está indo bem ou não.
 <div align="center">
 O GIF abaixo mostra o requisito funcionando.
 	
@@ -1659,8 +1659,7 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 	<td>Objetivo do Teste </td>
 	<td>
 		Verificar se a tabela está funcionando corretamente com os respectivos dados imputados nos campos da página dashboard;<br>
-		Verificar se a tabela está fazendo corretamente a equiparação salarial com os gastos digitados pelo usuário; <br>
-		Verificar se as mensagens apresentadas após o cálculo estão de acordo com o percentual pré definido; <br>
+		Verificar se as mensagens apresentadas estão corretas de acordo com o percentual das despesas pré definido; <br>
 	</td>
 </tr>
 <tr>
@@ -1668,9 +1667,8 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 	<td>
 		Acessar o site; <br>
 		Informar os dados em todos os campos; <br>
-		Verificar se a tabela foi alimentada; <br>
-		Verificar se a tabela e os cálculos estão coerentes com as porcentagens que foram definidas previamente; <br>
-		Verificar se a mensagem está coerente com o resultado dos cálculos; <br>
+		Verificar se a tabela foi alimentada corretamente; <br>
+		Verificar se a mensagem está coerente com os dados das despesas; <br>
 	</td>
 </tr>
 <tr>
@@ -1678,7 +1676,7 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 	<td>
 		A tabela demonstra corretamente os valores fornecidos nos campos da página dashboard; <br>
 		A tabela cumpre o papel proposto de comparar renda e despesas <br>
-		A tabela mostra a mensagem correta de acordo com a porcentagem da despesa em relação ao salário; <br>
+		A tabela mostra a mensagem correta de acordo com a porcentagem da despesas pré definido; <br>
 	</td>
 </tr>
 <tr>
@@ -1719,7 +1717,7 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 		Informar os dados em todos os campos; <br>
 		Verificar se a mensagem apareceu; <br>
 		Verificar se a mensagem modifica após a alteração dos dados; <br>
-		Verificar se a se a mensagem está coerente com as porcentagens do gráfico, ou seja, enquanto o salário for maior que as despesas a mensagem terá que ser positiva, caso contrário, será apresentada uma mensagem negativa; <br>
+		Verificar se a se a mensagem está coerente com as porcentagens do gráfico, ou seja, enquanto o salário for maior que as despesas a mensagem será que ser positiva, caso contrário, esta será negativa; <br>
 	</td>
 </tr>
 <tr>
