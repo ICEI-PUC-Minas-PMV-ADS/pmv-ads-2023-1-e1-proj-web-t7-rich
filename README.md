@@ -1026,7 +1026,7 @@ Figura 29- código JavaScript
 
 1. Abra um navegador de internet e informe o seguinte URL: [https://bieldrummer.github.io/ProjectEduFinan/](https://icei-puc-minas-pmv-ads.github.io/educacaofinanceira/Dashboard.html);
 2. Digite os valores nos campos indicados;
-3. Clique em 'Resultado'.
+3. Tecle enter, a mensagem aparecerá em seguida, entre os gráficos.
 
 
 **************************
