@@ -988,11 +988,11 @@ Figura xx - Código JS
 
 ### <a name="rf10">Dashboard - Mensagem orientativa (RF-10)</a>    
 
-Ainda na tela dashboard, após os dados serem inputados pelo usuário, o site apresentará um pop-up informativo, antes do usuário prosseguir para a próxima página.
+Ainda na tela dashboard, após os dados serem inputados pelo usuário, o site apresentará uma mensagem informativa para o usuário, dizendo se suas finanças estão bem distribuídas em relação a sua renda.
 <div align="center">
 O GIF abaixo mostra o requisito funcionando.
 	
-![Educação-Financeira-Google-Chrome-2023-05-13-23-37-43](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/b4f502a0-0bdd-4fd2-8bb3-08deec42a5e4)
+![desvantagens04](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/desvantagens04.gif)
 	
 </div>
 
@@ -1002,23 +1002,23 @@ O GIF abaixo mostra o requisito funcionando.
 
 ### Artefatos da funcionalidade
 
-* ProjectEduFinan.html
-* style.css
-* ProjectEduFinan.js
+* dashboard.html
+* dashboard.css
+* dashboard.js
 
 ### Estrutura de dados
 <div align="center">
 Figura 27 - código HTML.
 	
-![HTML](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/bd67b1c5-6104-4528-b214-e34b4c9efb73)
+![desvantagens01](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/desvantagens01.png)
 	
 Figura 28 - código CSS	
 
-![Css](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/bf6ad6e0-791d-4280-a45d-b8aa6e65e07f)
+![desvantagens03](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/desvantagens03.png)
 
 Figura 29- código JavaScript
 	
-![JavaScript](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/8d87fa02-e7ab-46b6-a3cc-693b9a78af40)
+![desvantagens02](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/desvantagens02.png)
 
 </div>
 	
