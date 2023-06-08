@@ -1792,7 +1792,8 @@ Os resultados obtidos nos testes de software realizados são descritos abaixo:
 
 ### <a name="rf01evidencia">Requisito 01</a>  
 
-**************************
+![RF-01](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/RF-01.gif)
+* T.1 - Testar o menu em todas as paginas.
 
 ### <a name="rf02evidencia">Requisito 02</a> 
 
@@ -1824,6 +1825,10 @@ Os resultados obtidos nos testes de software realizados são descritos abaixo:
 
 ![RF-05](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/vantagens05.png)  
 
+**************************
+### <a name="rf06evidencia">Requisito 06</a> 
+* T.6 - Testar a funcionalidade de conter imagens e textos relacionados ao tema.
+* ![RF-06](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/RF-06.gif)  
 **************************
 
 ### <a name="rf07evidencia">Requisito 07</a>  
