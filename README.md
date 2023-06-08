@@ -1466,8 +1466,6 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 
 **************************
 
-**************************
-
 ### <a name="rf06plano">Requisito 06</a>  
 
 <table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
@@ -1507,8 +1505,6 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 	</td>
 </tr>
 </table>
-
-**************************
 
 **************************
 
