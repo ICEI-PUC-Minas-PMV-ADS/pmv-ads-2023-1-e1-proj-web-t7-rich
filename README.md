@@ -988,7 +988,7 @@ Figura xx - Código JS
 
 ### <a name="rf09">Dashboard - Tabela (RF-09)</a>    
 
-Ainda na tela dashboard, após os dados serem inputados pelo usuário, após os gráficos, o site apresentará uma tabela para o usuário, que mostrará se cada dispesa da pessoa está dentro da porcentagem ideal para o salário dela. Esta tabela utilizará os mesmos dados imputados no inicio da tela e utilizará estes mesmos dados.
+Ainda na tela dashboard, após os dados serem inputados pelo usuário, o site apresentará uma tabela para o usuário, que mostrará se cada dispesa da pessoa está dentro da porcentagem ideal para o salário dela. Esta tabela utilizará os mesmos dados imputados no inicio da tela e utilizará estes mesmos dados.
 <div align="center">
 O GIF abaixo mostra o requisito funcionando.
 	
@@ -1890,11 +1890,19 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/ass
 
 **************************
 
-### <a name="rf09evidencia">Requisito 09</a>  
+### <a name="rf09evidencia">Requisito 09</a> 
+* T.9 - Verificar se a funcionalidade de aparecerem as mensagens ao clicar no botão 'Resumo'.
+* T.9 - Verificar se a tabela está sendo preencida corretamente com os dados imputados nos campos respectivos do dashboard.
+* T.9 - Verificar se a mensagem é alterada quando se altera os dados imputados.
+![TesteRF09](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/TesteRF09.gif)
 
 **************************
 
 ### <a name="rf10evidencia">Requisito 10</a> 
+* T.10 - Verificar se a mensagem aparece ao preencher os campos.
+* T.10 - Verificar se a mensagem modifica de acordo com os dados.
+* T.10 - Verificar se a mensagem está coerente em relação ao valores dispesas/renda.
+![TesteRF10](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/TesteRF10.gif)
 
 **************************
 
