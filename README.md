@@ -1693,7 +1693,52 @@ Os testes funcionais a serem realizados no site estão descritos a seguir:
 
 **************************
 
-### <a name="rf010plano">Requisito 10</a>  
+### <a name="rf010plano">Requisito 10</a> 
+
+<table border="1" cellspacing="1" cellpadding="1" style="border: thin solid black;">
+<tr>
+	<td>Caso de Teste</td>
+	<td>T.10 - Conter na página dashboard uma mensagem orientativa com base nos dados fornecidos pelo usuário.</td>
+</tr>
+<tr>
+	<td>Requisitos Associados</td>
+	<td>RF-09 - O Site deve apresentar, na página "Dashboard", uma mensagem orientativa resultante dos dados imputados. .</td>
+</tr>
+<tr>
+	<td>Objetivo do Teste </td>
+	<td>
+		Verificar se a mensagem aparece na tela ao imputar os dados nos campos;<br>
+		Verificar se a mensagem está mudando quando os dados forem alterados; <br>
+		Verificar a coerência das mensagens com os dados do gráfico; <br>
+	</td>
+</tr>
+<tr>
+	<td>Passos</td>
+	<td>
+		Acessar o site; <br>
+		Informar os dados em todos os campos; <br>
+		Verificar se a mensagem apareceu; <br>
+		Verificar se a mensagem modifica após a alteração dos dados; <br>
+		Verificar se a se a mensagem está coerente com as porcentagens do gráfico, ou seja, enquanto o salário for maior que as despesas a mensagem terá que ser positiva, caso contrário, será apresentada uma mensagem negativa; <br>
+	</td>
+</tr>
+<tr>
+	<td>Critérios de Êxito</td>
+	<td>
+		A mensagem está aparecendo; <br>
+		A mensagem está modificando de acordo com os dados imputados; <br>
+		A mensagem está correta; <br>
+	</td>
+</tr>
+<tr>
+	<td>Critérios de não Êxito</td>
+	<td>
+		A mensagem não aparece; <br>
+		A não modifica com relação aos dados imputados; <br>
+		A mensagem aparece de forma incorente com os dados imputados; <br>
+	</td>
+</tr>
+</table>
 
 **************************
 
