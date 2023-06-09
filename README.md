@@ -953,7 +953,7 @@ Figura 29 - Homepage
 
 #### Instruções de acesso
 
-1. Abra um navegador de Internet e informe a seguinte URL: [R01](https://icei-puc-minas-pmv-ads.github.io/educacaofinanceira/index.html)
+1. Abra um navegador de Internet e informe a seguinte URL: [R06](https://icei-puc-minas-pmv-ads.github.io/educacaofinanceira/index.html)
 
 **************************
 
@@ -984,6 +984,7 @@ Figura 30 - Dashboard - Campos de input de informações
 ### Estrutura de dados
 
 <div align="center">
+	
 ### HTML
 	
 ![estruturaDeDados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/d4b9948b-d14c-4099-beb8-34c907e8e933)
@@ -1000,7 +1001,7 @@ Figura 30 - Dashboard - Campos de input de informações
 
 ###  Instruções de acesso
 	
-1. Abra um navegador de internet e informe o seguinte URL: https://matheuspucgit.github.io/dashboard.html;
+1. Abra um navegador de internet e informe o seguinte URL:  [R07](https://matheuspucgit.github.io/dashboard.html;)
 2. Digite os valores nos campos indicados;
 3. Clique em "Resultado";
 
@@ -1084,6 +1085,7 @@ O GIF abaixo mostra o requisito funcionando.
 
 ### Estrutura de dados
 <div align="center">
+	
 ### HTML.
 	
 ![desvantagens05](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/desvantagens05.png)
@@ -1100,7 +1102,7 @@ O GIF abaixo mostra o requisito funcionando.
 	
 ### Instruções de acesso
 
-1. Abra um navegador de internet e informe o seguinte URL: https://icei-puc-minas-pmv-ads.github.io/educacaofinanceira/Dashboard.html;
+1. Abra um navegador de internet e informe o seguinte URL:  [R08](https://icei-puc-minas-pmv-ads.github.io/educacaofinanceira/Dashboard.html;)
 2. Digite os valores nos campos indicados;
 3. No fim da tela, clique no botão resumo, abaixo da tabela, as mensagens aparecerão em seguida à frente de cada despesa.
 
@@ -1128,6 +1130,7 @@ O GIF abaixo mostra o requisito funcionando.
 
 ### Estrutura de dados
 <div align="center">
+	
 ### HTML.
 	
 ![desvantagens01](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/desvantagens01.png)
