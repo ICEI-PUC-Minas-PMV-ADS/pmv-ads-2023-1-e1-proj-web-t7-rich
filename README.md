@@ -663,7 +663,7 @@ O menu tem como objetivo dar a possibilidade do usuário navegar entre todas as 
 
 <div align="center">
 
-Figura XX - Cabeçalho
+Figura 22 - Cabeçalho
 	
 ![Header](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-01.jpg)
 
@@ -683,7 +683,7 @@ Figura XX - Cabeçalho
 
 <div align="center">
 	
-### HTML	
+###HTML	
 	
 ![Código do Cabeçalho](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-02.png)
 
@@ -691,7 +691,7 @@ Figura XX - Cabeçalho
 
 <div align="center">
 	
-### CSS
+###CSS
 	
 ![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-04.png)
 ![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-05.png)
@@ -700,7 +700,7 @@ Figura XX - Cabeçalho
 </div>
 <div align="center">
 	
-### Javascript
+###Javascript
 	
 ![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-06.png)
 
@@ -720,7 +720,7 @@ A funcionalidade de traduzir os textos em libras está presente em todas as pág
 
 <div align="center">
 
-Figura 22 - Acessibilidade - Tradutor para Libras
+Figura 23 - Acessibilidade - Tradutor para Libras
 	
 ![Libras](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/ef5cea7a-21f9-4830-a142-109ad3d0adc1)
 
@@ -737,6 +737,7 @@ Figura 22 - Acessibilidade - Tradutor para Libras
 #### Estrutura de Dados 
 
 <div align="center">
+### Código HTML
 	
 ![Dados Libras](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/default02.PNG)
 
@@ -755,7 +756,7 @@ A funcionalidade de aumentar e diminuir os textos está presente em todas as pá
 
 <div align="center">
 
-Figura 23 - Acessibilidade - Aumentar e Diminuir fonte 
+Figura 24 - Acessibilidade - Aumentar e Diminuir fonte 
 	
 ![Aumentar e Diminuir fonte](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/acessibilidadeFonte01.png)
 
@@ -803,7 +804,7 @@ A funcionalidade do Rodapé foi desenvolvida como um componente reutilizável e 
 
 <div align="center">
 
-Figura 33 - Rodapé
+Figura 25 - Rodapé
 	
 ![Rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/rodape01.PNG)
 
@@ -813,7 +814,7 @@ Por se tratar de um componente reutilizável que visa otimizar o aproveitamento 
 
 <div align="center">
 
-Figura 34 - Importação do Rodapé
+Figura 26 - Importação do Rodapé
 	
 ![Importação do Rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/rodape03.png)
 
@@ -859,7 +860,7 @@ A funcionalidade de conter textos e imagens relacionados ao tema em todas as pá
 
 <div align="center">
 
-Figura 35 - Texto e Imagens
+Figura 27 - Texto e Imagens
 	
 ![Textos e Imagens](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/TextoseImagens01.png)
 
@@ -869,7 +870,7 @@ Segue apresentado as ações necessárias feitas no HTML da página "Vantagens":
 
 <div align="center">
 
-Figura 36 - Importação da Imagem	
+Figura 28 - Importação da Imagem	
 
 ![Textos e Imagens](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/TextoseImagens02.png)
 
@@ -915,7 +916,7 @@ A Página Home tem como objetivo apresentar e chamar atenção das outras págin
 
 <div align="center">
 
-Figura XX - Homepage
+Figura 29 - Homepage
 	
 ![Index](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/Index-001.png)
 
@@ -964,7 +965,7 @@ Nessa tela, está contido os campos onde serão imputados as despesas fixas do u
 
 <div align="center">
 
-Figura 23 - Dashboard - Campos de input de informações
+Figura 30 - Dashboard - Campos de input de informações
 	
 ![Dashboard](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/Figura23.png)
 	
@@ -983,15 +984,15 @@ Figura 23 - Dashboard - Campos de input de informações
 ### Estrutura de dados
 
 <div align="center">
-Figura 24 - Código HTML
+### HTML
 	
 ![estruturaDeDados](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/d4b9948b-d14c-4099-beb8-34c907e8e933)
 	
-Figura 25 - Código CSS
+### CSS
 	
 ![figura25](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/6f68561f-1f67-4c65-a3a7-e27116ec9625)
 	
-Figura 26 - Código JS
+### Javascript
 
 ![figura26](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/f373a639-9cc7-4262-95bd-02c0d7c9ae92)	
 	
@@ -1011,14 +1012,14 @@ Essa tela contém todos os gráficos com os valores digitados em cada categoria.
 
 <div align="center">
 
-Figura xx - Dashboard - Gráficos de rosca
+Figura 31 - Dashboard - Gráficos de rosca
 	
 ![GrafRosca](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/2aaacd49-d6ae-4be3-bf6b-6604c2c74f47)
 	
 </div>
 <div align="center">
 
-Figura xx - Dashboard - Gráficos de barra
+Figura 32 - Dashboard - Gráficos de barra
 	
 ![GrafBarra](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/d97a9781-a519-4bab-861a-e82e299739b1)
 	
@@ -1026,7 +1027,7 @@ Figura xx - Dashboard - Gráficos de barra
 ### Requisitos atendidos
 	
 * RF-08
-
+	
 #### Artefatos da funcionalidade
 
 * dashboard.html
@@ -1036,15 +1037,15 @@ Figura xx - Dashboard - Gráficos de barra
 ### Estrutura de dados
 
 <div align="center">
-Figura xx - Código HTML
+### HTML
 	
 ![htmlGraf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/b14c68eb-49f7-4905-acc7-4d82687f7ae4)
 	
-Figura xx - Código CSS
+### CSS
 	
 ![cssGraf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/7541a91c-3ae2-468d-8acd-adcf45eabcac)
 	
-Figura xx - Código JS
+### Javascript
 
 ![jsGrafPt1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/495c6b7e-68a3-43f8-967a-a17fa3a821d5)
 ![jsGrafPt2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/d37e2d3c-5053-4464-a0dc-f30de109963b)
@@ -1052,6 +1053,11 @@ Figura xx - Código JS
 
 </div>
 
+### Instruções de acesso
+
+1. Abra um navegador de internet e informe o seguinte URL: https://icei-puc-minas-pmv-ads.github.io/educacaofinanceira/Dashboard.html;
+2. Digite os valores nos campos indicados;
+3. Os gráficos são alimentados automáticamente.
 **************************
 
 ### <a name="rf09">Dashboard - Tabela (RF-09)</a>    
@@ -1076,15 +1082,15 @@ O GIF abaixo mostra o requisito funcionando.
 
 ### Estrutura de dados
 <div align="center">
-Figura 27 - código HTML.
+### HTML.
 	
 ![desvantagens05](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/desvantagens05.png)
 	
-Figura 28 - código CSS	
+### CSS	
 
 ![desvantagens06](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/desvantagens06.png)
 
-Figura 29- código JavaScript
+### JavaScript
 	
 ![desvantagens07](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/desvantagens07.png)
 
@@ -1120,15 +1126,15 @@ O GIF abaixo mostra o requisito funcionando.
 
 ### Estrutura de dados
 <div align="center">
-Figura 27 - código HTML.
+### HTML.
 	
 ![desvantagens01](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/desvantagens01.png)
 	
-Figura 28 - código CSS	
+### CSS	
 
 ![desvantagens03](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/desvantagens03.png)
 
-Figura 29- código JavaScript
+### JavaScript
 	
 ![desvantagens02](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/desvantagens02.png)
 
@@ -1148,7 +1154,7 @@ A página Cases de Sucesso tem por objetivo apresentar relatos de casos que obti
 
 <div align="center">
 
-Figura 31 - Página Cases de Sucesso Completa
+Figura 33 - Página Cases de Sucesso Completa
 	
 ![Página Cases de Sucesso Completa](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/casesucesso05.PNG)
 
@@ -1197,7 +1203,7 @@ A Funcionalidade de apresentar vídeos sobre a educação financeira encontra-se
 
 <div align="center">
 	
-Figura 33 - Vídeos relacionados à Educação Financeira (RF-12)	
+Figura 34 - Vídeos relacionados à Educação Financeira (RF-12)	
 	
 ![Figura33](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/b3545438-5f31-4bc8-ac69-69792c5fbc73)
 	
@@ -1214,7 +1220,7 @@ Figura 33 - Vídeos relacionados à Educação Financeira (RF-12)
 
 <div align="center">
 
-Figura 33 - Código HTML/CSS
+### HTML/CSS
 	
 ![Figura32](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/Figura32.png)
 
