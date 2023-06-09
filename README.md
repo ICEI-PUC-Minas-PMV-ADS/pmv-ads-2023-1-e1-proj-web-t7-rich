@@ -1199,7 +1199,7 @@ A Funcionalidade de apresentar vídeos sobre a educação financeira encontra-se
 	
 Figura 33 - Vídeos relacionados à Educação Financeira (RF-12)	
 	
-![Requito 12](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/RF-12%20template.png)
+![Figura33](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/b3545438-5f31-4bc8-ac69-69792c5fbc73)
 	
 </div>
 
