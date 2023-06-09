@@ -683,7 +683,7 @@ Figura 22 - Cabeçalho
 
 <div align="center">
 	
-###HTML	
+### HTML	
 	
 ![Código do Cabeçalho](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-02.png)
 
@@ -691,7 +691,7 @@ Figura 22 - Cabeçalho
 
 <div align="center">
 	
-###CSS
+### CSS
 	
 ![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-04.png)
 ![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-05.png)
@@ -700,7 +700,7 @@ Figura 22 - Cabeçalho
 </div>
 <div align="center">
 	
-###Javascript
+### Javascript
 	
 ![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-06.png)
 
@@ -737,7 +737,7 @@ Figura 23 - Acessibilidade - Tradutor para Libras
 #### Estrutura de Dados 
 
 <div align="center">
-### Código HTML
+### HTML
 	
 ![Dados Libras](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/default02.PNG)
 
@@ -1024,6 +1024,7 @@ Figura 32 - Dashboard - Gráficos de barra
 ![GrafBarra](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/d97a9781-a519-4bab-861a-e82e299739b1)
 	
 </div>
+
 ### Requisitos atendidos
 	
 * RF-08
@@ -1037,6 +1038,7 @@ Figura 32 - Dashboard - Gráficos de barra
 ### Estrutura de dados
 
 <div align="center">
+	
 ### HTML
 	
 ![htmlGraf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/b14c68eb-49f7-4905-acc7-4d82687f7ae4)
