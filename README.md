@@ -722,7 +722,7 @@ A funcionalidade de traduzir os textos em libras está presente em todas as pág
 
 Figura 22 - Acessibilidade - Tradutor para Libras
 	
-![Libras](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/default01.PNG)
+![Libras](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756662/ef5cea7a-21f9-4830-a142-109ad3d0adc1)
 
 </div>
 
@@ -966,7 +966,7 @@ Nessa tela, está contido os campos onde serão imputados as despesas fixas do u
 
 Figura 23 - Dashboard - Campos de input de informações
 	
-![figura23](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/63ee947a-985b-417d-a009-91f18f82d55a)
+![Dashboard](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/Figura23.png)
 	
 </div>
 	
@@ -1216,7 +1216,8 @@ Figura 33 - Vídeos relacionados à Educação Financeira (RF-12)
 
 Figura 33 - Código HTML/CSS
 	
-![RF-12](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/img/RF-12.png)
+![Vídeo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/Figura33.png)
+
 
 </div>
 	
