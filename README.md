@@ -655,6 +655,65 @@ Figura 21 - Template padrão do site
 ## <a name="funcionalidadessistema">Funcionalidades do Sistema </a>
 Nesta seção são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) e outras orientações de acesso são apresentadas na sequência.
 
+**************************
+
+### <a name="rf-01"> Menu Cabeçalho(RF-01)</a> 
+
+O menu tem como objetivo dar a possibilidade do usuário navegar entre todas as páginas sem que exista a necessidade de retornar a página principal
+
+<div align="center">
+
+Figura XX - Cabeçalho
+	
+![Header](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-01.jpg)
+
+</div>
+
+#### Requisitos atendidos
+
+* RF-01
+
+#### Artefatos da funcionalidade
+
+* Código HTML adicionado em cada uma das páginas do site.
+* Header.css
+* Header.js
+
+#### Estrutura de Dados 
+
+<div align="center">
+	
+### HTML	
+	
+![Código do Cabeçalho](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-02.png)
+
+</div>
+
+<div align="center">
+	
+### CSS
+	
+![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-04.png)
+![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-05.png)
+
+
+</div>
+<div align="center">
+	
+### Javascript
+	
+![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-06.png)
+
+
+</div>
+
+
+#### Instruções de acesso
+
+1. Abra um navegador de Internet e informe a seguinte URL: [R01](https://icei-puc-minas-pmv-ads.github.io/educacaofinanceira/index.html)
+
+**************************
+
 ### <a name="rf02">Acessibilidade - Tradutor para Libras (RF-02)</a>    
 
 A funcionalidade de traduzir os textos em libras está presente em todas as páginas dos site. A figura 22, apresenta o exemplo do tradutor de libras disponível em tela. O código referente a essa funcionalidade está arquivado na pasta "src" deste projeto, estruturada no HTML contendo importação de link externo. 
@@ -850,43 +909,52 @@ Figura 36 - Importação da Imagem
 
 **************************
 
-### <a name="rf06">Homepage - Redirecionamento de Páginas (RF-06)</a>    
+### <a name="rf-06"> Página Homepage Completa(RF-06)</a> 
+
+A Página Home tem como objetivo apresentar e chamar atenção das outras páginas do site.
 
 <div align="center">
 
-Figura 30 - Redirecionamento
+Figura XX - Homepage
 	
-![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/Index-001.png)
+![Index](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/Index-001.png)
 
 </div>
+
+#### Requisitos atendidos
+
+* RF-06
 
 #### Artefatos da funcionalidade
+
 * index.html
 * index.css
-* default.css
 
-#### Estrutura de Dados
+#### Estrutura de Dados 
 
 <div align="center">
-
-Figura 31 - Código HTML
 	
-![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep3/MicrosoftTeams-image.png)
-
-</div>
+### HTML	
 	
-<div align="center">
-
-Figura 32 - Código CSS
-	
-![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep3/css-rf06.png)
+![Codigo Index](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/index-002.png)
 
 </div>
 
-### Instruções de Acesso
+<div align="center">
+	
+### CSS
+	
+![Codigo Index](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/index-003.png)
+![Codigo Index](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/index-004.png)
 
-1. Abra um navegador de internet e informe o seguinte URL: https://pedro-hfc.github.io/paginaPrincipalRich/;
-2. Clique em qualquer uma das imagens ou textos com base na página desejada e seja redirecionado
+
+</div>
+
+#### Instruções de acesso
+
+1. Abra um navegador de Internet e informe a seguinte URL: [R01](https://icei-puc-minas-pmv-ads.github.io/educacaofinanceira/index.html)
+
+**************************
 
 **************************
 
@@ -1071,111 +1139,6 @@ Figura 29- código JavaScript
 1. Abra um navegador de internet e informe o seguinte URL: https://icei-puc-minas-pmv-ads.github.io/educacaofinanceira/Dashboard.html;
 2. Digite os valores nos campos indicados;
 3. Tecle enter, a mensagem aparecerá em seguida, entre os gráficos.
-
-
-**************************
-
-### <a name="rf-01"> Menu Cabeçalho(RF-01)</a> 
-
-O menu tem como objetivo dar a possibilidade do usuário navegar entre todas as páginas sem que exista a necessidade de retornar a página principal
-
-<div align="center">
-
-Figura XX - Cabeçalho
-	
-![Header](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-01.jpg)
-
-</div>
-
-#### Requisitos atendidos
-
-* RF-01
-
-#### Artefatos da funcionalidade
-
-* Código HTML adicionado em cada uma das páginas do site.
-* Header.css
-* Header.js
-
-#### Estrutura de Dados 
-
-<div align="center">
-	
-### HTML	
-	
-![Código do Cabeçalho](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-02.png)
-
-</div>
-
-<div align="center">
-	
-### CSS
-	
-![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-04.png)
-![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-05.png)
-
-
-</div>
-<div align="center">
-	
-### Javascript
-	
-![Código do rodapé](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/header-06.png)
-
-
-</div>
-
-
-#### Instruções de acesso
-
-1. Abra um navegador de Internet e informe a seguinte URL: [R01](https://icei-puc-minas-pmv-ads.github.io/educacaofinanceira/index.html)
-
-**************************
-
-### <a name="rf-06"> Página Homepage Completa(RF-06)</a> 
-
-A Página Home tem como objetivo apresentar e chamar atenção das outras páginas do site.
-
-<div align="center">
-
-Figura XX - Homepage
-	
-![Index](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/Index-001.png)
-
-</div>
-
-#### Requisitos atendidos
-
-* RF-06
-
-#### Artefatos da funcionalidade
-
-* index.html
-* index.css
-
-#### Estrutura de Dados 
-
-<div align="center">
-	
-### HTML	
-	
-![Codigo Index](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/index-002.png)
-
-</div>
-
-<div align="center">
-	
-### CSS
-	
-![Codigo Index](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/index-003.png)
-![Codigo Index](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/index-004.png)
-
-
-</div>
-
-#### Instruções de acesso
-
-1. Abra um navegador de Internet e informe a seguinte URL: [R01](https://icei-puc-minas-pmv-ads.github.io/educacaofinanceira/index.html)
 
 **************************
 
