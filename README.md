@@ -1216,7 +1216,7 @@ Figura 33 - Vídeos relacionados à Educação Financeira (RF-12)
 
 Figura 33 - Código HTML/CSS
 	
-![Vídeo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/Figura33.png)
+![Figura32](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/Figura32.png)
 
 
 </div>
