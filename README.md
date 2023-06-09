@@ -856,7 +856,7 @@ Figura 36 - Importação da Imagem
 
 Figura 30 - Redirecionamento
 	
-![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep3/telaHomepage.png)
+![Kanban GitHub Project](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/Index-001.png)
 
 </div>
 
