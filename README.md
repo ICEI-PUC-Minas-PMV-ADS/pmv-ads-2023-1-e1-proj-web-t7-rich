@@ -463,7 +463,7 @@ Estão apresentadas na tabela a seguir, as plataformas utilizadas para o desenvo
 <tr>
 	<td>Repositório de código fonte &nbsp; </td>
 	<td>Github &nbsp; </td>
-	<td>https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/src/README.md &nbsp; </td>
+	<td>https://github.com/ICEI-PUC-Minas-PMV-ADS/educacaofinanceira &nbsp; </td>
 </tr>
 
 <tr>
@@ -1064,7 +1064,7 @@ A figura abaixo mostra o requisito funcionando.
 
 Figura 51 - Tabela
 	
-![Tabela](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/desvantagens08.gif)
+![Tabela2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/Tabela2.png)
 	
 </div>
 
@@ -1110,7 +1110,7 @@ O figura abaixo mostra o requisito funcionando.
 	
 Figura 55 - Mensagem Orientativa
 	
-![desvantagens04](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/desvantagens04.gif)
+![Mensagem](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/Mensagem.png)
 	
 </div>
 
