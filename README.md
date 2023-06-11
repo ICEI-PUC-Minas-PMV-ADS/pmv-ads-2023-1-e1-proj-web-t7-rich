@@ -1862,7 +1862,7 @@ Figura 69
 * T.7 - Teste dos campos para inserção de dados.
 
 Figura 70
-![TesteRF07](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/f20b4f9a-184d-4402-a4fe-8e14b710472e)
+![TesteRF07](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/4840b5c2-341c-4084-8722-a2376955db70)
 
 **************************
 
@@ -1870,7 +1870,7 @@ Figura 70
 * T.8 - Teste dos gráficos do dashboard
 
 Figura 71
-![TesteRF08]https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/aab8f91c-df32-4de8-a964-97a75c98eda8
+![TesteRF08](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/915f8e82-a7c8-47cf-938c-e2a05778a1ad)
 
 **************************
 
