@@ -1001,7 +1001,7 @@ Figura 45 - Código JS
 
 ###  Instruções de acesso
 	
-1. Abra um navegador de internet e informe o seguinte URL: https://matheuspucgit.github.io/dashboard.html;
+1. Abra um navegador de internet e informe o seguinte URL:  [R07](https://matheuspucgit.github.io/dashboard.html)
 2. Digite os valores nos campos indicados;
 3. Clique em "Resultado";
 
@@ -1025,6 +1025,7 @@ Figura 47 - Dashboard - Gráficos de barra
 ![GrafBarra](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/d97a9781-a519-4bab-861a-e82e299739b1)
 	
 </div>
+
 ### Requisitos atendidos
 	
 * RF-08
@@ -1053,7 +1054,11 @@ Figura 50 - Código JS
 ![jsGrafPt3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/assets/128756585/c1a19694-f919-4557-aca2-30f7a54bca25)	
 
 </div>
-
+###  Instruções de acesso
+	
+1. Abra um navegador de internet e informe o seguinte URL:  [R08](https://icei-puc-minas-pmv-ads.github.io/educacaofinanceira/Dashboard.html)
+2. Digite os valores nos campos indicados;
+3. Os gráficos são alimentados automaticamente;
 **************************
 
 ### <a name="rf09">Dashboard - Tabela (RF-09)</a>    
