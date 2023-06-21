@@ -1,1 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root {
+    --corPadraoAzul: #add8e6;
+    --corPadraoAzulClaro: #bbd5dd;
+    --corPadraoAzulEscuro: #2b94b8;
+    --corPadraoPreto: #000000;
+    --corPadraoBranco: #fbfeff;
+    --corPadraoCinza: #7b7a7b;
+    --fontTitle: #000000;
+    --legend: #000000;   
+}
 
+.header{
+width: 100%;    
+height: 70px;
+}
+
+body{
+    background-image: linear-gradient(to bottom, white, #add8e6);
+    height: 100%;    
+    font-family: 'Open+Sans', sans-serif;
+    font-size: 12px;
+    line-height: 1.5;
+}
+h1 {
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+}
+main{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 40px;
+}
+
+aside{
+    width: 15%;
+    height: 100%;
+    text-align: center;
+    padding-top: 10px;
+    margin-right: 25px;
+}
+
+aside ul{
+    list-style: none;
+}
+
+#main-content{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    margin: 0px 10px 10px 0px;
+    padding-bottom: 1%;
+    
+}
+
+#intro{      
+    height: 100%;
+    padding: 10px 25px;
+    text-align: justify;  
+}
+
+#box{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+    text-align: justify;    
+}
+
+
+.box2{
+    width: 50%;
+    padding: 20px 25px;
+}
+
+aside > div{
+    text-align: left;
+}
+
+aside a{
+    text-decoration: hover;
+    color: var(--corPadraoPreto);
+    
+}
+
+aside a:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    color: var(--corPadraoAzulEscuro);    
+}
+
+aside > ul#links{
+    height: 100px;
+    padding-left: 30px ;
+}
+
+ul#links {
+    height: 100%;
+    display: inline-block;
+    width: 100%;
+    line-height: 25px;
+}
+
+div.box2 > img,
+div.box2 > iframe {
+    width: 100%;
+    padding-top: 50px;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 66.25%;
+    height: 0;
+    overflow: hidden;
+    margin-top: 50px;
+  }
+  
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  aside h3{
+    text-align: left;
+    display: block;
+  }
+
+  @media(max-width: 950px){
+    main{
+        width: 100%;        
+    }
+    #main-content{
+        margin: 5px;
+        width: 98%;
+    }
+    aside{
+        margin-left: 25px;
+    }
+
+    #box{
+        display: flex;
+        flex-direction: column;
+    }
+    .box2,
+    #intro{
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+    
+    #box > div#nome-sujo,
+    div.box2 > img{
+        margin-top: 5px;
+        width: 123%;
+        padding: 0;
+    }
+    
+    .video-container {
+        position: relative;
+        padding-bottom: 66.25%;
+        height: 0;
+        overflow: hidden;
+        margin-top: 5px;
+        width: 100%;    
+    }
+}
+
+@media(max-width: 650px){
+    main{
+        display: flex;
+        flex-direction: column;
+        margin-top: 100px;
+    }
+    #main-content{
+        margin: 5px;
+        width: 98%;
+    }
+    #box > div#nome-sujo,
+    div.box2 > img{
+        width: 100%;
+    }
+    aside{
+        width: 98%;
+        padding: 0;
+        margin: 5px;
+    }
+    aside h3{
+        text-align: center;
+    }
+}
