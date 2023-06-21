@@ -1,0 +1,93 @@
+/*>>>>>> padrões e cabeçalho */
+*{
+    margin: 0;
+    padding: 0;
+}
+:root {
+  --corPadraoAzul: #add8e6;
+  --corPadraoAzulClaro: #bbd5dd;
+  --corPadraoAzulEscuro: #2b94b8;
+  --corPadraoPreto: #000000;
+  --corPadraoBranco: #fbfeff;
+  --corPadraoCinza: #7b7a7b;
+  --fontTitle: #000000;
+  --legend: #000000;
+}
+html {
+    height: 100%;
+    font-family: "Open+Sans", sans-serif;
+}
+body {
+    background-image: linear-gradient(to bottom, white, #add8e6);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.background {
+  height: 100vh;
+  font-size: 12px;
+  line-height: 1.5rem;
+}
+.header{
+  width: 100%;  
+  height: 70px; 
+}
+h1 {
+  text-align: center;
+  padding: 20px;
+  font-size: 24px;
+}
+.cards img {
+  border-radius: 100%;
+  max-width: 100%;
+  box-shadow: var(--corPadraoAzulEscuro) 2px 2px 2px;
+  height: auto;
+}
+
+#intro {
+  height: 10vh;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  color: var(--corPadraoCinza);
+}
+.container{
+  display: flex;
+}
+
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+
+  height: 60vh;
+  width: 80%;
+  margin: auto;
+}
+.card{
+  height: 50vh;
+  width: 16%;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+}
+
+
+/*>>>>>> responsividade */
+@media screen and (max-width: 800px) {
+  .card {
+    flex-basis: 100%;
+    text-align: center;
+    height: max-content;
+    padding: 20px;
+ }
+ img {
+  border-radius: 100%;
+  background-color: var(--corPadraoAzulClaro);
+  max-width: 100%;
+  height: auto;
+}
+#fistImg {
+    margin-top: 100px;
+}
+}
+ 
