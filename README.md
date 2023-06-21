@@ -1935,6 +1935,7 @@ Na tabela a seguir, estão detalhes os responsáveis pelo desenvolvimento de cad
 	<td>Etapa 2</td>
 	<td>Etapa 3</td>
 	<td>Etapa 4</td>
+	<td>Etapa 5</td>
 </tr>
 
 <tr>
@@ -1943,6 +1944,7 @@ Na tabela a seguir, estão detalhes os responsáveis pelo desenvolvimento de cad
 	<td>Projeto de interface - Wireframes Desvantagem  <br><br> Metodologia - Relação de ambientes de trabalho</td>
 	<td>RF-10</td>
 	<td>RF-09  <br><br> caso e evidência:RF-09, RF-10</td>
+	<td>Apresentação do projeto</td>
 </tr>
 	
 <tr>
@@ -1951,6 +1953,7 @@ Na tabela a seguir, estão detalhes os responsáveis pelo desenvolvimento de cad
 	<td>Arquitetura de solução - Hospedagem <br><br> Projeto de interface - Wireframes Vantagens</td>
 	<td>RF-12</td>
 	<td>RF-05 <br><br> caso e evidência:RF-05, RF-12</td>
+	<td>Elaboração do documento para a apresentação</td>
 </tr>
 	
 <tr>
@@ -1959,12 +1962,14 @@ Na tabela a seguir, estão detalhes os responsáveis pelo desenvolvimento de cad
 	<td>Arquitetura de solução - Diagrama de Componentes <br><br> Projeto de interface - Wireframes Dashboard</td>
 	<td>RF-07</td>
 	<td>RF-08 <br><br> caso e evidência:RF-07, RF-08</td>
+	<td>Elaboração do documento para a apresentação e gravação do vídeo mostrando o site hospedado</td>
 </tr>
 	
 <tr>
 	<td>Pedro Henrique De Oliveira Lima</td>
 	<td>Documento de contexto - Público alvo <br><br> Especificação do projeto - 3 personas</td>
 	<td>Projeto de interface - Wireframes Cases de sucesso <br><br> Apoio na padronização dos Wireframes</td>
+	<td>-</td>
 	<td>-</td>
 	<td>-</td>
 </tr>
@@ -1975,6 +1980,7 @@ Na tabela a seguir, estão detalhes os responsáveis pelo desenvolvimento de cad
 	<td>Projeto de interface - Wireframes Home Page <br><br> Projeto de interface - Fluxo do usuário</td>
 	<td>RF 06</td>
 	<td>RF-01 <br><br> caso e evidência:RF-01, RF 06</td>
+	<td>Apresentação do projeto</td>
 </tr>
 	
 <tr>
@@ -1983,6 +1989,7 @@ Na tabela a seguir, estão detalhes os responsáveis pelo desenvolvimento de cad
 	<td>Metodologia - Gerenciamento do projeto <br><br> Projeto de interface - Wireframes Geral <br><br> Apoio na padronização dos wireframes</td>
 	<td>RF-02 <br><br> Template padrão do site, Criação repositório hospedagem</td>
 	<td>RF-03 <br><br> RF-04 <br><br> RF-11 <br><br> caso e evidência:RF-03, RF-04, RF-11</td>
+	<td>Elaboração da página "Sobre"; Regularização geral e final do layout do projeto; Revisão do vídeo e do material para apresentação</td>
 </tr>
 	
 <tr>
@@ -1991,6 +1998,7 @@ Na tabela a seguir, estão detalhes os responsáveis pelo desenvolvimento de cad
 	<td>Projeto de interface - Wireframes Revisão geral, Arquitetura da solução - Revisão geral, Projeto de interface - Revisão geral, Metodologia - Revisão geral</td>
 	<td>Etapa 3</td>
 	<td>Definição do root, estilo, tamanho e cor da fonte, do padding e da margin, background, logomarca, nome dos arquivos e imagens e responsividade.</td>
+	<td>Revisão geral</td>
 </tr>
 	
 </table>
@@ -2012,16 +2020,8 @@ Na tabela a seguir, estão detalhes os responsáveis pelo desenvolvimento de cad
 
 * CARRANÇA, THAIS. Brasil bate recorde de endividados: 'Com nome sujo, a gente não é nada. BBC. DISPONIVEL EM: https://www.bbc.com/portuguese/articles/c257e50r9rlo#:~:text=Assim%2C%20essa%20modalidade%20de%20crédito,bilhões%20em%20dívidas%20em%20atraso. ACESSO EM: 14 MAR. 2023 
 	
-
 </ol>
 
-# Hospedagem
-
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
-
-# Armazenamento do Código-Fonte
-
-* <a href="src/README.md">Código Fonte</a>
 
 # Armazenamento da Apresentação
 
