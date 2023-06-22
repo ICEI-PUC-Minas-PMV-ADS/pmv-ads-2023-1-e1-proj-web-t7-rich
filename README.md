@@ -958,8 +958,6 @@ Figura 41 - Código  CSS
 
 **************************
 
-**************************
-
 ### <a name="rf07">Dashboard - Campos de input de informações (RF-07)</a>    
 
 Nessa tela, está contido os campos onde serão imputados as despesas fixas do usuário. A figura 42 apresenta os campos existentes e o local onde se deve inserir os valors além de um campo "resultado" que soma os valores inseridos
@@ -1856,7 +1854,7 @@ Figura 68
 * T.6 - Testar a funcionalidade de conter imagens e textos relacionados ao tema.
 
 Figura 69
-* ![RF-06](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/RF-06.gif)  
+![RF-06](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep4/RF-06.gif)  
 **************************
 
 ### <a name="rf07evidencia">Requisito 07</a>  
@@ -2003,7 +2001,9 @@ Na tabela a seguir, estão detalhes os responsáveis pelo desenvolvimento de cad
 	
 </table>
 
-## <a name="apresentacao">Apresentação do Projeto</a>
+# Armazenamento da Apresentação
+
+* <a href="presentation/README.md">Apresentação da solução</a>
 
 ## Referências	
 &nbsp;&nbsp; A lista a seguir traz as referências utilizadas nesse trabalho. são elas: 
@@ -2023,8 +2023,6 @@ Na tabela a seguir, estão detalhes os responsáveis pelo desenvolvimento de cad
 </ol>
 
 
-# Armazenamento da Apresentação
 
-* <a href="presentation/README.md">Apresentação da solução</a>
 
 
