@@ -2001,7 +2001,7 @@ Na tabela a seguir, estão detalhes os responsáveis pelo desenvolvimento de cad
 	
 </table>
 
-# <a href="presentation">Armazenamento da Apresentação</a>
+## <a name="presentation">Armazenamento da Apresentação</a>
 
 Para a apresentação do projeto foi criado o video em formato mp4 e um conjunto de slides em um arquivo no formato ppt. Ambos foram alocados na pasta "presentation" conforme soicitado. Endereços:
  * Slides: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/presentation/Apresenta%C3%A7%C3%A3o%20de%20solu%C3%A7%C3%A3o_Rich.pptx
