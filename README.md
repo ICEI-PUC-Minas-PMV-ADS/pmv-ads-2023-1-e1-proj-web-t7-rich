@@ -46,7 +46,7 @@
  <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#rf12evidencia"> RF-12</a>
 <li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#hospedagem"> hospedagem</a></li>
 <li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#alunoxrequisito"> Responsáveis pelo desenvolvimento dos requisitos</a></li>
-<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#apresentacao"> Apresentação do Projeto</a></li>
+<li><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/README.md#presentation"> Apresentação do Projeto</a></li>
 
 
 # EDUCAÇÃO FINANCEIRA
@@ -2001,9 +2001,11 @@ Na tabela a seguir, estão detalhes os responsáveis pelo desenvolvimento de cad
 	
 </table>
 
-# Armazenamento da Apresentação
+# <a href="presentation">Armazenamento da Apresentação</a>
 
-* <a href="presentation/README.md">Apresentação da solução</a>
+Para a apresentação do projeto foi criado o video em formato mp4 e um conjunto de slides em um arquivo no formato ppt. Ambos foram alocados na pasta "presentation" conforme soicitado. Endereços:
+ * Slides: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/presentation/Apresenta%C3%A7%C3%A3o%20de%20solu%C3%A7%C3%A3o_Rich.pptx
+ * Video: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/presentation/Richpresentation.mp4
 
 ## Referências	
 &nbsp;&nbsp; A lista a seguir traz as referências utilizadas nesse trabalho. são elas: 
