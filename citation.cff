@@ -1,0 +1,24 @@
+message: Please cite this software using these metadata.
+title: Rich
+authors:
+  - family-names: Soares da Silva
+    given-names: Matheus
+  - family-names: Augusto Mendes Do Espirito Santo
+    given-names: Gabriel 
+  - family-names: Poliane De Oliveira
+    given-names: Lorena 
+  - family-names: Fernandes Silva
+    given-names: Talita
+  - family-names: Henrique Filgueiras Couto
+    given-names: Pedro 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: De Assis Alves Da Silva
+    given-names: Simone 
+keywords:
+  - Educação
+  - Finanças
+  - Gerenciamento
+repository-code:https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich
+version: 1.0.0
+date-released: 2023-06-25
